@@ -1,0 +1,2004 @@
+[
+  {
+    "id": "nana",
+    "type": "poem",
+    "title": {
+      "ce": "Нана",
+      "ru": "Мать",
+      "en": "Mother",
+      "fr": "Mère"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "нана",
+      "безам",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Нана, хьо санна хаза цхьа а дац, / Дуьненахь хьо санна еза цхьа а яц.",
+      "en": "Mother, no one is as beautiful as you,",
+      "fr": "Mère, personne n'est plus belle que toi,"
+    }
+  },
+  {
+    "id": "noxchiicho",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийчоь",
+      "ru": "Чечня",
+      "en": "Chechnya",
+      "fr": "Tchétchénie"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Нохчийчоь — сан даймохк, сан безам, / Хьан лаьмнаш — сан дагна тийна дош.",
+      "en": "Chechnya — my homeland, my love,",
+      "fr": "Tchétchénie — ma patrie, mon amour,"
+    }
+  },
+  {
+    "id": "illi-turpala",
+    "type": "song",
+    "title": {
+      "ce": "Турпалаха лаьцна илли",
+      "ru": "Илли о герое",
+      "en": "Illi about a hero",
+      "fr": "Illi sur un héros"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "турпала",
+      "къонаха"
+    ],
+    "text_preview": {
+      "ce": "Аренахь говр хохкуш, турпал кӀант ву, / Даймохк ларбеш, цуьнан дог ду.",
+      "en": "In the field, a hero rides a horse,",
+      "fr": "Dans la plaine, un héros galope à cheval,"
+    }
+  },
+  {
+    "id": "nokhchiin-g1illakh",
+    "type": "prose",
+    "title": {
+      "ce": "Нохчийн гӀиллакх",
+      "ru": "Чеченский этикет",
+      "en": "Chechen Etiquette",
+      "fr": "L'étiquette tchétchène"
+    },
+    "author": "Магомед Мамакаев",
+    "tags": [
+      "гӀиллакх",
+      "оьздангалла",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Нохчийн гӀиллакх — иза халкъан са ду. Оьздангалла доцуш стаг хила йиш яц."
+    }
+  },
+  {
+    "id": "sintem-bats",
+    "type": "poem",
+    "title": {
+      "ce": "Синтем бац",
+      "ru": "Нет покоя",
+      "en": "No Peace",
+      "fr": "Pas de paix"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "безам",
+      "синтем",
+      "сурт"
+    ],
+    "text_preview": {
+      "ce": "Денош ма дӀаоьху, / Хьо гучу ца волуш...",
+      "en": "The days pass by,",
+      "fr": "Les jours passent,"
+    }
+  },
+  {
+    "id": "bezam",
+    "type": "poem",
+    "title": {
+      "ce": "Безам",
+      "ru": "Любовь",
+      "en": "Love",
+      "fr": "Amour"
+    },
+    "author": "Раиса Ахматова",
+    "tags": [
+      "безам",
+      "ойла",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "Къайлаха латтайо и ойла, / Мохь хилла, белша тӀе йижац...",
+      "en": "I secretly keep this thought,",
+      "fr": "Je garde secrètement cette pensée,"
+    }
+  },
+  {
+    "id": "aydamirov-i-khan-bargash",
+    "type": "poem",
+    "title": {
+      "ce": "И хьан бӀаьргаш",
+      "ru": "И твои глаза",
+      "en": "And Your Eyes",
+      "fr": "Et tes yeux"
+    },
+    "author": "Абузар Айдамиров",
+    "tags": [
+      "безам",
+      "любовь",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Ӏаьржа бӀаьргаш, и ши седа / Суна-м цкъа а биц ца ло..."
+    }
+  },
+  {
+    "id": "rashidov-vaga-ma-vehya",
+    "type": "poem",
+    "title": {
+      "ce": "Вага ма вехьа",
+      "ru": "Не позволь мне угаснуть",
+      "en": "Do Not Let Me Fade",
+      "fr": "Ne me laisse pas m'éteindre"
+    },
+    "author": "Шаид Рашидов",
+    "tags": [
+      "безам",
+      "любовь",
+      "тоска"
+    ],
+    "text_preview": {
+      "ce": "Седа, со вага ма вехьа, / Вуьшта а вогуш ву со..."
+    }
+  },
+  {
+    "id": "yandarbiev-sheko",
+    "type": "poem",
+    "title": {
+      "ce": "Шеко",
+      "ru": "Сомнение",
+      "en": "Doubt",
+      "fr": "Doute"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "философия",
+      "вера",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Оьшурий техьа Далла / Адаммий, Хьавай ялсаманера эккхон..."
+    }
+  },
+  {
+    "id": "yandarbiev-stigal",
+    "type": "poem",
+    "title": {
+      "ce": "Стигал",
+      "ru": "Небо",
+      "en": "Sky",
+      "fr": "Ciel"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "стигал",
+      "маршо",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Стигал, стигал — эзарза я стигал! / Хестайо ас, лаьттахь веххашехь."
+    }
+  },
+  {
+    "id": "yandarbiev-sonet",
+    "type": "poem",
+    "title": {
+      "ce": "Сонет",
+      "ru": "Сонет",
+      "en": "Sonnet",
+      "fr": "Sonnet"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "дахар",
+      "философия",
+      "къонахалла"
+    ],
+    "text_preview": {
+      "ce": "Хьаьжа тӀе куьг а лоьцуш, дахар ас а тергалди..."
+    }
+  },
+  {
+    "id": "yandarbiev-nekh-lo-suna-dohu",
+    "type": "poem",
+    "title": {
+      "ce": "Некъ ло суна, доьху",
+      "ru": "Дай мне путь, прошу",
+      "en": "Give Me a Path, I Ask",
+      "fr": "Donne-moi un chemin, je te le demande"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "некъ",
+      "заман",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Некъ ло, дуьне, некъ ло суна, доьху..."
+    }
+  },
+  {
+    "id": "yandarbiev-lamnash",
+    "type": "poem",
+    "title": {
+      "ce": "Лаьмнаш",
+      "ru": "Горы",
+      "en": "Mountains",
+      "fr": "Montagnes"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "лаьмнаш",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Лаьмнаш, лаьмнаш, ма хьестийша дог!"
+    }
+  },
+  {
+    "id": "yandarbiev-hun-dahyash",
+    "type": "poem",
+    "title": {
+      "ce": "ХӀун дахьаш веъна хьо дуьнен чу",
+      "ru": "Что ты принёс в этот мир",
+      "en": "What Did You Bring Into This World",
+      "fr": "Qu'as-tu apporté dans ce monde"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "лазам",
+      "философия",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "— ХӀун дахьаш веъна хьо дуьнен чу? — Лазам…"
+    }
+  },
+  {
+    "id": "yandarbiev-satiysam",
+    "type": "poem",
+    "title": {
+      "ce": "Сатийсам",
+      "ru": "Надежда",
+      "en": "Hope",
+      "fr": "Espoir"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "бераш",
+      "зезагаш",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Мукъа мел еанчу шена минотехь, массо а хенахь..."
+    }
+  },
+  {
+    "id": "yandarbiev-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Нана",
+      "ru": "Мать",
+      "en": "Mother",
+      "fr": "Mère"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "нана",
+      "стигал",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Цхьацца стигал — шина бӀаьргахь, / Екхна, сийна, сирла…"
+    }
+  },
+  {
+    "id": "yandarbiev-yaltekh-as",
+    "type": "poem",
+    "title": {
+      "ce": "Ялтех ас ца биъна цкъа а дуйнаш",
+      "ru": "Хлебом я никогда не насыщался",
+      "en": "I Was Never Filled with Bread",
+      "fr": "Je n'ai jamais été rassasié de pain"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "нана",
+      "дахар",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Ялтех ас ца биъна цкъа а дуйнаш..."
+    }
+  },
+  {
+    "id": "yandarbiev-oyla-ma-yyu",
+    "type": "poem",
+    "title": {
+      "ce": "Ойла ма-ййу дуьне дац",
+      "ru": "Мир не такой, как мы думаем",
+      "en": "The World Is Not What We Think",
+      "fr": "Le monde n'est pas ce que nous pensons"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "дахар",
+      "философия",
+      "ирс"
+    ],
+    "text_preview": {
+      "ce": "Ойла ма-ййу дуьне дац, / Дуьне ма-дду таро яц…"
+    }
+  },
+  {
+    "id": "yandarbiev-nokhchiicho",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийчоь",
+      "ru": "Чечня",
+      "en": "Chechnya",
+      "fr": "Tchétchénie"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Байчу мохо ийдеш тӀома, / Хьоьстуш малхо, беттасино…"
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-zama",
+    "type": "poem",
+    "title": {
+      "ce": "Зама",
+      "ru": "Время",
+      "en": "Time",
+      "fr": "Temps"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "зама",
+      "дахар",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Зама, ма сихло, сан зама, / Цхьажимма некъ бита суна…"
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-dyayala",
+    "type": "poem",
+    "title": {
+      "ce": "ДӀаяла",
+      "ru": "Уходи",
+      "en": "Leave",
+      "fr": "Pars"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "безам",
+      "къастар",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "ДӀаяла! Ма хьежа соь яьлла цӀе хилий..."
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-daymohk",
+    "type": "poem",
+    "title": {
+      "ce": "Даймохк",
+      "ru": "Родина",
+      "en": "Homeland",
+      "fr": "Patrie"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Ницкъ, сий, къуоналла, кхидерг а, / Массо а дӀагӀур ду…"
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-san-degan-nazmanash",
+    "type": "poem",
+    "title": {
+      "ce": "Сан деган назманаш",
+      "ru": "Мелодии моего сердца",
+      "en": "Melodies of My Heart",
+      "fr": "Mélodies de mon cœur"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "халкъ",
+      "гӀоле",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Сан деган назманаш, ма Ӏехка шу йийший..."
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-schakhazhakha",
+    "type": "poem",
+    "title": {
+      "ce": "Схьахьажахьа соьга",
+      "ru": "Взгляни на меня",
+      "en": "Look at Me",
+      "fr": "Regarde-moi"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "безам",
+      "шовда",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Сирлачу шовданан коьртехь, / Хих кӀудал юьзна а яьлла…"
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-daymehke",
+    "type": "poem",
+    "title": {
+      "ce": "Даймахке",
+      "ru": "К родине",
+      "en": "To the Homeland",
+      "fr": "À la patrie"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Хьо муха буьцур бу ас дашца?"
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-daymehkan-kostash",
+    "type": "poem",
+    "title": {
+      "ce": "Даймехкан косташ",
+      "ru": "Заветы родины",
+      "en": "Homeland's Testament",
+      "fr": "Le testament de la patrie"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "даймохк",
+      "гӀиллакх",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "Шуьга ду маршалла, хьомсара накъостий..."
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-hazachu-yoi-tulg",
+    "type": "prose",
+    "title": {
+      "ce": "Хазачу йоьӀан тӀулг",
+      "ru": "Камень красивой девушки",
+      "en": "The Beautiful Girl's Stone",
+      "fr": "La pierre de la belle jeune fille"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "дийцар",
+      "истори",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Тхойшиннан говраш йоргӀа эцна йоьлхуш яра..."
+    }
+  },
+  {
+    "id": "yandarbiev-khettarsh",
+    "type": "poem",
+    "title": {
+      "ce": "Хеттарш",
+      "ru": "Вопросы",
+      "en": "Questions",
+      "fr": "Questions"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "философия",
+      "ойла",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Мила ву со? Лаьттахь веха стенна? / Мичара схьаваьлла, воьду мича?"
+    }
+  },
+  {
+    "id": "yandarbiev-nokhchijchone",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийчоьне",
+      "ru": "Чечне",
+      "en": "To Chechnya",
+      "fr": "Vers la Tchétchénie"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Соьга бен, ахьа хьаьнга дуьйцур дара дагара?.. / Хьаьнга дуьйцур дара хьайн халахетар,"
+    }
+  },
+  {
+    "id": "yandarbiev-dakhar-bak-du",
+    "type": "poem",
+    "title": {
+      "ce": "Дахар бакъ ду",
+      "ru": "Жизнь права",
+      "en": "Life Is True",
+      "fr": "La vie a raison"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "дахар",
+      "философия",
+      "майралла"
+    ],
+    "text_preview": {
+      "ce": "Юха а хьан буйнахь мукъ бу, / Сан буйнахь — шаьлтанан дитт."
+    }
+  },
+  {
+    "id": "yandarbiev-kogashna-devzar-du-nek-an-khal",
+    "type": "poem",
+    "title": {
+      "ce": "Когашна девзар ду некъан хьал",
+      "ru": "Ноги знают путь",
+      "en": "The Feet Know the Road",
+      "fr": "Les pieds connaissent le chemin"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "некъ",
+      "дахар",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Когашна девзар ду некъан хьал, / Куьйгашна — биначу белхан."
+    }
+  },
+  {
+    "id": "yandarbiev-bujsa",
+    "type": "poem",
+    "title": {
+      "ce": "Буьйса",
+      "ru": "Ночь",
+      "en": "Night",
+      "fr": "Nuit"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "буьйса",
+      "лирика",
+      "стигал"
+    ],
+    "text_preview": {
+      "ce": "Де дӀадели, суьйре еа текхна, / Буьйса хьоьжу цунна тӀехьара."
+    }
+  },
+  {
+    "id": "yandarbiev-1ujrepan-joza",
+    "type": "poem",
+    "title": {
+      "ce": "Ӏуьйрепан йоза",
+      "ru": "Утренняя запись",
+      "en": "Morning Script",
+      "fr": "Écriture du matin"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "Ӏуьйре",
+      "дахар",
+      "стигал"
+    ],
+    "text_preview": {
+      "ce": "Ӏуьйрепан йоза / Доладо сахуьлчу седано."
+    }
+  },
+  {
+    "id": "ahmatukaev-khu-dunenan-kiyra",
+    "type": "poem",
+    "title": {
+      "ce": "Кху дуьненан кийра хоьъна зевне…",
+      "ru": "Звучный голос в этом мире…",
+      "en": "A Sonorous Voice in This World…",
+      "fr": "Une voix sonore dans ce monde…"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "мотт",
+      "нохчийн мотт",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Кху дуьненан кийра хоьъна зевне / Ненан маттах дозаделла дешнаш"
+    }
+  },
+  {
+    "id": "ahmatukaev-kamel-d1adiyr-du",
+    "type": "poem",
+    "title": {
+      "ce": "Ас юха а сайн къамел дӀадийр ду…",
+      "ru": "Я вновь продолжу свою речь…",
+      "en": "I Will Resume My Speech Again…",
+      "fr": "Je reprendrai encore mon discours…"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "мотт",
+      "нохчийн мотт",
+      "халкъ"
+    ],
+    "text_preview": {
+      "ce": "…Ас юха а сайн къамел дӀадийр ду, / Къайлакхоьхьуш логах дуьйлу къурдаш."
+    }
+  },
+  {
+    "id": "ahmatukaev-dunenah-tiysinchu-nekhash",
+    "type": "poem",
+    "title": {
+      "ce": "Дуьненах тийсинчу некъаша…",
+      "ru": "Забытыми миром дорогами…",
+      "en": "Along Roads Forgotten by the World…",
+      "fr": "Sur des routes oubliées du monde…"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "некъ",
+      "ойла",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Дуьненах тийсинчу некъаша / Бахьанаш хӀиттадахь йовза хьо,"
+    }
+  },
+  {
+    "id": "ahmatukaev-berallin-sherash-ahna",
+    "type": "poem",
+    "title": {
+      "ce": "Бераллин шерашна аьхна…",
+      "ru": "Тоскуя по годам детства…",
+      "en": "Longing for the Years of Childhood…",
+      "fr": "Rêvant aux années d’enfance…"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "бералла",
+      "философия",
+      "дин"
+    ],
+    "text_preview": {
+      "ce": "Бераллин шерашна аьхна / Хиллачу туьйранех юьйлуш,"
+    }
+  },
+  {
+    "id": "ahmatukaev-nenan-machiyn",
+    "type": "poem",
+    "title": {
+      "ce": "Ненан мачийн кӀажаш тӀе а хӀуьттуш…",
+      "ru": "Надевая материнские обноски…",
+      "en": "Putting on Mother’s Worn Clothes…",
+      "fr": "En enfilant les habits usés de la mère…"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "безам",
+      "нана",
+      "кӀант"
+    ],
+    "text_preview": {
+      "ce": "Ненан мачийн кӀажаш тӀе а хӀуьттуш, / Куьзганхьалха когабуьхьар хӀуьттуш,"
+    }
+  },
+  {
+    "id": "zaytemirov-b1aste",
+    "type": "poem",
+    "title": {
+      "ce": "БӀаьсте",
+      "ru": "Весна",
+      "en": "Spring",
+      "fr": "Printemps"
+    },
+    "author": "Зайтемиров Сайдик",
+    "tags": [
+      "бӀаьсте",
+      "Ӏалам",
+      "зезагаш"
+    ],
+    "text_preview": {
+      "ce": "БӀаьсте кхечи, хаза бӀаьсте, / Шеца гӀиттош зезагаш,"
+    }
+  },
+  {
+    "id": "zaytemirov-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Нана",
+      "ru": "Мать",
+      "en": "Mother",
+      "fr": "Mère"
+    },
+    "author": "Зайтемиров Сайдик",
+    "tags": [
+      "нана",
+      "безам",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "ЙогӀучу замано / Вай вовшех дахахь,"
+    }
+  },
+  {
+    "id": "zaytemirov-mahkah-kastar",
+    "type": "poem",
+    "title": {
+      "ce": "Махках къастар",
+      "ru": "Разлука с родиной",
+      "en": "Parting from the Homeland",
+      "fr": "Séparation d’avec la patrie"
+    },
+    "author": "Зайтемиров Сайдик",
+    "tags": [
+      "даймохк",
+      "къастар",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Со веъна кхечи / Со винчу Даймахке,"
+    }
+  },
+  {
+    "id": "magomadov-ho-h1unda-eina-te",
+    "type": "poem",
+    "title": {
+      "ce": "Хьо хӀунда яйна те",
+      "ru": "Почему ты оставила меня",
+      "en": "Why Did You Leave Me",
+      "fr": "Pourquoi m’as-tu quitté"
+    },
+    "author": "Хамзат Магомадов",
+    "tags": [
+      "безам",
+      "къастар",
+      "ойла"
+    ],
+    "text_preview": {
+      "ce": "Маржа яӀ, / Безамах тешийна / къагийна дахар,"
+    }
+  },
+  {
+    "id": "yusupov-nokhchijchone",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийчоьне",
+      "ru": "Чечне",
+      "en": "To Chechnya",
+      "fr": "Vers la Tchétchénie"
+    },
+    "author": "Ибрагим Юсупов",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Нохчийчоь! Ӏалашбан сайн денойн чам / Йоьссича санна хьо хетало Лаьтта…"
+    }
+  },
+  {
+    "id": "abdulaev-nokhchijcho-sar-nokhchijcho",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийчоь сан нохчийчоь",
+      "ru": "Чечня, моя Чечня",
+      "en": "Chechnya, My Chechnya",
+      "fr": "Tchétchénie, ma Tchétchénie"
+    },
+    "author": "Леча Абдулаев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Хьан баланаш кхачо ма ца бохку, / Дакъаза ма баларг, Нохчийн Мохк сан."
+    }
+  },
+  {
+    "id": "yarychev-nokhchijcho",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийчоь",
+      "ru": "Чечня",
+      "en": "Chechnya",
+      "fr": "Tchétchénie"
+    },
+    "author": "Насруди Ярычев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Кхиалахь, Нохчийчоь, денна, / Зазашлахь хьоькъуьйтуш гаьннаш."
+    }
+  },
+  {
+    "id": "tsaldaeva-da",
+    "type": "poem",
+    "title": {
+      "ce": "Да",
+      "ru": "Отец",
+      "en": "Father",
+      "fr": "Père"
+    },
+    "author": "Фариза Цалдаева",
+    "tags": [
+      "да",
+      "доьзал",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "И стиглара Ӏаьршаш сайна схьаяларх / Я лаьттан мехала тӀулгаш схьадаларх"
+    }
+  },
+  {
+    "id": "ataginskaya-san-nokhchiin-mott",
+    "type": "poem",
+    "title": {
+      "ce": "Сан нохчийн мотт…",
+      "ru": "Мой чеченский язык…",
+      "en": "My Chechen Language…",
+      "fr": "Ma langue tchétchène…"
+    },
+    "author": "Аза Атагинская",
+    "tags": [
+      "мотт",
+      "нохчийн мотт",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Сан нохчийн мотт, маржа яӀ хьан! / Хьо бицбинарг мила ву-те."
+    }
+  },
+  {
+    "id": "yasmalina-nokhchij-mott",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчий мотт",
+      "ru": "Чеченский язык",
+      "en": "The Chechen Language",
+      "fr": "La langue tchétchène"
+    },
+    "author": "Хава Ясмалина",
+    "tags": [
+      "мотт",
+      "нохчийн мотт",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Нохчий мотт сан дозалла, / Нохчий мотт сан са куьзга хьо,",
+      "en": "Native language—my pride,",
+      "fr": "Langue maternelle — ma fierté,"
+    }
+  },
+  {
+    "id": "tsuruev-nokhchiin-mott",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийн мотт",
+      "ru": "Чеченский язык",
+      "en": "The Chechen Language",
+      "fr": "La langue tchétchène"
+    },
+    "author": "Шарип Цуруев",
+    "tags": [
+      "мотт",
+      "нохчийн мотт",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Акха яр санна, и ца баьлла бацалахь, / Боьжна бац стиглара, эцна бац базарахь,"
+    }
+  },
+  {
+    "id": "illi-turpal-nohcho",
+    "type": "song",
+    "title": {
+      "ce": "Турпал Нохчочух илли",
+      "ru": "Илли о Турпале Нохчо",
+      "en": "Illi about Turpal Nokhcho",
+      "fr": "Illi sur Turpal Nokhcho"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "турпала",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Къеналла тӀегӀерта, дагана ва ца товш, / Къоналла дӀагӀерта, дагана ва ца товш.",
+      "en": "Let us sing of Turpal Nokhcho",
+      "fr": "Chantons Turpal Nokhcho"
+    }
+  },
+  {
+    "id": "illi-zaytan-shihmirza",
+    "type": "song",
+    "title": {
+      "ce": "Зайтан Шихмирзин илли",
+      "ru": "Илли о Шихмирзе, сыне Зайты",
+      "en": "Illi about Shikhmirza, son of Zayta",
+      "fr": "Illi sur Chikhmirza, fils de Zayta"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "шийхмирза",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "— Дакъаза ма вала, хӀай таркхойн кура Шовхал, Моьттура суна, хьо вуьйцу ва хезча, / Хьекъало вина хьо Таркхойн Шовхал ву,",
+      "en": "Song of Shikhmirza, son of Zayta",
+      "fr": "Chant de Chikhmirza, fils de Zayta"
+    }
+  },
+  {
+    "id": "illi-zherochun-guirzhiin",
+    "type": "song",
+    "title": {
+      "ce": "Жерочун кӀентан, гуьржийн кӀентан илли",
+      "ru": "Илли о сыне вдовы и грузинском молодце",
+      "en": "Illi about the Widow’s Son and the Georgian Youth",
+      "fr": "Illi sur le fils de la veuve et le jeune Géorgien"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "жерочун кӀант",
+      "доттагӀалла"
+    ],
+    "text_preview": {
+      "ce": "Ва сарахь суьйренца бузучу малхаца / Цу кӀайчу гӀовталца; исхаран чоьица"
+    }
+  },
+  {
+    "id": "illi-ela-montsa",
+    "type": "song",
+    "title": {
+      "ce": "Эла Монцин, Жерочун кӀентан илли",
+      "ru": "Илли о князе Монце и сыне вдовы",
+      "en": "Illi about Prince Montsa and the Widow’s Son",
+      "fr": "Illi sur le prince Montsa et le fils de la veuve"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "эла",
+      "жерочун кӀант"
+    ],
+    "text_preview": {
+      "ce": "Исс эзар цӀе йогу и горга шахьар / Шен куьйга кӀел йолуш вара бах и эла"
+    }
+  },
+  {
+    "id": "illi-ela-musosta-surkho",
+    "type": "song",
+    "title": {
+      "ce": "Теркаца хьала-охьа вехаш хиллачу эла Мусостан, Адин Сурхон илли",
+      "ru": "Илли о князе Мусосте и Сурхо, сыне Ады, живших по Тереку",
+      "en": "Illi about Prince Musosta and Surkho, Son of Ada, on the Terek",
+      "fr": "Illi sur le prince Musosta et Surkho, fils d’Ada, sur le Terek"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "эла",
+      "сурхо"
+    ],
+    "text_preview": {
+      "ce": "Къонаха мел вериг кхайкхина валийна, / Къонаха мел воцург кхайкхаза"
+    }
+  },
+  {
+    "id": "illi-evtarkhoin-akhmad",
+    "type": "song",
+    "title": {
+      "ce": "Эвтархойн Ахьмадан илли",
+      "ru": "Илли об Ахмаде Автуринском",
+      "en": "Illi about Akhmad of Avtury",
+      "fr": "Illi sur Akhmad d’Avtury"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "эвтархойн",
+      "турпала"
+    ],
+    "text_preview": {
+      "ce": "Ва сарахь суьйренца, бузучу малхаца / Гаьн тӀе куьйра ва санна, ша дина"
+    }
+  },
+  {
+    "id": "illi-obarg-vara",
+    "type": "song",
+    "title": {
+      "ce": "Обарг Варин илли",
+      "ru": "Илли об Обарге Варе",
+      "en": "Illi about Vara the Wolf",
+      "fr": "Illi sur Vara le loup"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "обарг",
+      "турпала"
+    ],
+    "text_preview": {
+      "ce": "Хьогалла ца вала бецан тхи муьйлуш, / Мацалла ца вала попан гӀа дууш,"
+    }
+  },
+  {
+    "id": "hajimuradov-tsitsigan-korni",
+    "type": "prose",
+    "title": {
+      "ce": "Цициган кӀорни",
+      "ru": "Котёнок",
+      "en": "Kitten",
+      "fr": "Le chaton"
+    },
+    "author": "Вахит Хаджимурадов",
+    "tags": [
+      "дийцар",
+      "берийн литература",
+      "цициг"
+    ],
+    "text_preview": {
+      "ce": "-МӀау! МӀау!...- хезира цунна Ӏаьржачу бодана юккъехула. Мелла а цхьана серлонах тера бес-бесара бӀарлагӀаш-м дара бӀаьргашна хьалха хаза самукъане ловзуш."
+    }
+  },
+  {
+    "id": "hajimuradov-hyeharchuchun-diycar",
+    "type": "prose",
+    "title": {
+      "ce": "Хьехархочун дийцар",
+      "ru": "Рассказ учителя",
+      "en": "The Teacher’s Story",
+      "fr": "Le récit du maître"
+    },
+    "author": "Вахит Хаджимурадов",
+    "tags": [
+      "дийцар",
+      "иронически проза",
+      "хьехархо"
+    ],
+    "text_preview": {
+      "ce": "- Со Ӏаш-м гӀалахь вара. Делахь а, хьалха юьртахь Ӏийна ву. Цундела юьрта верза дог дара сан. Юьртара ишколашкахь хьехархой ца тоьуш бу аьлла а хезинера суна."
+    }
+  },
+  {
+    "id": "hajimuradov-tsergyakkkhar",
+    "type": "prose",
+    "title": {
+      "ce": "Цергъяккхар",
+      "ru": "Зуб",
+      "en": "The Tooth",
+      "fr": "La dent"
+    },
+    "author": "Вахит Хаджимурадов",
+    "tags": [
+      "дийцар",
+      "берийн литература",
+      "церг"
+    ],
+    "text_preview": {
+      "ce": "- Хьажал! И кхела хилла меттиг гой хьуна? Муха ца го, оццул доккха ор ца гойла дац! Дикка хьовсал! – шен бага дехьий-сехьий ши пӀелг а боьллина дӀаса"
+    }
+  },
+  {
+    "id": "hajimuradov-sayd1ali",
+    "type": "prose",
+    "title": {
+      "ce": "СайдӀали",
+      "ru": "Сайдали",
+      "en": "Saydali",
+      "fr": "Saydali"
+    },
+    "author": "Вахит Хаджимурадов",
+    "tags": [
+      "дийцар",
+      "доьзал",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "- Ва, баба, ма даккхий бӀогӀамаш деъна вайна, тарахтор йоьттина! Хьажахь, араялахь! – чуиккхира диъ-пхиъ шо хир долуш волу жима кӀант СайдӀали."
+    }
+  },
+  {
+    "id": "halkhan-khaa-stagah-zabare-diycar",
+    "type": "prose",
+    "title": {
+      "ce": "Кхаа стагах лаьцна забаре дийцар",
+      "ru": "Забавный рассказ о трёх людях",
+      "en": "A Funny Tale about Three People",
+      "fr": "Un récit amusant sur trois hommes"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "дийцар",
+      "забаре",
+      "халкъан"
+    ],
+    "text_preview": {
+      "ce": "Цхьа стаг хилла мангал хьокхуш. ШолгӀаниг жа дайна араваьлла хилла. Мангал хьокхучунна тӀевахна жа дайначо хаьттина шен жа гирий хьуна аьлла."
+    }
+  },
+  {
+    "id": "yusupov-ayze",
+    "type": "poem",
+    "title": {
+      "ce": "Айзе",
+      "ru": "Айзе",
+      "en": "Aiza",
+      "fr": "Aiza"
+    },
+    "author": "Ибрагим Юсупов",
+    "tags": [
+      "безам",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "ce": "Декаш ду Сахалин-гӀайренан чӀоб. / Кху пана арахь сан сагатло, Айза…"
+    }
+  },
+  {
+    "id": "yusupov-dasakastar",
+    "type": "poem",
+    "title": {
+      "ce": "ДӀасакъастар",
+      "ru": "Разлука",
+      "en": "Parting",
+      "fr": "Séparation"
+    },
+    "author": "Ибрагим Юсупов",
+    "tags": [
+      "безам",
+      "къастар",
+      "сагатдалар"
+    ],
+    "text_preview": {
+      "ce": "ЦӀерпошт а, эххар а мохь тухуш къаьхьа, / Меллаша йолало, со шеца хьош."
+    }
+  },
+  {
+    "id": "yusupov-khuna-khainna",
+    "type": "poem",
+    "title": {
+      "ce": "Хьуна хьайнна",
+      "ru": "Тебе самой",
+      "en": "To You Yourself",
+      "fr": "À toi-même"
+    },
+    "author": "Ибрагим Юсупов",
+    "tags": [
+      "безам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Шатайпа стихаш ас язйийр ю хьуна, / ХӀуьттаре хуьлуйтуш къастаран хьуна."
+    }
+  },
+  {
+    "id": "magomadov-homsara-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Хьомсара Нана",
+      "ru": "Любимая мать",
+      "en": "Beloved Mother",
+      "fr": "Mère bien-aimée"
+    },
+    "author": "Хамзат Магомадов",
+    "tags": [
+      "нана",
+      "безам",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Со вина кхиийна / Хьомсара Нана,"
+    }
+  },
+  {
+    "id": "magomadov-ezachunga",
+    "type": "poem",
+    "title": {
+      "ce": "Езначуьнга",
+      "ru": "Любимой",
+      "en": "To My Beloved",
+      "fr": "À ma bien-aimée"
+    },
+    "author": "Хамзат Магомадов",
+    "tags": [
+      "безам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Де дийне даларх, кехат ца кхочуш, / Шо шере даларах, хаам а боцуш,"
+    }
+  },
+  {
+    "id": "ahmatukaev-san-marzonash",
+    "type": "poem",
+    "title": {
+      "ce": "Сан марзонаш",
+      "ru": "Мои любимые",
+      "en": "My Beloved Ones",
+      "fr": "Mes bien-aimés"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "безам",
+      "доьзал",
+      "нана"
+    ],
+    "text_preview": {
+      "ce": "ХӀара сурт сан ден ду, / ХӀара ду сан ненан."
+    }
+  },
+  {
+    "id": "ahmatukaev-tsaverzar",
+    "type": "poem",
+    "title": {
+      "ce": "ЦӀаверзар",
+      "ru": "Возвращение домой",
+      "en": "Returning Home",
+      "fr": "Retour à la maison"
+    },
+    "author": "Адам Ахматукаев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Ма, кху агӀор схьахьажарх а ларлуш, / Генахула вийлинера тӀех со."
+    }
+  },
+  {
+    "id": "yarichev-san-mohk",
+    "type": "poem",
+    "title": {
+      "ce": "Сан мохк",
+      "ru": "Моя страна",
+      "en": "My Country",
+      "fr": "Mon pays"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Сан хьоме гӀийла мохк, ахь соьга ала, / Стенгара схьакхечи хӀара Ӏаьржа бала?"
+    }
+  },
+  {
+    "id": "yarichev-chernaya-zvezda-haibah",
+    "type": "poem",
+    "title": {
+      "ce": "Ӏаьржа седа (Хьайбах)",
+      "ru": "Черная звезда (Хайбах)",
+      "en": "Black Star (Khaibakh)",
+      "fr": "L’étoile noire (Khaibakh)"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "даймохк",
+      "депортаци",
+      "философия"
+    ],
+    "text_preview": {
+      "ru": "Ломается лежалый снег / Под кирзовыми сапогами...",
+      "en": "The packed snow breaks",
+      "fr": "La neige tassée se brise"
+    }
+  },
+  {
+    "id": "yarichev-dialog",
+    "type": "poem",
+    "title": {
+      "ce": "Диалог",
+      "ru": "Диалог",
+      "en": "Dialogue",
+      "fr": "Dialogue"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "даймохк",
+      "истори",
+      "турпала"
+    ],
+    "text_preview": {
+      "ru": "Над развороченным Гунибом / Нависла смерти тень…-Имам,",
+      "en": "Over ruined Gunib",
+      "fr": "Sur le Gunib dévasté"
+    }
+  },
+  {
+    "id": "yarichev-denievu-hasmagomedu",
+    "type": "poem",
+    "title": {
+      "ce": "Дениев Хасмагомеде",
+      "ru": "Дениеву Хасмагомеду",
+      "en": "To Deniev Khasmagomed",
+      "fr": "À Deniev Khasmagomed"
+    },
+    "author": "Умар Яричев",
+    "tags": [
+      "доттагӀалла",
+      "дахар",
+      "философия"
+    ],
+    "text_preview": {
+      "ru": "У каждого из нас своя дорога, / Где главное дано: от АЗ - до ЯТЬ,",
+      "en": "Each of us has a road of our own,",
+      "fr": "Chacun de nous a sa propre route,"
+    }
+  },
+  {
+    "id": "bisultanov-hajbahah-jazjina-bajtash",
+    "type": "poem",
+    "title": {
+      "ce": "Хьайбахахь йазйина байташ",
+      "ru": "Стихи, написанные в Хайбахе",
+      "en": "Poems Written in Khaibakh",
+      "fr": "Poèmes écrits à Khaibakh"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "депортаци",
+      "назма"
+    ],
+    "text_preview": {
+      "ce": "ТӀапа куйнаш дайрий шуна, / Го беш салтий байри шуна,"
+    }
+  },
+  {
+    "id": "bisultanov-dagalecamash",
+    "type": "poem",
+    "title": {
+      "ce": "Дагалецамаш",
+      "ru": "Воспоминания",
+      "en": "Memories",
+      "fr": "Souvenirs"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "дагалецамаш",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "лам хаьрцича тӀаьхьабисина берд а / акхадевлла лела адамаш а"
+    }
+  },
+  {
+    "id": "bisultanov-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Нана",
+      "ru": "Мать",
+      "en": "Mother",
+      "fr": "Mère"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "нана",
+      "безам",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Хьо ара ца йолуш йисичахьана, / Хьан Ӏаса санна со цхьалха ву нана,"
+    }
+  },
+  {
+    "id": "sulaev-razdumye",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Раздумье",
+      "en": "Reflection",
+      "fr": "Réflexion"
+    },
+    "author": "Магомет Сулаев",
+    "tags": [
+      "ойла",
+      "нана",
+      "философия"
+    ],
+    "text_preview": {
+      "ru": "Осенней мглы душа моя мрачней. / С кем поделиться думами своими?",
+      "en": "The darkness of autumn makes my soul still darker.",
+      "fr": "Les ténèbres automnales rendent mon âme plus sombre encore."
+    }
+  },
+  {
+    "id": "geshaev-kray-vainakhsky",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Край вайнахский",
+      "en": "Vainakh Land",
+      "fr": "Pays vainakh"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "лаьмнаш",
+      "безам"
+    ],
+    "text_preview": {
+      "ru": "Край вайнахский, милый край, / Мы для нас и дом, и рай.",
+      "en": "Vainakh land, my dear land,",
+      "fr": "Terre vainakh, ma chère terre,"
+    }
+  },
+  {
+    "id": "geshaev-legendy-kavkaza",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Легенды Кавказа",
+      "en": "Legends of the Caucasus",
+      "fr": "Légendes du Caucase"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "лаьмнаш",
+      "истори",
+      "халкъ"
+    ],
+    "text_preview": {
+      "ru": "Горный край, Кавказ мой седоглавый, / ты стоишь, как ветеран, седой,",
+      "en": "Mountain land, my gray-haired Caucasus,",
+      "fr": "Terre des montagnes, mon Caucase aux cheveux gris,"
+    }
+  },
+  {
+    "id": "suleimanov-konakh",
+    "type": "poem",
+    "title": {
+      "ce": "Къонах",
+      "ru": "Къонах",
+      "en": "Knight",
+      "fr": "Chevalier"
+    },
+    "author": "Ахмад Сулейманов",
+    "tags": [
+      "къонаха",
+      "оьздангалла",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ru": "Что значит къонах, ты спросил, и какова ему цена? / И я сказал тебе в ответ под гул торжественного пира,",
+      "en": "What does a konakh mean, you asked, and what is his worth?",
+      "fr": "Tu as demandé ce que signifie un konakh, et quelle est sa valeur ?"
+    }
+  },
+  {
+    "id": "mamakaev-bloody-mountains",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Кровавые горы",
+      "en": "Bloody Mountains",
+      "fr": "Montagnes sanglantes"
+    },
+    "author": "Магомед Мамакаев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "истори"
+    ],
+    "text_preview": {
+      "en": "I love one above all on earth, / All my life belong to just one,"
+    }
+  },
+  {
+    "id": "akhmadov-sfinks-sedarciin-stigal",
+    "type": "prose",
+    "title": {
+      "ce": "Сфинкс а, седарчийн стигал а, ӀарлагӀаш а",
+      "ru": "Сфинкс, звёздное небо и миражи",
+      "en": "The Sphinx, the Starry Sky and Mirages",
+      "fr": "Le Sphinx, le ciel étoilé et les mirages"
+    },
+    "author": "Муса Ахмадов",
+    "tags": [
+      "эссе",
+      "литература",
+      "яздархой"
+    ],
+    "text_preview": {
+      "ce": "И тӀулгах дина цхьана тамашийначу Ӏаламатан я туьйранерчу экханан сурт суна дуьххьара историн Ӏамат тӀе тоьхна гира."
+    }
+  },
+  {
+    "id": "oibuev-hasha-da-cunan-berkat",
+    "type": "prose",
+    "title": {
+      "ce": "Хьаша-да цуьнан беркат а",
+      "ru": "Гостеприимство и его благодать",
+      "en": "Hospitality and Its Blessing",
+      "fr": "L'hospitalité et sa bénédiction"
+    },
+    "author": "Саид-Хасан Ойбуев",
+    "tags": [
+      "гӀиллакх",
+      "хьошалла",
+      "оьздангалла"
+    ],
+    "text_preview": {
+      "ce": "Дахарехь цхьа а киртиг яц нохчийн Ӏадато, гӀиллакхо чу цалоцуш."
+    }
+  },
+  {
+    "id": "arsanukaev-nenan-mott",
+    "type": "poem",
+    "title": {
+      "ce": "Ненан мотт",
+      "ru": "Родной язык",
+      "en": "Mother Tongue",
+      "fr": "Langue maternelle"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "мотт",
+      "ненан мотт",
+      "къам"
+    ],
+    "text_preview": {
+      "ce": "Доьзалехь бийцар а дастам а хеташ, / Хьуо винчу ненан мотт дӀатесна ахь."
+    }
+  },
+  {
+    "id": "arsanukaev-veset",
+    "type": "poem",
+    "title": {
+      "ce": "Весет",
+      "ru": "Завещание",
+      "en": "The Testament",
+      "fr": "Le testament"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "весет",
+      "даймохк",
+      "лаьмнаш"
+    ],
+    "text_preview": {
+      "ce": "Къоьжачу вайн лаьмнийн / Дог кура баххьаш,"
+    }
+  },
+  {
+    "id": "arsanukaev-lakhenan-ghillakh",
+    "type": "poem",
+    "title": {
+      "ce": "Лакхенан гӀиллакх",
+      "ru": "Обычай гор",
+      "en": "The Custom of the Heights",
+      "fr": "La coutume des hauteurs"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "лаьмнаш",
+      "гӀиллакх",
+      "оьздангалла"
+    ],
+    "text_preview": {
+      "ce": "Лаьмнийн а ду гӀиллакх шайн - / Халачу лакхенан гӀиллакх."
+    }
+  },
+  {
+    "id": "arsanukaev-dogdikchu-latta-teh",
+    "type": "poem",
+    "title": {
+      "ce": "Догдикчу лаьтта тӀехь",
+      "ru": "На доброй земле",
+      "en": "On This Kind Earth",
+      "fr": "Sur cette terre bonne"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "лаьтта",
+      "дог",
+      "тийналла"
+    ],
+    "text_preview": {
+      "ce": "Тийналла тийна дӀа, / Гуш сема гӀан."
+    }
+  },
+  {
+    "id": "arsanukaev-barkalla-adamash",
+    "type": "poem",
+    "title": {
+      "ce": "Баркалла, адамаш",
+      "ru": "Спасибо, люди",
+      "en": "Thank You, People",
+      "fr": "Merci, les hommes"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "хьехархо",
+      "баркалла",
+      "дешар"
+    ],
+    "text_preview": {
+      "ce": "Гола шен тоьхна, / Гуьйренан къегина де."
+    }
+  },
+  {
+    "id": "arsanukaev-dikalleh",
+    "type": "poem",
+    "title": {
+      "ce": "Дикаллех",
+      "ru": "О доброте",
+      "en": "About Kindness",
+      "fr": "Sur la bonté"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "дикалла",
+      "адамаш",
+      "серло"
+    ],
+    "text_preview": {
+      "ce": "Дикалла… И маца кхачийна? Хьенан? / Дуьне а Дикаллех кхоьллина Дала,"
+    }
+  },
+  {
+    "id": "arsanukaev-khiyti-so",
+    "type": "poem",
+    "title": {
+      "ce": "Кхийти со",
+      "ru": "Пойми меня",
+      "en": "Understand Me",
+      "fr": "Comprends-moi"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "нана",
+      "даймохк",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Кхийти со. / Эххар а кхийти со, хӀунда"
+    }
+  },
+  {
+    "id": "arsanukaev-amal",
+    "type": "poem",
+    "title": {
+      "ce": "Амал",
+      "ru": "Характер",
+      "en": "Character",
+      "fr": "Le caractère"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "амал",
+      "лаьмнаш",
+      "дахар"
+    ],
+    "text_preview": {
+      "ce": "Ма ала кура ву, / айбича корта –"
+    }
+  },
+  {
+    "id": "arsanukaev-mohkbegor",
+    "type": "poem",
+    "title": {
+      "ce": "Мохкбегор",
+      "ru": "Стенание земли",
+      "en": "The Lament of the Land",
+      "fr": "La plainte de la terre"
+    },
+    "author": "Шайхи Арсанукаев",
+    "tags": [
+      "мохк",
+      "латта",
+      "бала"
+    ],
+    "text_preview": {
+      "ce": "ЦӀеххьана кхерийна, / Лаьттан дегӀ дегий."
+    }
+  },
+  {
+    "id": "kasumov-da-khelhash",
+    "type": "poem",
+    "title": {
+      "ce": "Да кхелхаш…",
+      "ru": "Когда отец умирал…",
+      "en": "When Father Was Dying…",
+      "fr": "Quand mon père mourait…"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "да",
+      "Ӏожалла",
+      "доьзал"
+    ],
+    "text_preview": {
+      "ce": "Сан цхьайтта шо долуш гина, / Сурт ду сан бӀаьргаш чохь дисна."
+    }
+  },
+  {
+    "id": "kasumov-nanna-sahiyzar",
+    "type": "poem",
+    "title": {
+      "ce": "Нанна сахьийзар",
+      "ru": "Тоска по матери",
+      "en": "Longing for Mother",
+      "fr": "La nostalgie de la mère"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "нана",
+      "сахьийзар",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Ваьл-ваьллачохь-ненан лараш, / Дуьхьал хӀуьтту цуьнан сарташ."
+    }
+  },
+  {
+    "id": "kasumov-nene-nazma",
+    "type": "poem",
+    "title": {
+      "ce": "Нене",
+      "ru": "Матери",
+      "en": "To Mother",
+      "fr": "À ma mère"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "нана",
+      "назма",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Ахь кхоьллинарг бен вацарий со-м, / Ахь вакхийнарг бен вацарий со-м,"
+    }
+  },
+  {
+    "id": "dokaev-nek-bu-vayn-dahar",
+    "type": "poem",
+    "title": {
+      "ce": "Некъ бу вайн дахар",
+      "ru": "Жизнь наша — дорога",
+      "en": "Our Life Is a Road",
+      "fr": "Notre vie est une route"
+    },
+    "author": "Ваха Докаев",
+    "tags": [
+      "некъ",
+      "дахар",
+      "бода"
+    ],
+    "text_preview": {
+      "ce": "Бодане некъ бу вайн дахар / Вай-м кхин тӀеъ бодане бан гӀерта и"
+    }
+  },
+  {
+    "id": "dokaev-nana-yu-tahhara-yiclush-erg",
+    "type": "poem",
+    "title": {
+      "ce": "Нана ю тӀаьххьара йицлуш ерг",
+      "ru": "Мать забывается последней",
+      "en": "Mother Is the Last to Be Forgotten",
+      "fr": "La mère est la dernière qu'on oublie"
+    },
+    "author": "Ваха Докаев",
+    "tags": [
+      "нана",
+      "матт",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Ойланца, дагаца, маттаца. / ЦӀеххьана аз хезий хийцалой,"
+    }
+  },
+  {
+    "id": "dokaev-loha-kor",
+    "type": "poem",
+    "title": {
+      "ce": "Лоха кор",
+      "ru": "Низкое окно",
+      "en": "The Low Window",
+      "fr": "La fenêtre basse"
+    },
+    "author": "Ваха Докаев",
+    "tags": [
+      "нана",
+      "кор",
+      "сахьийзар"
+    ],
+    "text_preview": {
+      "ce": "Хьо йоцуш дӀадоьду дахар!.. / Ма гена ели хьо, нана!"
+    }
+  },
+  {
+    "id": "kasumov-den-nenan-teshash",
+    "type": "poem",
+    "title": {
+      "ce": "Ден, ненан тешаш",
+      "ru": "Свидетели отца и матери",
+      "en": "The Witnesses of Father and Mother",
+      "fr": "Les témoins du père et de la mère"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "нана",
+      "да",
+      "хӀусам"
+    ],
+    "text_preview": {
+      "ce": "Биъ пен бу вовшашка хьоьжуш, / Тийналла йоьллина юккъе,"
+    }
+  },
+  {
+    "id": "kasumov-den-bezam",
+    "type": "poem",
+    "title": {
+      "ce": "Ден безам",
+      "ru": "Любовь отца",
+      "en": "A Father's Love",
+      "fr": "L'amour du père"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "да",
+      "даймохк",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Дас безам шен Махке белла… / Геннара идош цӀа кхехьна."
+    }
+  },
+  {
+    "id": "kasumov-den-veset",
+    "type": "poem",
+    "title": {
+      "ce": "Ден весет",
+      "ru": "Завет отца",
+      "en": "The Father's Covenant",
+      "fr": "Le pacte du père"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "весет",
+      "да",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "НеӀалтан гу тӀе хьо ма валалахь, / Сий доьжнехь, и лоьхуш ма вахалахь."
+    }
+  },
+  {
+    "id": "kasumov-nenan-koch",
+    "type": "poem",
+    "title": {
+      "ce": "Ненан коч",
+      "ru": "Платье матери",
+      "en": "Mother's Dress",
+      "fr": "La robe de ma mère"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "нана",
+      "коч",
+      "иэс"
+    ],
+    "text_preview": {
+      "ce": "Пенаца кхозуш ю сан ненан коч, / Шамара* дахначохь ду ши а пхьош."
+    }
+  },
+  {
+    "id": "kasumov-dena-ulle",
+    "type": "poem",
+    "title": {
+      "ce": "Дена улле",
+      "ru": "Рядом с отцом",
+      "en": "Next to Father",
+      "fr": "Auprès de mon père"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "да",
+      "нана",
+      "каш"
+    ],
+    "text_preview": {
+      "ce": "Нанна юххехь, / Дена улле"
+    }
+  },
+  {
+    "id": "illi-kosuman-shihmirzin",
+    "type": "song",
+    "title": {
+      "ce": "Къосуман Шихмирзин илли",
+      "ru": "Илли о Шихмирзе, сыне Косума",
+      "en": "The Illi of Shikhmirza, Son of Kosum",
+      "fr": "L'illi de Chikhmirza, fils de Kosum"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "илли",
+      "безам",
+      "говраш"
+    ],
+    "text_preview": {
+      "ce": "Сих ма ло, кӀант, говраш лахка, / ПаргӀат яха йитахь пайтон."
+    }
+  },
+  {
+    "id": "illi-sheriyn-shiralla",
+    "type": "song",
+    "title": {
+      "ce": "Шерийн ширалла",
+      "ru": "Древность лет",
+      "en": "The Age of Years",
+      "fr": "L'ancienneté des années"
+    },
+    "author": "Касумов Сайдмохьмад",
+    "tags": [
+      "илли",
+      "бералла",
+      "шераш"
+    ],
+    "text_preview": {
+      "ce": "Едда мацах кетӀара / Гена яьлла бералла,"
+    }
+  }
+]

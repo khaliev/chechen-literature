@@ -3932,5 +3932,589 @@
       "en": "My grandmother used to say / If you see your childhood three times",
       "fr": "Ma grand-mère disait / Si tu vois ton enfance trois fois"
     }
+  },
+  {
+    "id": "bisultanov-olkhazare",
+    "type": "poem",
+    "title": {
+      "ce": "Олхазаре",
+      "ru": "Птице",
+      "en": "To the Bird",
+      "fr": "À l'oiseau"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "маршо",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "са хаддалц кхайкха хьо хӀай маьрша олхазар / ва дийна хиларан жоп Деле доьхуш"
+    }
+  },
+  {
+    "id": "bisultanov-kuzganiyn-pardonekh",
+    "type": "poem",
+    "title": {
+      "ce": "Куьзганийн пардонех...",
+      "ru": "Из-за занавесей зеркал…",
+      "en": "From Behind the Curtains of Mirrors…",
+      "fr": "Derrière les rideaux des miroirs…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "безам",
+      "философия",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "Куьзганийн пардонех пенойх чекхбуьйлучу / Бодано яхьайо хьох йолу ойланаш."
+    }
+  },
+  {
+    "id": "bisultanov-bettasa",
+    "type": "poem",
+    "title": {
+      "ce": "Беттаса",
+      "ru": "Луной",
+      "en": "By Moonlight",
+      "fr": "Au clair de lune"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "истори",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Беттаса схьакхийти, эзар шо хьалха / Кхеташ ма-хиллара гӀайгӀане, цхьалха,"
+    }
+  },
+  {
+    "id": "bisultanov-iindagiash",
+    "type": "poem",
+    "title": {
+      "ce": "ӀиндагӀаш",
+      "ru": "Тени",
+      "en": "Shadows",
+      "fr": "Ombres"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "безам",
+      "философия",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "ӀиндагӀаш - царна а ма деза вовшийн, / Бесачу, даима шийлачу царна,"
+    }
+  },
+  {
+    "id": "bisultanov-as-khan-chabaneh-gajga-jucur-ju",
+    "type": "poem",
+    "title": {
+      "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю...",
+      "ru": "Я заплету заботу в твои косы…",
+      "en": "I Will Braid My Care into Your Tresses…",
+      "fr": "Je tresserai mon souci dans tes nattes…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "безам",
+      "даймохк",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю, / КӀайчу говрана туьйра дуьйцур ду,"
+    }
+  },
+  {
+    "id": "bisultanov-da-vocu-zhala",
+    "type": "poem",
+    "title": {
+      "ce": "Да воцу жӀаьла",
+      "ru": "Пёс без отца",
+      "en": "The Fatherless Dog",
+      "fr": "Le chien sans père"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "философия",
+      "дагалецамаш",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "Диларшкахь ду цуьнан дажар, / Кхаьллешкахь ду цуьнан дажар."
+    }
+  },
+  {
+    "id": "bisultanov-san-bezam",
+    "type": "poem",
+    "title": {
+      "ce": "Сан безам...",
+      "ru": "Моя любовь…",
+      "en": "My Love…",
+      "fr": "Mon amour…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "безам",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Сан безам и хӀун ю и муха къастабо кхечо, / Со оцу тайпана хъесапаш оьшуш вац, Мохк."
+    }
+  },
+  {
+    "id": "bisultanov-san-dajmoxk",
+    "type": "poem",
+    "title": {
+      "ce": "Сан Даймохк...",
+      "ru": "Моя Родина…",
+      "en": "My Homeland…",
+      "fr": "Ma patrie…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Сан Даймохк бац хьуна абата тӀера, / Виначу юьртара болалац и."
+    }
+  },
+  {
+    "id": "bisultanov-bakhxochun-tezet",
+    "type": "poem",
+    "title": {
+      "ce": "БӀаьхочун тезет",
+      "ru": "Тезет воина",
+      "en": "The Warrior's Tezet",
+      "fr": "Le tezet du guerrier"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "маршо",
+      "лазам",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Бараман га лаьцна доцу вешин куьг а, / Кошан борза тӀе диллина доцу йишин куьг а,"
+    }
+  },
+  {
+    "id": "bisultanov-as-lorush-jolu-khel",
+    "type": "poem",
+    "title": {
+      "ce": "Ас лоруш йолу кхел",
+      "ru": "Суд, который я уважаю",
+      "en": "The Court I Honor",
+      "fr": "Le jugement que je respecte"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "безам",
+      "доьзал",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "АС ЛОРУШ ЙОЛУ КХЕЛ / сан зудчо"
+    }
+  },
+  {
+    "id": "bisultanov-bettasa-lekhachu-bujsanan-korge",
+    "type": "poem",
+    "title": {
+      "ce": "Беттаса лекхачу буьйсанан кӀоргенехь...",
+      "ru": "Луной в глубине высокой ночи…",
+      "en": "By Moonlight in the Deep of the High Night…",
+      "fr": "Au clair de lune, au fond de la haute nuit…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "философия",
+      "даймохк",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "беттаса лекхачу буьйсанан кӀоргенехь / ӀиндагӀа дазделча меттах ца валлал"
+    }
+  },
+  {
+    "id": "bisultanov-tesham-bocchu-kantana-joa-lekhna-jish",
+    "type": "poem",
+    "title": {
+      "ce": "Тешам боцчу кӀантана йоӀа лекхна йиш",
+      "ru": "Песня девушки неверному юноше",
+      "en": "A Girl's Song to an Unfaithful Lad",
+      "fr": "Chant d'une fille au jeune homme infidèle"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "безам",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "бохучарна баха хили / дуьйцучарна дийца хили"
+    }
+  },
+  {
+    "id": "bisultanov-caevzarg",
+    "type": "poem",
+    "title": {
+      "ce": "Цаевзарг",
+      "ru": "Незнакомка",
+      "en": "The Unknown One",
+      "fr": "L'inconnue"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "безам",
+      "философия",
+      "дагалецамаш"
+    ],
+    "text_preview": {
+      "ce": "1. / Со хьоьца Ӏаш вара"
+    }
+  },
+  {
+    "id": "bisultanov-noxchiyn-ballada",
+    "type": "poem",
+    "title": {
+      "ce": "Нохчийн баллада",
+      "ru": "Чеченская баллада",
+      "en": "Chechen Ballad",
+      "fr": "Ballade tchétchène"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "маршо",
+      "къонахалла"
+    ],
+    "text_preview": {
+      "ce": "Ваа сарахь суьйренца, / бузучу малхаца"
+    }
+  },
+  {
+    "id": "bisultanov-beralleh-kanalleh-levzinarg",
+    "type": "poem",
+    "title": {
+      "ce": "Бераллехь къаналлех левзинарг къаналлехь бераллех ловзу...",
+      "ru": "Игравший детством со старостью — старостью играет с детством…",
+      "en": "He Who Played with Old Age in Childhood, in Old Age Plays with Childhood…",
+      "fr": "Qui enfant jouait avec la vieillesse, vieillard, joue avec l'enfance…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "философия",
+      "бералла",
+      "дахаран"
+    ],
+    "text_preview": {
+      "ce": "бераллехь къаналлех левзинарг къаналлехь бераллех ловзу / кхачвалар ду кхачавалар, мухха а делахь а, ду иза валар"
+    }
+  },
+  {
+    "id": "bisultanov-oxuneh-tera-ju",
+    "type": "poem",
+    "title": {
+      "ce": "Охунех тера ю...",
+      "ru": "Похожи на пашню…",
+      "en": "Like a Ploughed Field…",
+      "fr": "Semblables à un champ labouré…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "нана",
+      "доьзал",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "охунех тера ю / хьан куьйгийн берчаш"
+    }
+  },
+  {
+    "id": "bisultanov-xusaman-ialasho-jocush",
+    "type": "poem",
+    "title": {
+      "ce": "ХӀусаман Ӏалашо йоцуш...",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "философия",
+      "даймохк",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "хӀусаман Ӏалашо йоцуш / И тӀулгаш тӀекӀела дихкинарг"
+    }
+  },
+  {
+    "id": "bisultanov-beralle",
+    "type": "poem",
+    "title": {
+      "ce": "Бералле",
+      "ru": "Детство",
+      "en": "Childhood",
+      "fr": "L'Enfance"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "бералла",
+      "философия",
+      "дагалецамаш"
+    ],
+    "text_preview": {
+      "ce": "Ков тоьхна веа со, хан йоцчу хенахь хьо гӀаттош, / Мохь тоьхна веа со, хьан шерийн тийналла Ӏадош."
+    }
+  },
+  {
+    "id": "bisultanov-doa",
+    "type": "poem",
+    "title": {
+      "ce": "ДоӀа",
+      "ru": "Молитва",
+      "en": "Prayer",
+      "fr": "Prière"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "назма",
+      "вера",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "лам лекха бу аьлча ломах / аьлларг аьлла доцу дела"
+    }
+  },
+  {
+    "id": "bisultanov-zarzarshca-chekhdolu-lamaz",
+    "type": "poem",
+    "title": {
+      "ce": "Зарзаршца чекхдолу ламаз...",
+      "ru": "Молитва, завершаемая зарзаром",
+      "en": "The Prayer That Ends with Zikr",
+      "fr": "La prière qui s'achève par le zikr"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "назма",
+      "вера",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "зарзаршца чекхдолу ламаз / къийгашца долало де."
+    }
+  },
+  {
+    "id": "bisultanov-ckha-tajpa-pafos-jocush-alcha",
+    "type": "poem",
+    "title": {
+      "ce": "Цхьа а тайпа пафос йоцуш аьлча",
+      "ru": "Если без всякого пафоса",
+      "en": "Without Any Pathos",
+      "fr": "Sans le moindre pathos"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "маршо",
+      "философия",
+      "доттагӀалла"
+    ],
+    "text_preview": {
+      "ce": "сан мостагӀийн яххьаш яцара / даима а цхьа юьхь яра церан"
+    }
+  },
+  {
+    "id": "bisultanov-kxoadaj-alalah-olush-derg",
+    "type": "poem",
+    "title": {
+      "ce": "Кхоадай алалахь олуш дерг соьга...",
+      "ru": "Кхоадай, скажи, что мне говорят…",
+      "en": "Khooday, Tell Me What They Say to Me…",
+      "fr": "Khooday, dis-moi ce qu'on me dit…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "безам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Кхоадай алалахь олуш дерг соьга, / Цкъа дохко яла а мегий хьо-м цунна."
+    }
+  },
+  {
+    "id": "bisultanov-ragu",
+    "type": "poem",
+    "title": {
+      "ce": "РагӀу",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "философия",
+      "дагалецамаш",
+      "сингаттам"
+    ],
+    "text_preview": {
+      "ce": "дирзина мехашна агӀор / дерзина лаьтта цхьа рагӀу"
+    }
+  },
+  {
+    "id": "bisultanov-shagatulgash",
+    "type": "poem",
+    "title": {
+      "ce": "ШагатӀулгаш",
+      "ru": null,
+      "en": null,
+      "fr": null
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "философия",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "ХӀацӀи – бицӀи – бицӀахь – цӀулга / Хьан дог ма ду шагатӀулган"
+    }
+  },
+  {
+    "id": "bisultanov-polonez-lakhijtijsha",
+    "type": "poem",
+    "title": {
+      "ce": "Полонез лакхийтийша, полонез...",
+      "ru": "Сыграйте полонез, полонез…",
+      "en": "Play the Polonaise, the Polonaise…",
+      "fr": "Jouez la polonaise, la polonaise…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "философия",
+      "даймохк",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Полонез лакхийтийша, полонез, / мацаллин ноти тӀера дӀайолаяй,"
+    }
+  },
+  {
+    "id": "bisultanov-ujjrenash-shu-marsha-ojla",
+    "type": "poem",
+    "title": {
+      "ce": "Ӏуьйренаш шу марша Ӏойла...",
+      "ru": "С добрым утром, рассветы…",
+      "en": "Good Morning, Dawns…",
+      "fr": "Bonjour, aurores…"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "депортаци",
+      "даймохк",
+      "назма"
+    ],
+    "text_preview": {
+      "ce": "Ӏуьйренаш, шу марша Ӏойла, / Суьйренаш, шу марша Ӏойла,"
+    }
+  },
+  {
+    "id": "minkailov-khajabi-kxena-kxor",
+    "type": "poem",
+    "title": {
+      "ce": "Суна чӏогӏа безам хета...",
+      "ru": "Мне кажется, я очень люблю...",
+      "en": "It Seems I Love Deeply...",
+      "fr": "Il me semble que j'aime tant..."
+    },
+    "author": "Минкаилов Хьаяби",
+    "tags": [
+      "гӏиллакх",
+      "оьздангалла",
+      "хьошалла"
+    ],
+    "text_preview": {
+      "ce": "Суна чӏогӏа безам хета / Дӏо ширбелла къена кхор."
+    }
+  },
+  {
+    "id": "beksultanov-musa-bujsa-xaza",
+    "type": "poem",
+    "title": {
+      "ce": "Буьйса хаза, буьйса тийна...",
+      "ru": "Ночь прекрасна, ночь тиха...",
+      "en": "The Night Is Beautiful, the Night Is Still...",
+      "fr": "La nuit est belle, la nuit est calme..."
+    },
+    "author": "Бексултанов Муса",
+    "tags": [
+      "даймохк",
+      "буьйса",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Буьйса хаза, буьйса тийна, / Седа боду стиглахь раз,"
+    }
+  },
+  {
+    "id": "mincaev-alvi-nakharmoza",
+    "type": "poem",
+    "title": {
+      "ce": "Кӏадбаллалц къахьегна дургалш лахьийна...",
+      "ru": "Собирая нектар до изнеможения...",
+      "en": "Gathering Nectar Until Weariness...",
+      "fr": "Recueillant le nectar jusqu'à l'épuisement..."
+    },
+    "author": "Минцаев ӏальви",
+    "tags": [
+      "даймохк",
+      "нохчийчоь",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Кӏадбаллалц къахьегна дургалш лахьийна, / Уьш ӏенча, тӏегулйеш, куьйгаш дахьийна,"
+    }
+  },
+  {
+    "id": "bisultanov-degasta",
+    "type": "poem",
+    "title": {
+      "ce": "Дегӏаста",
+      "ru": "Дагестан",
+      "en": "Dagestan",
+      "fr": "Daghestan"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "маршо",
+      "истори"
+    ],
+    "text_preview": {
+      "ce": "Йуха а йарташ тӏехь сенлуш ду кӏарраш / Йуха а цӏинлуш ду ламанийн карраш"
+    }
+  },
+  {
+    "id": "saidov-bilal-nenan-mott",
+    "type": "poem",
+    "title": {
+      "ce": "Ненан мотт",
+      "ru": "Родной язык",
+      "en": "The Mother Tongue",
+      "fr": "La langue maternelle"
+    },
+    "author": "Саидов Билал",
+    "tags": [
+      "ненан мотт",
+      "мотт",
+      "хьехам"
+    ],
+    "text_preview": {
+      "ce": "Хьох лаьцна йаздина, / Дийца а дийцина."
+    }
   }
 ]
