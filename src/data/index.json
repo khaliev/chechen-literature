@@ -6029,5 +6029,227 @@
     "available_languages": [
       "ru"
     ]
+  },
+  {
+    "id": "geshaev-ya-tak-hochu",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "I So Want My Poems…",
+      "fr": "Je veux tant que mes poèmes…",
+      "ru": "Я так хочу, чтобы стихи мои…"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "поэзи",
+      "халкъ",
+      "безам"
+    ],
+    "text_preview": {
+      "ru": "Я так хочу, чтобы стихи мои / Сопровождали каждого по жизни:"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-gordis-vaynah",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Be Proud, Vainakh, of Your Dancer",
+      "fr": "Sois fier, Vainakh, de ton danseur",
+      "ru": "Гордись, вайнах, своим танцором"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "хелхар",
+      "вайнах",
+      "сий"
+    ],
+    "text_preview": {
+      "ru": "Гордись, вайнах, своим танцором, / Его таланту поклонись!"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-kto-my",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Who Are We? Where From? Do You Know?",
+      "fr": "Qui sommes-nous ? D'où ? Le savez-vous ?",
+      "ru": "Кто мы? Откуда? Вы знаете?"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "лаьмнаш",
+      "вайнах",
+      "къонах"
+    ],
+    "text_preview": {
+      "ru": "Кто мы? Откуда? Вы знаете? / Мы горцы с кавказских вершин."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-gorets-gortsu",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "A Highlander Says to a Highlander",
+      "fr": "Un montagnard dit à un montagnard",
+      "ru": "Горец горцу говорит"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "яхь",
+      "къонах",
+      "гӀиллакх"
+    ],
+    "text_preview": {
+      "ru": "Горец горцу говорит / “Ты ослеп не зря –"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-frantsuzy-kavkaza",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Frenchmen of the Caucasus",
+      "fr": "Les Français du Caucase",
+      "ru": "Французы Кавказа"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "вайнах",
+      "сий",
+      "хьаша"
+    ],
+    "text_preview": {
+      "ru": "Есть парни такие – живут они в Грозном, / Вайнахи, конечно, по происхожденью."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-devushka-poslushay",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Listen to Me, Girl",
+      "fr": "Écoute-moi, jeune fille",
+      "ru": "Ты послушай, девушка, меня"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "къаьмнаш",
+      "яхь",
+      "доттагӀалла"
+    ],
+    "text_preview": {
+      "ru": "Мне сказала девушка одна: / “Почему не любим мы чеченцев?”"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-lechu-vo-frantsiyu",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Flying to France",
+      "fr": "Envol vers la France",
+      "ru": "Лечу во Францию"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "франция",
+      "мир",
+      "чечня"
+    ],
+    "text_preview": {
+      "ru": "Лечу во Францию, / За миром для Чечни."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-skolko-spilos",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "How Many Sages Have Drunk Themselves Away…",
+      "fr": "Combien de sages ont sombré…",
+      "ru": "Сколько спилось мудрецов…"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "сатира",
+      "власть",
+      "чечня"
+    ],
+    "text_preview": {
+      "ru": "Сколько спилось мудрецов! / Сколько царствует глупцов!"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "berzloev-tebe-khvala",
+    "type": "poem",
+    "title": {
+      "ce": "Со гӀаскхи бусулб ву…",
+      "en": "Praise Be to You…",
+      "fr": "Louange à Toi…",
+      "ru": "Тебе хвала…"
+    },
+    "author": "Рамазан Берзлоев",
+    "tags": [
+      "вера",
+      "иман",
+      "коран"
+    ],
+    "text_preview": {
+      "ce": "Со гӀаскхи бусулб ву",
+      "ru": "и этой участью доволен,"
+    },
+    "available_languages": [
+      "ce",
+      "ru"
+    ]
+  },
+  {
+    "id": "berzloev-posvyashchaetsya-baievu",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Dedicated to Khasan Bayev…",
+      "fr": "Dédié à Khassan Baïev…",
+      "ru": "Посвящается Хасану Баиеву…"
+    },
+    "author": "Рамазан Берзлоев",
+    "tags": [
+      "врач",
+      "баиев",
+      "война"
+    ],
+    "text_preview": {
+      "ru": "Хасан – ты гордость для народа; / Под пулями в нелёгкий час"
+    },
+    "available_languages": [
+      "ru"
+    ]
   }
 ]
