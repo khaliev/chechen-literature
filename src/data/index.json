@@ -3675,7 +3675,7 @@
     "id": "gatsaev-daimokhk",
     "type": "poem",
     "title": {
-      "ce": null,
+      "ce": "Даймохк",
       "ru": "Даймохк",
       "en": "Daimokhk",
       "fr": "Daïmokhk"
@@ -3689,7 +3689,8 @@
     "text_preview": {
       "ru": "Душу мою ты желаешь?",
       "en": "Do you want my soul? / – Yes, if it is that of a Man.",
-      "fr": "T'as besoin de mon âme ? / – Oui, si c'est celle d'un Homme."
+      "fr": "T'as besoin de mon âme ? / – Oui, si c'est celle d'un Homme.",
+      "ce": "– Даймохк, / Хьуна сан са оьший?"
     }
   },
   {
@@ -4426,19 +4427,19 @@
     "id": "minkailov-khajabi-kxena-kxor",
     "type": "poem",
     "title": {
-      "ce": "Суна чӏогӏа безам хета...",
+      "ce": "Суна чӀогӀа безам хета...",
       "ru": "Мне кажется, я очень люблю...",
       "en": "It Seems I Love Deeply...",
       "fr": "Il me semble que j'aime tant..."
     },
     "author": "Минкаилов Хьаяби",
     "tags": [
-      "гӏиллакх",
+      "гӀиллакх",
       "оьздангалла",
       "хьошалла"
     ],
     "text_preview": {
-      "ce": "Суна чӏогӏа безам хета / Дӏо ширбелла къена кхор."
+      "ce": "Суна чӀогӀа безам хета / ДӀо ширбелла къена кхор."
     }
   },
   {
@@ -4464,29 +4465,29 @@
     "id": "mincaev-alvi-nakharmoza",
     "type": "poem",
     "title": {
-      "ce": "Кӏадбаллалц къахьегна дургалш лахьийна...",
+      "ce": "КӀадбаллалц къахьегна дургалш лахьийна...",
       "ru": "Собирая нектар до изнеможения...",
       "en": "Gathering Nectar Until Weariness...",
       "fr": "Recueillant le nectar jusqu'à l'épuisement..."
     },
-    "author": "Минцаев ӏальви",
+    "author": "Минцаев Ӏальви",
     "tags": [
       "даймохк",
       "нохчийчоь",
       "безам"
     ],
     "text_preview": {
-      "ce": "Кӏадбаллалц къахьегна дургалш лахьийна, / Уьш ӏенча, тӏегулйеш, куьйгаш дахьийна,"
+      "ce": "КӀадбаллалц къахьегна дургалш лахьийна, / Уьш Ӏенча, тӀегулйеш, куьйгаш дахьийна,"
     }
   },
   {
     "id": "bisultanov-degasta",
     "type": "poem",
     "title": {
-      "ce": "Дегӏаста",
-      "ru": "Дагестан",
-      "en": "Dagestan",
-      "fr": "Daghestan"
+      "ce": "ДегӀаста",
+      "ru": "Родина",
+      "en": "Homeland",
+      "fr": "La patrie"
     },
     "author": "Апти Бисултанов",
     "tags": [
@@ -4495,7 +4496,7 @@
       "истори"
     ],
     "text_preview": {
-      "ce": "Йуха а йарташ тӏехь сенлуш ду кӏарраш / Йуха а цӏинлуш ду ламанийн карраш"
+      "ce": "Йуха а йарташ тӀехь сенлуш ду кӀарраш / Йуха а цӀинлуш ду ламанийн карраш"
     }
   },
   {
@@ -4515,6 +4516,462 @@
     ],
     "text_preview": {
       "ce": "Хьох лаьцна йаздина, / Дийца а дийцина."
+    }
+  },
+  {
+    "id": "mokhmad-mamakaev-nana",
+    "type": "poem",
+    "title": {
+      "ce": "Нана",
+      "ru": "Мать",
+      "en": "Mother",
+      "fr": "Mère"
+    },
+    "author": "Мохьмад Мамакаев",
+    "tags": [
+      "нана",
+      "доьзал",
+      "мамакаев"
+    ],
+    "text_preview": {
+      "ce": "Сан нана, хьо хасто дош суна дисна дац;"
+    }
+  },
+  {
+    "id": "magomadov-khechi-suyrenash",
+    "type": "poem",
+    "title": {
+      "ce": "ТӀе кхечи суьйренаш тийна",
+      "ru": "Строки нежной любви",
+      "en": "Lines of Tender Love",
+      "fr": "Vers d'un amour tendre"
+    },
+    "author": "Хамзат Магомадов",
+    "tags": [
+      "кхечи",
+      "безам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "ТӀе кхечи суьйренаш тийна / ДӀа яхи хаза и хан,"
+    }
+  },
+  {
+    "id": "magomadov-ezachukh-kastash",
+    "type": "poem",
+    "title": {
+      "ce": "Езачух къаьсташ",
+      "ru": "Слова возлюбленной",
+      "en": "Words of the Beloved",
+      "fr": "Paroles de l'amée"
+    },
+    "author": "Хамзат Магомадов",
+    "tags": [
+      "безам",
+      "лирика",
+      "ма ала езнариг соьга"
+    ],
+    "text_preview": {
+      "ce": "Ма ала езнариг соьга / Яхна хан йогӀур яц юха,"
+    }
+  },
+  {
+    "id": "nunuev-v-tme-glukhikh",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Во тьме глухих тысячелетий",
+      "en": "In the Darkness of Millennia",
+      "fr": "Dans l'obscurité des millénaires"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "восток",
+      "вайнах",
+      "нахи",
+      "история"
+    ],
+    "text_preview": {
+      "ru": "Во тьме глухих тысячелетий, / Под пылью сказочных времен,"
+    }
+  },
+  {
+    "id": "nunuev-ty-pechalen-brat",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Ты печален, брат чеченец",
+      "en": "You Are Sad, Chechen Brother",
+      "fr": "Tu es triste, frère tchétchène"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "братство",
+      "честь",
+      "размышление"
+    ],
+    "text_preview": {
+      "ru": "Ты печален, брат чеченец. / Ты грустна, сестра моя."
+    }
+  },
+  {
+    "id": "bino-little-soldier",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": "Маленький солдат",
+      "en": "Little Soldier",
+      "fr": "Petit soldat"
+    },
+    "author": "Роза Бино",
+    "tags": [
+      "enfance",
+      "guerre",
+      "tchétchénie"
+    ],
+    "text_preview": {
+      "en": "What happened to that child? / Why do I see a reflection of a broken happiness deep in this child’s eyes?",
+      "fr": "Que s’est-il passé pour cet enfant ? / Pourquoi vois-je le reflet d’un bonheur brisé au plus profond des yeux de cet enfant ?"
+    }
+  },
+  {
+    "id": "ili-chyorny-nogay",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Илли о Чёрном Ногае",
+      "en": "Illi about the Black Nogai",
+      "fr": "Illi sur le Nogai noir"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "чёрный ногай",
+      "къонагх"
+    ],
+    "text_preview": {
+      "ru": "Ва-лай-ла, я-ла-лай, ва-лай-ла, я-ла-лай, / ва-лай-ла, я-ла-лай!"
+    }
+  },
+  {
+    "id": "ili-gornyy-pastukh",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Илли о горном пастухе",
+      "en": "Illi about the Mountain Shepherd",
+      "fr": "Illi sur le berger des montagnes"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "пастух",
+      "сны"
+    ],
+    "text_preview": {
+      "ru": "Три тыщи овец он гнал пред собой, / вперед поставив ярых козлищ,"
+    }
+  },
+  {
+    "id": "ili-zhammirza-mady",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Илли о Жаммирзе, сыне Мады из Чечана",
+      "en": "Illi about Zhammirza, Son of Mada of Chechan",
+      "fr": "Illi sur Djammirza, fils de Mada, de Tchetchan"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "жаммирза",
+      "альбика"
+    ],
+    "text_preview": {
+      "ru": "Запрягали лошадей поджарых / в прочную почтовую карету,"
+    }
+  },
+  {
+    "id": "ili-chega-beybulat",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Илли о Храбром Чеге и Бейбулате, сыне Таймы",
+      "en": "Illi about Brave Chega and Beybulat, Son of Taima",
+      "fr": "Illi sur le vaillant Tchéga et Beyboulat, fils de Taïma"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "чега",
+      "бейбулат"
+    ],
+    "text_preview": {
+      "ru": "Расположившись на стуле трёхногом, / думы и чувства доверив струнам пандура,"
+    }
+  },
+  {
+    "id": "ili-syn-vdovy-musost",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Илли о Сыне Вдовы и князе Мусосте",
+      "en": "Illi about the Widow’s Son and Prince Musost",
+      "fr": "Illi sur le Fils de la Veuve et le prince Moussost"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "сын вдовы",
+      "мусост"
+    ],
+    "text_preview": {
+      "ru": "На закате солнца было: юный Сын Вдовы пришел / под окно, где рукодельем дочь богатого Дады занималась,"
+    }
+  },
+  {
+    "id": "ili-saylakha",
+    "type": "song",
+    "title": {
+      "ce": null,
+      "ru": "Илли о Сайлахе, у которой брата нет",
+      "en": "Illi about Saylakha, Who Has No Brother",
+      "fr": "Illi sur Saïlakha, celle qui n’a pas de frère"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "илли",
+      "сайлаха",
+      "сын вдовы"
+    ],
+    "text_preview": {
+      "ru": "В сумерках, когда сгустилась тьма / в комнате, что велика для двух,"
+    }
+  },
+  {
+    "id": "bisultanov-thoroughbred-night",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "A Thoroughbred Night",
+      "fr": null
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "философия",
+      "лирика"
+    ],
+    "text_preview": {
+      "en": "So bright / That a dog barks at its shadow"
+    }
+  },
+  {
+    "id": "bisultanov-khaibakh",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Khaibakh!",
+      "fr": null
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "депортаци",
+      "назма"
+    ],
+    "text_preview": {
+      "en": "I know nothing, not where head or foot / A beak gnaws away at my heart"
+    }
+  },
+  {
+    "id": "yusupov-ilman-regret",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "Regret",
+      "fr": null
+    },
+    "author": "Ильман Юсупов",
+    "tags": [
+      "философия",
+      "размышление"
+    ],
+    "text_preview": {
+      "en": "The wasp always flies around choosing only the ripest pear, / The grey-haired dandelion opens its arms to the piercing blast."
+    }
+  },
+  {
+    "id": "yusupov-ilman-to-nokhchichoh",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "ru": null,
+      "en": "To Nokhchichoh",
+      "fr": null
+    },
+    "author": "Ильман Юсупов",
+    "tags": [
+      "нохчийчоь",
+      "стигал",
+      "некъ"
+    ],
+    "text_preview": {
+      "en": "Nokhchicho! You will hear my whisper, I know. / When I breathe my last on the final verge, and"
+    }
+  },
+  {
+    "id": "bisultanov-daymokhk-la-terre-des-ancetres",
+    "type": "poem",
+    "title": {
+      "ce": "Даймохк",
+      "ru": null,
+      "en": null,
+      "fr": "La Terre des Ancêtres"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "даймохк",
+      "безам"
+    ],
+    "text_preview": {
+      "ce": "Хууш ду, массо а кӀантана / Оьшуш буй хьомсара Даймохк.",
+      "fr": "Tous les enfants mâles, c’est connu, / De leur chère patrie ont besoin."
+    }
+  },
+  {
+    "id": "bisultanov-tshalla",
+    "type": "poem",
+    "title": {
+      "ce": "Цхьалла",
+      "ru": null,
+      "en": null,
+      "fr": "La Solitude"
+    },
+    "author": "Апти Бисултанов",
+    "tags": [
+      "размышление",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "эгабо боданехь серлонан сара, / берда тӀехь чӀарано садоьӀуш санна.",
+      "fr": "Le rayon de lumière tremble dans l’obscurité, / Comme un poisson qui respire sur la rive."
+    }
+  },
+  {
+    "id": "gatsaev-so-m-khan-variy-nohchiycho",
+    "type": "poem",
+    "title": {
+      "ce": "Со-м хьан варий, Нохчийчоь",
+      "ru": null,
+      "en": null,
+      "fr": "Je suis à toi, ma Tchétchénie"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "нохчийчоь",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Со-м хьан варий, Нохчийчоь, / Хьо-м сан ярий, Нохчийчоь,",
+      "fr": "Je suis à toi ma Tchétchénie, / Tu es à moi ma Tchétchénie."
+    }
+  },
+  {
+    "id": "gatsaev-kho-tserga-khottina",
+    "type": "poem",
+    "title": {
+      "ce": "Хьо цӀерга хӀоьттина",
+      "ru": null,
+      "en": null,
+      "fr": "Par le feu tu es passée"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь"
+    ],
+    "text_preview": {
+      "ce": "Хьо цӀерга хӀоьттина, / Хьо цӀаро еттина,",
+      "fr": "Par le feu tu es passée / Dans le feu tu es brûlée"
+    }
+  },
+  {
+    "id": "gatsaev-dika-du-baste",
+    "type": "poem",
+    "title": {
+      "ce": "Дика ду, бӀаьсте",
+      "ru": null,
+      "en": null,
+      "fr": "Comme il est bon"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "бӀаьсте",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "Дика ду, бӀаьсте, / Хьо яьлла,",
+      "fr": "Comme il est bon / Que le printemps soit arrivé."
+    }
+  },
+  {
+    "id": "gatsaev-khan-dyulo-tsa-gyo-vay",
+    "type": "poem",
+    "title": {
+      "ce": "ХӀан, дуьло, цӀа гӀо вай",
+      "ru": null,
+      "en": null,
+      "fr": "Et si nous y allions maintenant ?"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "депортаци",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ce": "ХӀан, дуьло, цӀа гӀо вай, / Вайн бакъо ели,",
+      "fr": "Et si nous y allions maintenant ? / Nous en avons le droit, finalement"
+    }
+  },
+  {
+    "id": "gatsaev-churt-dotsush-dyusu-vayn",
+    "type": "poem",
+    "title": {
+      "ce": "Чурт доцуш дуьсу вайн",
+      "ru": null,
+      "en": null,
+      "fr": "De leurs pierres tombales privées"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "депортаци",
+      "некъ"
+    ],
+    "text_preview": {
+      "ce": "Чурт доцуш дуьсу вайн / Кхузара кешнаш.",
+      "fr": "De leurs pierres tombales privées, / Les tombeaux de nos proches sont restés."
+    }
+  },
+  {
+    "id": "gatsaev-khiun-du-sil-a-merza",
+    "type": "poem",
+    "title": {
+      "ce": "ХӀун ду, хӀун ду",
+      "ru": null,
+      "en": null,
+      "fr": "Existe-t-il une chose plus précieuse que l’âme ?"
+    },
+    "author": "СаьӀид Гацаев",
+    "tags": [
+      "даймохк",
+      "нохчийчоь"
+    ],
+    "text_preview": {
+      "ce": "– ХӀун ду, хӀун ду / Сил а мерза?",
+      "fr": "– Existe-t-il une chose plus précieuse que l’âme ? / – C’est le cher Pays ! lui répondit-on."
     }
   }
 ]
