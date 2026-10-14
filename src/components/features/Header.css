@@ -70,6 +70,25 @@
   gap: var(--space-4);
 }
 
+.header__random-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-md);
+  color: var(--color-text-secondary);
+  background-color: transparent;
+  transition:
+    background-color var(--transition-fast),
+    color var(--transition-fast);
+}
+
+.header__random-btn:hover {
+  background-color: var(--color-bg-hover);
+  color: var(--color-accent);
+}
+
 .header__hamburger {
   display: none;
   background: transparent;
@@ -135,6 +154,13 @@
 }
 .header__mobile-nav a.active {
   color: var(--color-accent);
+}
+
+.header__mobile-random {
+  text-align: left;
+  font-size: var(--text-lg);
+  color: var(--color-accent);
+  font-weight: 500;
 }
 
 .header__mobile-actions {

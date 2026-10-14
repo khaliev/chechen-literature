@@ -6,8 +6,7 @@ import { usePagination } from '@/hooks/usePagination';
 import { getAllTags } from '@/utils/searchUtils';
 import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
 import SearchBar from '@/components/features/SearchBar';
-import PoemCard from '@/components/features/PoemCard';
-import Button from '@/components/ui/Button';
+import CatalogGrid from '@/components/features/CatalogGrid';
 import { catalogWorks } from '@/data/catalog';
 import NotFound from './NotFound';
 import './Category.css';
@@ -81,27 +80,13 @@ export default function Category() {
       </section>
 
       <section className="category__results">
-        {results.length > 0 ? (
-          <>
-            <div className="category__grid">
-              {visibleResults.map((work) => (
-                <PoemCard key={work.id} work={work} contentLanguage={contentLanguage} />
-              ))}
-            </div>
-            {visibleCount < results.length && (
-              <div className="category__pagination">
-                <p className="category__pagination-count">
-                  {visibleResults.length} / {results.length}
-                </p>
-                <Button variant="secondary" onClick={showMore}>
-                  {t('show_more')}
-                </Button>
-              </div>
-            )}
-          </>
-        ) : (
-          <p className="category__no-results">{t('search_no_results')}</p>
-        )}
+        <CatalogGrid
+          results={results}
+          visibleResults={visibleResults}
+          visibleCount={visibleCount}
+          showMore={showMore}
+          contentLanguage={contentLanguage}
+        />
       </section>
     </div>
   );

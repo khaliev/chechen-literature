@@ -7,6 +7,7 @@ import Home from '@/pages/Home';
 import PoemDetail from '@/pages/PoemDetail';
 import Category from '@/pages/Category';
 import Author from '@/pages/Author';
+import Authors from '@/pages/Authors';
 import NotFound from '@/pages/NotFound';
 
 import ScrollToTop from '@/components/utils/ScrollToTop';
@@ -25,6 +26,7 @@ export default function App() {
               <Route path="/song/:id" element={<PoemDetail />} />
               <Route path="/prose/:id" element={<PoemDetail />} />
               <Route path="/category/:type" element={<Category />} />
+              <Route path="/authors" element={<Authors />} />
               <Route path="/author/:slug" element={<Author />} />
               <Route path="*" element={<NotFound />} />
             </Routes>

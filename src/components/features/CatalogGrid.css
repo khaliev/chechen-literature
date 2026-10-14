@@ -1,0 +1,33 @@
+.catalog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: var(--space-6);
+  animation: fadeIn 0.4s ease;
+}
+
+.catalog-grid__no-results {
+  text-align: center;
+  color: var(--color-text-muted);
+  font-size: var(--text-lg);
+  padding: var(--space-12) 0;
+}
+
+.catalog-grid__pagination {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-3);
+  padding-top: var(--space-10);
+}
+
+.catalog-grid__count {
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .catalog-grid {
+    grid-template-columns: 1fr;
+  }
+}

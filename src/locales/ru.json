@@ -6,6 +6,7 @@
   "nav_poems": "Стихи",
   "nav_songs": "Песни",
   "nav_prose": "Проза",
+  "nav_authors": "Авторы",
   "search_placeholder": "Поиск...",
   "search_no_results": "Ничего не найдено",
   "filter_all": "Все",
@@ -51,5 +52,12 @@
   "language_ce": "Чеченский",
   "language_ru": "Русский",
   "language_en": "Английский",
-  "language_fr": "Французский"
+  "language_fr": "Французский",
+  "parallel_view": "Параллельное чтение",
+  "font_size_label": "Размер шрифта",
+  "font_size_decrease": "Уменьшить шрифт",
+  "font_size_increase": "Увеличить шрифт",
+  "random_work": "Случайное произведение",
+  "authors_count_label": "авторов",
+  "sort_by_works_count": "По числу произведений"
 }

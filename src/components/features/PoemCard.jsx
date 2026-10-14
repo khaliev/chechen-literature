@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { useLanguage } from '@/context/LanguageContext';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getFieldInLanguage, getTranslatedField } from '@/utils/getTranslatedField';
@@ -10,6 +10,7 @@ import './PoemCard.css';
 const PoemCard = ({ work, contentLanguage }) => {
   const { language } = useLanguage();
   const { t } = useTranslation();
+  const navigate = useNavigate();
 
   if (!work) return null;
 
@@ -26,6 +27,12 @@ const PoemCard = ({ work, contentLanguage }) => {
   const showLanguageBadge = selectedContentLanguage === 'all' || displayLanguage !== language;
   const authorName = getWorkAuthor(work, language);
   const detailPath = `/${work.type}/${work.id}?lang=${displayLanguage}`;
+
+  const handleTagClick = (e, tag) => {
+    e.preventDefault();
+    e.stopPropagation();
+    navigate(`/?tag=${encodeURIComponent(tag)}`);
+  };
 
   return (
     <Link to={detailPath} className="poem-card">
@@ -46,7 +53,7 @@ const PoemCard = ({ work, contentLanguage }) => {
       {work.tags && work.tags.length > 0 && (
         <div className="poem-card__tags">
           {work.tags.map((tag) => (
-            <Tag key={tag} label={tag} />
+            <Tag key={tag} label={tag} onClick={(e) => handleTagClick(e, tag)} />
           ))}
         </div>
       )}

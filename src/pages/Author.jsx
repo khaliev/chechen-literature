@@ -8,8 +8,7 @@ import { getAllTags } from '@/utils/searchUtils';
 import { getAuthorName } from '@/utils/authorName';
 import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
 import SearchBar from '@/components/features/SearchBar';
-import PoemCard from '@/components/features/PoemCard';
-import Button from '@/components/ui/Button';
+import CatalogGrid from '@/components/features/CatalogGrid';
 import { catalogWorks } from '@/data/catalog';
 import NotFound from './NotFound';
 import './Author.css';
@@ -87,27 +86,13 @@ export default function Author() {
       </section>
 
       <section className="author__results">
-        {results.length > 0 ? (
-          <>
-            <div className="author__grid">
-              {visibleResults.map((work) => (
-                <PoemCard key={work.id} work={work} contentLanguage={contentLanguage} />
-              ))}
-            </div>
-            {visibleCount < results.length && (
-              <div className="author__pagination">
-                <p className="author__pagination-count">
-                  {visibleResults.length} / {results.length}
-                </p>
-                <Button variant="secondary" onClick={showMore}>
-                  {t('show_more')}
-                </Button>
-              </div>
-            )}
-          </>
-        ) : (
-          <p className="author__no-results">{t('search_no_results')}</p>
-        )}
+        <CatalogGrid
+          results={results}
+          visibleResults={visibleResults}
+          visibleCount={visibleCount}
+          showMore={showMore}
+          contentLanguage={contentLanguage}
+        />
       </section>
     </div>
   );

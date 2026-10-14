@@ -31,6 +31,7 @@ const today = new Date().toISOString().slice(0, 10);
 
 const urls = [
   { loc: `${siteUrl}/`, lastmod: today, changefreq: 'daily', priority: '1.0' },
+  { loc: `${siteUrl}/authors`, lastmod: today, changefreq: 'weekly', priority: '0.8' },
   ...['poem', 'song', 'prose'].map((type) => ({
     loc: `${siteUrl}/category/${type}`,
     lastmod: today,

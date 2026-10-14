@@ -20,6 +20,21 @@
     />
 
     <title>Нохчийн литература — Байташ, иллеш, проза</title>
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('theme');
+          var theme =
+            saved === 'light' || saved === 'dark'
+              ? saved
+              : window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+                ? 'dark'
+                : 'light';
+          document.documentElement.setAttribute('data-theme', theme);
+          document.documentElement.style.colorScheme = theme;
+        } catch (e) {}
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

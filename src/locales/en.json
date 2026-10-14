@@ -6,6 +6,7 @@
   "nav_poems": "Poetry",
   "nav_songs": "Songs",
   "nav_prose": "Prose",
+  "nav_authors": "Authors",
   "search_placeholder": "Search...",
   "search_no_results": "Nothing found",
   "filter_all": "All",
@@ -51,5 +52,12 @@
   "language_ce": "Chechen",
   "language_ru": "Russian",
   "language_en": "English",
-  "language_fr": "French"
+  "language_fr": "French",
+  "parallel_view": "Side-by-side view",
+  "font_size_label": "Font size",
+  "font_size_decrease": "Decrease font size",
+  "font_size_increase": "Increase font size",
+  "random_work": "Random work",
+  "authors_count_label": "authors",
+  "sort_by_works_count": "By number of works"
 }

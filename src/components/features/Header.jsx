@@ -1,15 +1,30 @@
 import { useEffect, useState } from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { Link, NavLink, useNavigate } from 'react-router-dom';
+import { useLanguage } from '@/context/LanguageContext';
 import { useTranslation } from '@/hooks/useTranslation';
+import { getPreferredContentLanguage, hasContentInLanguage } from '@/utils/contentLanguage';
+import { catalogWorks } from '@/data/catalog';
 import LanguageSwitcher from './LanguageSwitcher';
 import ThemeToggle from './ThemeToggle';
 import './Header.css';
 
 const Header = () => {
+  const { language } = useLanguage();
   const { t } = useTranslation();
+  const navigate = useNavigate();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const closeMenu = () => setIsMenuOpen(false);
+
+  const handleRandomWork = () => {
+    closeMenu();
+    if (!catalogWorks.length) return;
+    const pool = catalogWorks.filter((w) => hasContentInLanguage(w, language));
+    const candidates = pool.length > 0 ? pool : catalogWorks;
+    const randomWork = candidates[Math.floor(Math.random() * candidates.length)];
+    const displayLang = getPreferredContentLanguage(randomWork, language);
+    navigate(`/${randomWork.type}/${randomWork.id}?lang=${displayLang}`);
+  };
 
   useEffect(() => {
     if (!isMenuOpen) return;
@@ -34,10 +49,35 @@ const Header = () => {
           <NavLink to="/category/poem">{t('nav_poems')}</NavLink>
           <NavLink to="/category/song">{t('nav_songs')}</NavLink>
           <NavLink to="/category/prose">{t('nav_prose')}</NavLink>
+          <NavLink to="/authors">{t('nav_authors')}</NavLink>
         </nav>
 
         <div className="header__actions">
           <div className="header__actions-desktop">
+            <button
+              type="button"
+              className="header__random-btn"
+              onClick={handleRandomWork}
+              title={t('random_work')}
+              aria-label={t('random_work')}
+            >
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <polyline points="16 3 21 3 21 8"></polyline>
+                <line x1="4" y1="20" x2="21" y2="3"></line>
+                <polyline points="21 16 21 21 16 21"></polyline>
+                <line x1="15" y1="15" x2="21" y2="21"></line>
+                <line x1="4" y1="4" x2="9" y2="9"></line>
+              </svg>
+            </button>
             <LanguageSwitcher />
             <ThemeToggle />
           </div>
@@ -88,6 +128,12 @@ const Header = () => {
               <NavLink to="/category/prose" onClick={closeMenu}>
                 {t('nav_prose')}
               </NavLink>
+              <NavLink to="/authors" onClick={closeMenu}>
+                {t('nav_authors')}
+              </NavLink>
+              <button type="button" className="header__mobile-random" onClick={handleRandomWork}>
+                {t('random_work')}
+              </button>
             </nav>
             <div className="header__mobile-actions">
               <LanguageSwitcher />

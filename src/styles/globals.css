@@ -188,11 +188,9 @@ button {
   .footer,
   .search-bar,
   .poem-detail__actions,
-  .poem-detail__translation,
+  .poem-detail__translation-controls,
   .similar-works,
-  .home__pagination,
-  .category__pagination,
-  .author__pagination {
+  .catalog-grid__pagination {
     display: none !important;
   }
   body {
