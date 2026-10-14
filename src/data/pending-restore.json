@@ -1,0 +1,138 @@
+{
+  "_note": "Entrees retirees de index.json car sans texte plein (aucune occurrence dans poems/songs/prose.json ni backups). A restaurer avec texte complet via generate-index.",
+  "_archived_at": "2026-10-14",
+  "_count": 7,
+  "works": [
+    {
+      "id": "bisultanov-chabanekh",
+      "type": "poem",
+      "title": {
+        "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю…",
+        "ru": "Я не могу расстаться с твоей молодостью…"
+      },
+      "author": "Апти Бисултанов",
+      "tags": [
+        "безам",
+        "къастар",
+        "ирс"
+      ],
+      "text_preview": {
+        "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю, / КӀайчу говрана туьйра дуьйцур ду,…"
+      }
+    },
+    {
+      "id": "mokhmad-mamakaev-daymehkan-kostash",
+      "type": "poem",
+      "title": {
+        "ce": "Даймехкан косташ",
+        "ru": "Заветы родины",
+        "en": "Homeland's Testament",
+        "fr": "Le testament de la patrie"
+      },
+      "author": "Мохьмад Мамакаев",
+      "tags": [
+        "даймохк",
+        "гӀиллакх",
+        "хьехам"
+      ],
+      "text_preview": {
+        "ce": "Шуьга ду маршалла, хьомсара накъостий..."
+      }
+    },
+    {
+      "id": "mokhmad-mamakaev-daymohk",
+      "type": "poem",
+      "title": {
+        "ce": "Даймохк",
+        "ru": "Родина",
+        "en": "Homeland",
+        "fr": "Patrie"
+      },
+      "author": "Мохьмад Мамакаев",
+      "tags": [
+        "даймохк",
+        "безам",
+        "философия"
+      ],
+      "text_preview": {
+        "ce": "Ницкъ, сий, къуоналла, кхидерг а, / Массо а дӀагӀур ду…"
+      }
+    },
+    {
+      "id": "mokhmad-mamakaev-dyayala",
+      "type": "poem",
+      "title": {
+        "ce": "ДӀаяла",
+        "ru": "Уходи",
+        "en": "Leave",
+        "fr": "Pars"
+      },
+      "author": "Мохьмад Мамакаев",
+      "tags": [
+        "безам",
+        "къастар",
+        "лирика"
+      ],
+      "text_preview": {
+        "ce": "ДӀаяла! Ма хьежа соь яьлла цӀе хилий..."
+      }
+    },
+    {
+      "id": "mokhmad-mamakaev-zama",
+      "type": "poem",
+      "title": {
+        "ce": "Зама",
+        "ru": "Время",
+        "en": "Time",
+        "fr": "Temps"
+      },
+      "author": "Мохьмад Мамакаев",
+      "tags": [
+        "зама",
+        "дахар",
+        "философия"
+      ],
+      "text_preview": {
+        "ce": "Зама, ма сихло, сан зама, / Цхьажимма некъ бита суна…"
+      }
+    },
+    {
+      "id": "mokhmad-mamakaev-san-degan-nazmanash",
+      "type": "poem",
+      "title": {
+        "ce": "Сан деган назманаш",
+        "ru": "Мелодии моего сердца",
+        "en": "Melodies of My Heart",
+        "fr": "Mélodies de mon cœur"
+      },
+      "author": "Мохьмад Мамакаев",
+      "tags": [
+        "халкъ",
+        "гӀоле",
+        "лирика"
+      ],
+      "text_preview": {
+        "ce": "Сан деган назманаш, ма Ӏехка шу йийший..."
+      }
+    },
+    {
+      "id": "mokhmad-mamakaev-schakhazhakha",
+      "type": "poem",
+      "title": {
+        "ce": "Схьахьажахьа соьга",
+        "ru": "Взгляни на меня",
+        "en": "Look at Me",
+        "fr": "Regarde-moi"
+      },
+      "author": "Мохьмад Мамакаев",
+      "tags": [
+        "безам",
+        "шовда",
+        "лирика"
+      ],
+      "text_preview": {
+        "ce": "Сирлачу шовданан коьртехь, / Хих кӀудал юьзна а яьлла…"
+      }
+    }
+  ]
+}

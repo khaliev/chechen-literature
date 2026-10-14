@@ -70,6 +70,18 @@ export default function PoemDetail() {
   const languageLabel = t(getLanguageLabelKey(contentLanguage));
   const textUnavailableMessage = t('text_unavailable').replace('{language}', languageLabel);
   const authorName = getWorkAuthor(work, language);
+  // Normalise les liens externes : les anciennes données utilisaient parfois
+  // des chaînes brutes au lieu d'objets {label, url}. Les chaînes vides sont ignorées.
+  const externalLinks = (work.external_links || [])
+    .map((link) => {
+      if (typeof link === 'string') {
+        const url = link.trim();
+        return url ? { label: url, url } : null;
+      }
+      if (link?.url?.trim()) return link;
+      return null;
+    })
+    .filter(Boolean);
 
   return (
     <article className="poem-detail">
@@ -183,14 +195,14 @@ export default function PoemDetail() {
       )}
 
       {/* External links */}
-      {work.external_links?.length > 0 && (
+      {externalLinks.length > 0 && (
         <div className="poem-detail__links">
           <h3>{t('external_links')}</h3>
           <ul>
-            {work.external_links.map((link, i) => (
+            {externalLinks.map((link, i) => (
               <li key={i}>
                 <a href={link.url} target="_blank" rel="noopener noreferrer">
-                  {link.label}
+                  {link.label || link.url}
                 </a>
               </li>
             ))}

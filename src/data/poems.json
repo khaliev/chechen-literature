@@ -206,7 +206,10 @@
       "ce": "Ӏаьржа бӀаьргаш, и ши седа / Суна-м цкъа а биц ца ло..."
     },
     "external_links": [
-      "https://love95.ru/a/92"
+      {
+        "label": "https://love95.ru/a/92",
+        "url": "https://love95.ru/a/92"
+      }
     ],
     "source": "Абузар Айдамиров",
     "date_added": "2026-08-03"
@@ -357,9 +360,7 @@
     "text_preview": {
       "ce": "Некъ ло, дуьне, некъ ло суна, доьху, / Хенан гаьллаш озий жимма юха."
     },
-    "external_links": [
-      ""
-    ],
+    "external_links": [],
     "source": "Зелимхан Яндарбиев",
     "date_added": "2026-08-03"
   },
@@ -389,7 +390,10 @@
       "ce": "Лаьмнаш, лаьмнаш, ма хьестийша дог! / Ерзалур яц шуьга цуьнан чевнаш."
     },
     "external_links": [
-      "https://nohchalla.com/literatura/chechenskie-stihi/yandarbiev-zelimkhan/1735-lamnash"
+      {
+        "label": "https://nohchalla.com/literatura/chechenskie-stihi/yandarbiev-zelimkhan/1735-lamnash",
+        "url": "https://nohchalla.com/literatura/chechenskie-stihi/yandarbiev-zelimkhan/1735-lamnash"
+      }
     ],
     "source": "Зелимхан Яндарбиев",
     "date_added": "2026-08-03"

@@ -49,18 +49,18 @@ npm run preview
 }
 ```
 
-3. Добавьте краткую запись в `src/data/index.json`:
+3. Régénérez le catalogue léger (source unique = fichiers full) puis validez :
 
-```json
-{
-  "id": "unique-slug",
-  "type": "poem",
-  "title": { "ce": "Цlе", "ru": "Название", "en": null, "fr": null },
-  "author": "Имя автора",
-  "tags": ["тег1", "тег2"],
-  "text_preview": { "ce": "Первые 2 строки..." }
-}
+```bash
+npm run generate-index
+npm run validate-data
 ```
+
+> `src/data/index.json` n'est plus édité à la main : il est généré depuis
+> `poems.json` / `songs.json` / `prose.json` (ordre existant conservé, nouvelles
+> œuvres ajoutées à la fin). `npm run build` lance aussi `validate-data`.
+> Les entrées d'index sans texte plein sont archivées dans
+> `src/data/pending-restore.json` en attente de restauration.
 
 ## Author name transliteration (EN / FR)
 

@@ -6,8 +6,10 @@
   "description": "Chechen literary portal — poetry, songs, and prose",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "npm run validate-data && vite build",
+    "preview": "vite preview",
+    "validate-data": "node scripts/validate-data.mjs",
+    "generate-index": "node scripts/generate-index.mjs"
   },
   "dependencies": {
     "react": "^18.2.0",
