@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Remplacez par l'URL absolue du déploiement une fois le domaine connu :
+# Sitemap: https://example.com/sitemap.xml
+Sitemap: /sitemap.xml

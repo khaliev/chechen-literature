@@ -12,6 +12,7 @@ import {
 import { findSimilarWorks } from '@/utils/searchUtils';
 import { getWorkAuthor } from '@/utils/authorName';
 import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
+import { getYouTubeEmbedUrl, getYouTubeId } from '@/utils/youtube';
 import SimilarWorks from '@/components/features/SimilarWorks';
 import Tag from '@/components/ui/Tag';
 import Button from '@/components/ui/Button';
@@ -29,6 +30,7 @@ export default function PoemDetail() {
     : language;
   const [contentLanguage, setContentLanguage] = useState(initialContentLanguage);
   const [showTranslation, setShowTranslation] = useState(false);
+  const [shareState, setShareState] = useState('idle'); // 'idle' | 'shared' | 'copied'
 
   const work = useMemo(() => fullWorks.find((w) => w.id === id), [id]);
   const availableLanguages = useMemo(() => getAvailableContentLanguages(work), [work]);
@@ -54,7 +56,27 @@ export default function PoemDetail() {
   useEffect(() => {
     setContentLanguage(initialContentLanguage);
     setShowTranslation(false);
+    setShareState('idle');
   }, [id, language, requestedContentLanguage]);
+
+  const handleShare = async () => {
+    const url = window.location.href;
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: document.title, url });
+        setShareState('shared');
+      } catch {
+        // Partage annulé par l'utilisateur : on ne change rien.
+      }
+      return;
+    }
+    try {
+      await navigator.clipboard.writeText(url);
+      setShareState('copied');
+    } catch {
+      // Presse-papiers indisponible : on ne change rien.
+    }
+  };
 
   const displayTitleText = displayTitle.text;
   useEffect(() => {
@@ -91,6 +113,11 @@ export default function PoemDetail() {
       return null;
     })
     .filter(Boolean);
+  // YouTube links get an embedded player; everything else stays a plain link.
+  const videoLinks = externalLinks
+    .map((link) => ({ ...link, videoId: getYouTubeId(link.url) }))
+    .filter((link) => link.videoId);
+  const otherLinks = externalLinks.filter((link) => !getYouTubeId(link.url));
 
   return (
     <article className="poem-detail">
@@ -122,7 +149,9 @@ export default function PoemDetail() {
           {t('content_language_label')}: {t(getLanguageLabelKey(titleLanguage))}
         </span>
         <div className="poem-detail__author-info">
-          <span className="poem-detail__author">{authorName}</span>
+          <Link className="poem-detail__author" to={`/author/${encodeURIComponent(work.author)}`}>
+            {authorName}
+          </Link>
           {work.author_years && <span className="poem-detail__years">({work.author_years})</span>}
         </div>
         {work.year_written && (
@@ -131,6 +160,16 @@ export default function PoemDetail() {
           </span>
         )}
       </header>
+
+      <div className="poem-detail__actions">
+        <Button variant="secondary" size="sm" onClick={handleShare}>
+          {shareState === 'idle'
+            ? t('share')
+            : shareState === 'copied'
+              ? `✓ ${t('link_copied')}`
+              : `✓ ${t('share')}`}
+        </Button>
+      </div>
 
       {/* Tags */}
       {work.tags?.length > 0 && (
@@ -205,12 +244,30 @@ export default function PoemDetail() {
         </div>
       )}
 
+      {/* Videos (YouTube embeds, privacy-enhanced, lazy) */}
+      {videoLinks.length > 0 && (
+        <div className="poem-detail__videos">
+          {videoLinks.map((link, i) => (
+            <figure key={i} className="poem-detail__video">
+              <iframe
+                src={getYouTubeEmbedUrl(link.videoId)}
+                title={link.label || link.url}
+                loading="lazy"
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+              {link.label && <figcaption>{link.label}</figcaption>}
+            </figure>
+          ))}
+        </div>
+      )}
+
       {/* External links */}
-      {externalLinks.length > 0 && (
+      {otherLinks.length > 0 && (
         <div className="poem-detail__links">
           <h3>{t('external_links')}</h3>
           <ul>
-            {externalLinks.map((link, i) => (
+            {otherLinks.map((link, i) => (
               <li key={i}>
                 <a href={link.url} target="_blank" rel="noopener noreferrer">
                   {link.label || link.url}

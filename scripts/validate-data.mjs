@@ -82,6 +82,8 @@ function checkFullFile(name, works, seenIds) {
           }
           if (!l?.url || typeof l.url !== 'string' || !l.url.trim()) {
             errors.push(`${where}: external_links[${j}].url manquant`);
+          } else if (/placeholder|example\.com|xxx/i.test(l.url)) {
+            errors.push(`${where}: external_links[${j}].url est un placeholder (${l.url})`);
           }
         });
       }

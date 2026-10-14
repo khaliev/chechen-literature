@@ -181,3 +181,30 @@ button {
   border: none;
   padding: 0;
 }
+
+/* Impression d'une œuvre : texte seul, sans navigation ni widgets. */
+@media print {
+  .header,
+  .footer,
+  .search-bar,
+  .poem-detail__actions,
+  .poem-detail__translation,
+  .poem-detail__videos,
+  .similar-works,
+  .home__pagination,
+  .category__pagination,
+  .author__pagination {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+    color: #000;
+  }
+  .container {
+    max-width: 100%;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}

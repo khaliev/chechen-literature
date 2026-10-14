@@ -120,6 +120,35 @@ English or French (`author_en` / `author_fr` derived in `src/data/catalog.js`).
 2. Запустите `npm run build`
 3. Содержимое папки `dist/` задеплойте на GitHub Pages
 
+## Sitemap et SEO
+
+- Chaque page définit son `document.title` (`src/utils/pageMeta.js`) : œuvre —
+  auteur — site, section — site, 404 — site.
+- `public/robots.txt` est committé (pensez à y mettre l'URL absolue du
+  sitemap une fois le domaine connu).
+- `public/sitemap.xml` est **généré** (git-ignoré), jamais committé :
+
+```bash
+npm run generate-sitemap -- --site-url=https://votre-domaine.com
+```
+
+Relancez-le avant chaque déploiement important (nouvelles œuvres = nouvelles
+URLs : `/`, `/category/*`, `/author/*`, `/poem|song|prose/:id`).
+
+## Pages et fonctionnalités (P3)
+
+- **Page auteur** `/author/:slug` (slug = nom cyrillique encodé) : toutes les
+  œuvres d'un auteur, avec recherche et pagination. Liée depuis le nom
+  d'auteur de chaque page d'œuvre.
+- **Partage** sur chaque œuvre : Web Share API sur mobile, copie du lien dans
+  le presse-papiers sur desktop.
+- **Vidéos YouTube** : les liens YouTube des `external_links` sont affichés en
+  lecteur embarqué (`youtube-nocookie`, chargement paresseux) ; les autres
+  liens restent une liste classique. Les URLs `placeholder` sont rejetées par
+  `npm run validate-data`.
+- **Impression** : `@media print` dans `globals.css` (texte seul, sans
+  navigation ni widgets).
+
 ## Лицензия
 
 MIT
