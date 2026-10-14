@@ -11,6 +11,7 @@ import {
 } from '@/utils/contentLanguage';
 import { findSimilarWorks } from '@/utils/searchUtils';
 import { getWorkAuthor } from '@/utils/authorName';
+import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
 import SimilarWorks from '@/components/features/SimilarWorks';
 import Tag from '@/components/ui/Tag';
 import Button from '@/components/ui/Button';
@@ -54,6 +55,17 @@ export default function PoemDetail() {
     setContentLanguage(initialContentLanguage);
     setShowTranslation(false);
   }, [id, language, requestedContentLanguage]);
+
+  const displayTitleText = displayTitle.text;
+  useEffect(() => {
+    if (!work) {
+      setPageTitle(buildPageTitle([t('page_not_found')], t('site_title')));
+    } else {
+      setPageTitle(
+        buildPageTitle([displayTitleText, getWorkAuthor(work, language)], t('site_title'))
+      );
+    }
+  }, [work, id, language, displayTitleText, t]);
 
   if (!work) {
     return (

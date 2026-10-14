@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { useTranslation } from '@/hooks/useTranslation';
 import LanguageSwitcher from './LanguageSwitcher';
@@ -10,6 +10,15 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const closeMenu = () => setIsMenuOpen(false);
+
+  useEffect(() => {
+    if (!isMenuOpen) return;
+    const onKeyDown = (e) => {
+      if (e.key === 'Escape') closeMenu();
+    };
+    document.addEventListener('keydown', onKeyDown);
+    return () => document.removeEventListener('keydown', onKeyDown);
+  }, [isMenuOpen]);
 
   return (
     <header className="header">
@@ -36,7 +45,9 @@ const Header = () => {
           <button
             className="header__hamburger"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
-            aria-label="Toggle menu"
+            aria-label={isMenuOpen ? t('menu_close') : t('menu_open')}
+            aria-expanded={isMenuOpen}
+            aria-controls="mobile-menu"
           >
             <svg
               viewBox="0 0 24 24"
@@ -56,7 +67,14 @@ const Header = () => {
 
       {isMenuOpen && (
         <div className="header__mobile-overlay" onClick={closeMenu}>
-          <div className="header__mobile-content" onClick={(e) => e.stopPropagation()}>
+          <div
+            className="header__mobile-content"
+            id="mobile-menu"
+            role="dialog"
+            aria-modal="true"
+            aria-label={t('site_title')}
+            onClick={(e) => e.stopPropagation()}
+          >
             <nav className="header__mobile-nav">
               <NavLink to="/" end onClick={closeMenu}>
                 {t('nav_home')}
@@ -77,7 +95,11 @@ const Header = () => {
                 <ThemeToggle />
               </div>
             </div>
-            <button className="header__mobile-close" onClick={closeMenu}>
+            <button
+              className="header__mobile-close"
+              onClick={closeMenu}
+              aria-label={t('menu_close')}
+            >
               <svg
                 viewBox="0 0 24 24"
                 fill="none"

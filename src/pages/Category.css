@@ -39,6 +39,20 @@
   padding: var(--space-12) 0;
 }
 
+.category__pagination {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-3);
+  padding-top: var(--space-10);
+}
+
+.category__pagination-count {
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+  margin: 0;
+}
+
 @media (max-width: 768px) {
   .category__header {
     padding: var(--space-6) 0;

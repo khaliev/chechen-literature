@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useLanguage } from '@/context/LanguageContext';
 import { useTranslation } from '@/hooks/useTranslation';
+import { CONTENT_LANGUAGES } from '@/utils/contentLanguage';
 import Input from '../ui/Input';
 import Tag from '../ui/Tag';
 import './SearchBar.css';
@@ -20,8 +21,6 @@ const SearchIcon = () => (
     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
   </svg>
 );
-
-const CONTENT_LANGUAGES = ['ce', 'ru', 'en', 'fr'];
 
 const SearchBar = ({
   query,

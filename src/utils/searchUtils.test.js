@@ -52,8 +52,9 @@ describe('sortWorks', () => {
 });
 
 describe('getAllTags', () => {
-  it('returns unique tags', () => {
-    expect(getAllTags(works).sort()).toEqual(['x', 'y', 'z']);
+  it('returns unique tags in stable alphabetical order', () => {
+    expect(getAllTags(works)).toEqual(['x', 'y', 'z']);
+    expect(getAllTags(works)).toEqual(getAllTags(works));
   });
 });
 
