@@ -44,6 +44,18 @@ export function filterByContentLanguage(works, language) {
 }
 
 /**
+ * Default content-language for a catalog view: the interface language when
+ * it covers at least `minShare` of the works, otherwise 'all' (multilingual
+ * view with per-card language badges). A poor-coverage language as default
+ * would make the catalog look almost empty.
+ */
+export function getDefaultContentLanguage(works, language, minShare = 0.5) {
+  if (!works?.length) return language;
+  const covered = works.filter((work) => hasContentInLanguage(work, language)).length;
+  return covered / works.length >= minShare ? language : 'all';
+}
+
+/**
  * Filters works by type (poem, song, prose).
  * Returns all works if typeFilter is null or 'all'.
  */

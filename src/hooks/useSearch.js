@@ -4,6 +4,7 @@ import {
   filterByContentLanguage,
   filterByType,
   filterByTags,
+  getDefaultContentLanguage,
   sortWorks,
 } from '../utils/searchUtils';
 import { useLanguage } from '../context/LanguageContext';
@@ -19,7 +20,9 @@ export function useSearch(works) {
   const { language } = useLanguage();
   const [query, setQuery] = useState('');
   const [debouncedQuery, setDebouncedQuery] = useState('');
-  const [contentLanguage, setContentLanguage] = useState(language);
+  const [contentLanguage, setContentLanguage] = useState(() =>
+    getDefaultContentLanguage(works, language)
+  );
   const [filters, setFilters] = useState({
     type: 'all', // 'all' | 'poem' | 'song' | 'prose'
     tags: [], // array of selected tag strings
@@ -27,9 +30,10 @@ export function useSearch(works) {
   const [sortBy, setSortBy] = useState('date'); // 'alphabetical' | 'author' | 'date'
   const timerRef = useRef(null);
 
-  // When the interface language changes, make it the new default content language.
+  // When the interface language changes, pick the matching default again
+  // (a poor-coverage language falls back to the multilingual 'all' view).
   useEffect(() => {
-    setContentLanguage(language);
+    setContentLanguage(getDefaultContentLanguage(works, language));
   }, [language]);
 
   // Debounce the search query (300ms)

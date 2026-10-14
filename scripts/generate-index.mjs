@@ -8,7 +8,9 @@
  *   - ajoute à la FIN les œuvres du full absentes de l'index (ordre des fichiers full)
  *   - supprime de l'index les ids sans full (orphelins) — ils doivent d'abord
  *     être archivés dans pending-restore.json (voir --dry-run pour auditer)
- *   - resynchronise title/author/tags/text_preview depuis le full (normalise à 6 clés)
+ *   - resynchronise title/author/tags/text_preview/available_languages depuis
+ *     le full (normalise à 7 clés ; available_languages rend l'index
+ *     autosuffisant pour le filtrage par langue, sans charger les textes)
  *
  * Usage:
  *   node scripts/generate-index.mjs --dry-run   -> audit sans écrire
@@ -38,14 +40,37 @@ const indexById = new Map(currentIndex.map((w) => [w.id, w]));
 const orphans = currentIndex.filter((w) => !fullById.has(w.id));
 const missing = [...fullById.values()].filter((w) => !indexById.has(w.id));
 
+const LANGS = ['ce', 'ru', 'en', 'fr'];
+const isPresentText = (v) => typeof v === 'string' && v.trim().length > 0;
+
+function makePreview(text) {
+  if (!isPresentText(text)) return '';
+  const firstLine =
+    text
+      .split('\n')
+      .find((line) => line.trim())
+      ?.trim() || '';
+  return firstLine.length > 160 ? `${firstLine.slice(0, 157)}…` : firstLine;
+}
+
 function toIndexEntry(full) {
+  const availableLanguages = LANGS.filter((lang) => isPresentText(full.text?.[lang]));
+  const textPreview = { ...(full.text_preview || {}) };
+  // Garantit un aperçu pour chaque langue disponible (même logique que
+  // l'ancien backfill runtime de catalog.js, désormais figée à la génération).
+  for (const lang of availableLanguages) {
+    if (!isPresentText(textPreview[lang])) {
+      textPreview[lang] = makePreview(full.text?.[lang]);
+    }
+  }
   return {
     id: full.id,
     type: full.type,
     title: full.title,
     author: full.author,
     tags: full.tags || [],
-    text_preview: full.text_preview || {},
+    text_preview: textPreview,
+    available_languages: availableLanguages,
   };
 }
 
@@ -83,6 +108,7 @@ for (const entry of next) {
       author: old.author,
       tags: old.tags,
       text_preview: old.text_preview,
+      available_languages: old.available_languages,
     }) !== JSON.stringify(entry)
   ) {
     resync += 1;

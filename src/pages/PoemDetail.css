@@ -4,6 +4,12 @@
   padding: var(--space-8) var(--container-padding) var(--space-16);
 }
 
+.poem-detail--loading,
+.poem-detail--not-found {
+  text-align: center;
+  color: var(--color-text-muted);
+}
+
 .poem-detail__meta-block {
   /* sr-only styles */
   position: absolute;

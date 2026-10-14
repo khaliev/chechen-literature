@@ -16,7 +16,7 @@ import { getYouTubeEmbedUrl, getYouTubeId } from '@/utils/youtube';
 import SimilarWorks from '@/components/features/SimilarWorks';
 import Tag from '@/components/ui/Tag';
 import Button from '@/components/ui/Button';
-import { catalogWorks, fullWorks } from '@/data/catalog';
+import { catalogWorks, loadFullWorks } from '@/data/catalog';
 import './PoemDetail.css';
 
 export default function PoemDetail() {
@@ -31,8 +31,22 @@ export default function PoemDetail() {
   const [contentLanguage, setContentLanguage] = useState(initialContentLanguage);
   const [showTranslation, setShowTranslation] = useState(false);
   const [shareState, setShareState] = useState('idle'); // 'idle' | 'shared' | 'copied'
+  // Full texts are lazy-loaded (code-split) so catalog pages stay light.
+  const [work, setWork] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
 
-  const work = useMemo(() => fullWorks.find((w) => w.id === id), [id]);
+  useEffect(() => {
+    let alive = true;
+    setIsLoading(true);
+    loadFullWorks().then(({ fullWorksById }) => {
+      if (!alive) return;
+      setWork(fullWorksById.get(id) || null);
+      setIsLoading(false);
+    });
+    return () => {
+      alive = false;
+    };
+  }, [id]);
   const availableLanguages = useMemo(() => getAvailableContentLanguages(work), [work]);
   const activeText = getFieldInLanguage(work, 'text', contentLanguage);
   const titleLanguage = activeText.text
@@ -80,14 +94,24 @@ export default function PoemDetail() {
 
   const displayTitleText = displayTitle.text;
   useEffect(() => {
-    if (!work) {
+    if (isLoading) {
+      setPageTitle(t('site_title'));
+    } else if (!work) {
       setPageTitle(buildPageTitle([t('page_not_found')], t('site_title')));
     } else {
       setPageTitle(
         buildPageTitle([displayTitleText, getWorkAuthor(work, language)], t('site_title'))
       );
     }
-  }, [work, id, language, displayTitleText, t]);
+  }, [work, isLoading, id, language, displayTitleText, t]);
+
+  if (isLoading) {
+    return (
+      <div className="poem-detail poem-detail--loading">
+        <p>{t('loading')}</p>
+      </div>
+    );
+  }
 
   if (!work) {
     return (

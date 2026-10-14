@@ -114,12 +114,16 @@ index.forEach((w, i) => {
   if (indexIds.has(w.id)) errors.push(`${where}: id dupliqué dans index.json "${w.id}"`);
   indexIds.add(w.id);
   if (!TYPES.includes(w.type)) errors.push(`${where}: "type" invalide`);
-  // Schéma attendu du catalogue léger : exactement ces 6 clés
-  const expected = ['author', 'id', 'tags', 'text_preview', 'title', 'type'].sort().join(',');
+  // Schéma attendu du catalogue léger : exactement ces 7 clés.
+  // available_languages rend l'index autosuffisant pour le filtrage par langue
+  // (les textes pleins sont chargés à la demande sur les pages d'œuvres).
+  const expected = ['author', 'available_languages', 'id', 'tags', 'text_preview', 'title', 'type']
+    .sort()
+    .join(',');
   const actual = Object.keys(w).sort().join(',');
   if (actual !== expected) {
     warnings.push(
-      `${where}: clés inattendues (attendu id/type/title/author/tags/text_preview, trouvé: ${Object.keys(w).sort().join(',')})`
+      `${where}: clés inattendues (attendu id/type/title/author/tags/text_preview/available_languages, trouvé: ${Object.keys(w).sort().join(',')})`
     );
   }
   if (!fullById.has(w.id)) {
@@ -133,6 +137,19 @@ index.forEach((w, i) => {
       warnings.push(
         `${where}: author désynchronisé (index=${JSON.stringify(w.author)} full=${JSON.stringify(full.author)})`
       );
+    const derived = LANGS.filter((lang) => isPresent(full.text?.[lang]));
+    if (JSON.stringify(w.available_languages) !== JSON.stringify(derived)) {
+      errors.push(
+        `${where}: available_languages désynchronisé (index=${JSON.stringify(w.available_languages)} full=${JSON.stringify(derived)}) — relancez generate-index`
+      );
+    }
+    for (const lang of derived) {
+      if (!isPresent(w.text_preview?.[lang])) {
+        errors.push(
+          `${where}: text_preview manquant pour "${lang}" (texte plein disponible) — relancez generate-index`
+        );
+      }
+    }
   }
 });
 

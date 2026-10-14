@@ -5,6 +5,7 @@ import {
   filterByTags,
   sortWorks,
   getAllTags,
+  getDefaultContentLanguage,
   findSimilarWorks,
 } from './searchUtils.js';
 
@@ -55,6 +56,25 @@ describe('getAllTags', () => {
   it('returns unique tags in stable alphabetical order', () => {
     expect(getAllTags(works)).toEqual(['x', 'y', 'z']);
     expect(getAllTags(works)).toEqual(getAllTags(works));
+  });
+});
+
+describe('getDefaultContentLanguage', () => {
+  const ceWorks = [
+    { text: { ce: 'a' } },
+    { text: { ce: 'b' } },
+    { text: { ce: 'c', en: 'c' } },
+    { text: { ce: 'd' } },
+  ];
+  it('keeps the interface language when coverage is rich', () => {
+    expect(getDefaultContentLanguage(ceWorks, 'ce')).toBe('ce');
+  });
+  it('falls back to all when coverage is poor', () => {
+    expect(getDefaultContentLanguage(ceWorks, 'en')).toBe('all');
+    expect(getDefaultContentLanguage(ceWorks, 'ru')).toBe('all');
+  });
+  it('returns the language for an empty catalog', () => {
+    expect(getDefaultContentLanguage([], 'en')).toBe('en');
   });
 });
 

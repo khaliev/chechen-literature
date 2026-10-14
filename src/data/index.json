@@ -12,7 +12,10 @@
     ],
     "text_preview": {
       "ce": "Ӏодика йойла, / Ӏодика йойла!"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "aydamirov-i-khan-bargash",
@@ -31,7 +34,10 @@
     ],
     "text_preview": {
       "ce": "Ӏаьржа бӀаьргаш, и ши седа / Суна-м цкъа а биц ца ло..."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ahmatukaev-kamel-d1adiyr-du",
@@ -50,7 +56,10 @@
     ],
     "text_preview": {
       "ce": "…Ас юха а сайн къамел дӀадийр ду, / Къайлакхоьхьуш логах дуьйлу къурдаш."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ahmatukaev-berallin-sherash-ahna",
@@ -69,7 +78,10 @@
     ],
     "text_preview": {
       "ce": "Бераллин шерашна аьхна / Хиллачу туьйранех юьйлуш,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ahmatukaev-dunenah-tiysinchu-nekhash",
@@ -88,7 +100,10 @@
     ],
     "text_preview": {
       "ce": "Дуьненах тийсинчу некъаша / Бахьанаш хӀиттадахь йовза хьо,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ahmatukaev-khu-dunenan-kiyra",
@@ -107,7 +122,10 @@
     ],
     "text_preview": {
       "ce": "Кху дуьненан кийра хоьъна зевне / Ненан маттах дозаделла дешнаш"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ahmatukaev-nenan-machiyn",
@@ -126,7 +144,10 @@
     ],
     "text_preview": {
       "ce": "Ненан мачийн кӀажаш тӀе а хӀуьттуш, / Куьзганхьалха когабуьхьар хӀуьттуш,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ahmatukaev-san-marzonash",
@@ -145,7 +166,10 @@
     ],
     "text_preview": {
       "ce": "ХӀара сурт сан ден ду, / ХӀара ду сан ненан."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ahmatukaev-tsaverzar",
@@ -164,7 +188,10 @@
     ],
     "text_preview": {
       "ce": "Ма, кху агӀор схьахьажарх а ларлуш, / Генахула вийлинера тӀех со."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ataginskaya-san-nokhchiin-mott",
@@ -183,7 +210,10 @@
     ],
     "text_preview": {
       "ce": "Сан нохчийн мотт, маржа яӀ хьан! / Хьо бицбинарг мила ву-те."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-dagalecamash",
@@ -203,7 +233,11 @@
     "text_preview": {
       "ce": "лам хаьрцича тӀаьхьабисина берд а / акхадевлла лела адамаш а",
       "en": "And the rock left standing after a mountain’s collapse / And the savaged people on earth"
-    }
+    },
+    "available_languages": [
+      "ce",
+      "en"
+    ]
   },
   {
     "id": "bisultanov-nana",
@@ -222,7 +256,10 @@
     ],
     "text_preview": {
       "ce": "Хьо ара ца йолуш йисичахьана, / Хьан Ӏаса санна со цхьалха ву нана,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-hajbahah-jazjina-bajtash",
@@ -241,7 +278,10 @@
     ],
     "text_preview": {
       "ce": "ТӀапа куйнаш дайрий шуна, / Го беш салтий байри шуна,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-shovdana",
@@ -258,7 +298,10 @@
     ],
     "text_preview": {
       "ce": "Шовданна ӀиндагӀ дан ножан дитт оьшу, / Кошанна упха ян ножан дитт оьшу,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "halikova-ladogh1u",
@@ -275,7 +318,10 @@
     ],
     "text_preview": {
       "ce": "ЛадоьгӀу Ӏаламан тийналлин озе, / Дахаран къайленаш юьйцучу хьозе."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "suleimanov-shovda",
@@ -292,7 +338,10 @@
     ],
     "text_preview": {
       "ce": "Ламанан некъахь / Схьадеттара шовда,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "baihadjiev-shaltanal",
@@ -309,7 +358,10 @@
     ],
     "text_preview": {
       "ce": "Шаьлтанал ира ду дош вайн, / Шаьлтанал дера бу мотт вайн."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "dokaev-loha-kor",
@@ -328,7 +380,10 @@
     ],
     "text_preview": {
       "ce": "Хьо йоцуш дӀадоьду дахар!.. / Ма гена ели хьо, нана!"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "dokaev-nana-yu-tahhara-yiclush-erg",
@@ -347,7 +402,10 @@
     ],
     "text_preview": {
       "ce": "Ойланца, дагаца, маттаца. / ЦӀеххьана аз хезий хийцалой,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "dokaev-nek-bu-vayn-dahar",
@@ -366,7 +424,10 @@
     ],
     "text_preview": {
       "ce": "Бодане некъ бу вайн дахар / Вай-м кхин тӀеъ бодане бан гӀерта и"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "hajimuradov-sayd1ali",
@@ -385,7 +446,10 @@
     ],
     "text_preview": {
       "ce": "- Ва, баба, ма даккхий бӀогӀамаш деъна вайна, тарахтор йоьттина! Хьажахь, араялахь! – чуиккхира диъ-пхиъ шо хир долуш волу жима кӀант СайдӀали."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "hajimuradov-hyeharchuchun-diycar",
@@ -404,7 +468,10 @@
     ],
     "text_preview": {
       "ce": "- Со Ӏаш-м гӀалахь вара. Делахь а, хьалха юьртахь Ӏийна ву. Цундела юьрта верза дог дара сан. Юьртара ишколашкахь хьехархой ца тоьуш бу аьлла а хезинера суна."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "hajimuradov-tsergyakkkhar",
@@ -423,7 +490,10 @@
     ],
     "text_preview": {
       "ce": "- Хьажал! И кхела хилла меттиг гой хьуна? Муха ца го, оццул доккха ор ца гойла дац! Дикка хьовсал! – шен бага дехьий-сехьий ши пӀелг а боьллина дӀаса"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "hajimuradov-tsitsigan-korni",
@@ -442,7 +512,10 @@
     ],
     "text_preview": {
       "ce": "-МӀау! МӀау!...- хезира цунна Ӏаьржачу бодана юккъехула. Мелла а цхьана серлонах тера бес-бесара бӀарлагӀаш-м дара бӀаьргашна хьалха хаза самукъане ловзуш."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "dauudov-doina",
@@ -459,7 +532,10 @@
     ],
     "text_preview": {
       "ce": "Дуьненчохь деха тхо, ахь дахар делла, / Ахь тхуна кхуллушехь рицкъанаш делла."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-beralla",
@@ -474,7 +550,10 @@
     ],
     "text_preview": {
       "ce": "Нанна тӀаьхьа юьжуш Ӏийна, / Цуьнан мара хьерчаш кхиъна,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-sindottag1ashka",
@@ -489,7 +568,10 @@
     ],
     "text_preview": {
       "ce": "Даймахкахь дахаре / БӀаьрг тоьхча сайн,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "djanaraliev-shalta",
@@ -506,7 +588,10 @@
     ],
     "text_preview": {
       "ce": "Шаьлта – иза къонахийн мотт бу, / Хьаьнг-хьаьнге бийцалуш боцуш,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "zaytemirov-b1aste",
@@ -525,7 +610,10 @@
     ],
     "text_preview": {
       "ce": "БӀаьсте кхечи, хаза бӀаьсте, / Шеца гӀиттош зезагаш,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "zaytemirov-mahkah-kastar",
@@ -544,7 +632,10 @@
     ],
     "text_preview": {
       "ce": "Со веъна кхечи / Со винчу Даймахке,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "zaytemirov-nana",
@@ -563,7 +654,10 @@
     ],
     "text_preview": {
       "ce": "ЙогӀучу замано / Вай вовшех дахахь,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-as-duynash",
@@ -580,7 +674,10 @@
     ],
     "text_preview": {
       "ce": "Ас дуйнаш буур бац, сайн безам бийца, - / Хьо хьуо сох тешар ю, дахарца зийча:…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-iytsinarsh",
@@ -597,7 +694,10 @@
     ],
     "text_preview": {
       "ce": "Ас хьоьга дийцинарш дацара туьйранаш, / Ас хьоьга кхийдийнарг яцара хӀуьттаре:…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-basayev-shamilna",
@@ -614,7 +714,10 @@
     ],
     "text_preview": {
       "ce": "Ледаран, гӀорасиз ойланаш дагна сан / Ма тийса, дуьне, ахь тахана тӀе."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-bern-hovha",
@@ -631,7 +734,10 @@
     ],
     "text_preview": {
       "ce": "Беран ховха куьйгаш кхийда нене, / Кераэцар доьхуш цуьнга ша."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-bimog1anash",
@@ -648,7 +754,10 @@
     ],
     "text_preview": {
       "ce": "Ас Далла бен ца до Ӏибадат – / АллахӀах бен со ца теша."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-bott",
@@ -665,7 +774,10 @@
     ],
     "text_preview": {
       "ce": "Ткъа пхьеро кад бина… / Ю. Яралиев…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-bujsa",
@@ -684,7 +796,10 @@
     ],
     "text_preview": {
       "ce": "Де дӀадели, суьйре еа текхна, / Буьйса хьоьжу цунна тӀехьара."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-giazotan-nazma",
@@ -701,7 +816,10 @@
     ],
     "text_preview": {
       "ce": "ГӀазотан декъах хьаггал ца кхиъначу дегнех къахета, / ГӀазотийн тезетахь уьш латташ гича, ца кхета."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-dakhar-bak-du",
@@ -720,7 +838,10 @@
     ],
     "text_preview": {
       "ce": "Юха а хьан буйнахь мукъ бу, / Сан буйнахь — шаьлтанан дитт."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-kogashna-devzar-du-nek-an-khal",
@@ -739,7 +860,10 @@
     ],
     "text_preview": {
       "ce": "Когашна девзар ду некъан хьал, / Куьйгашна — биначу белхан."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-kahetoro",
@@ -756,7 +880,10 @@
     ],
     "text_preview": {
       "ce": "Къахеторо чӀагӀдеш дай и-м, / Цуьнан дера детта ов."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-lamnash",
@@ -774,7 +901,10 @@
     ],
     "text_preview": {
       "ce": "Лаьмнаш, лаьмнаш, ма хьестийша дог! / Ерзалур яц шуьга цуьнан чевнаш."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-ma-doha",
@@ -791,7 +921,10 @@
     ],
     "text_preview": {
       "ce": "Ма доха, кийрара дилхан дог, / Ма делха, кийрара дилхан дог,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-mat1ahlera",
@@ -808,7 +941,10 @@
     ],
     "text_preview": {
       "ce": "Даим ву, дуй баан кийча, / Ца кхоьруш, хиларна къера:…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-nana",
@@ -827,7 +963,10 @@
     ],
     "text_preview": {
       "ce": "Цхьацца стигал — шина бӀаьргахь, / Екхна, сийна, сирла…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-nanina",
@@ -844,7 +983,10 @@
     ],
     "text_preview": {
       "ce": "Нана а дӀаяха, дӀаяха... яц кхин… / Цо кӀентан амалийн дуьрста а яцйин,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-nekh-lo-suna-dohu",
@@ -863,7 +1005,10 @@
     ],
     "text_preview": {
       "ce": "Некъ ло, дуьне, некъ ло суна, доьху, / Хенан гаьллаш озий жимма юха."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-nene",
@@ -880,7 +1025,10 @@
     ],
     "text_preview": {
       "ce": "Айса мел язбина могӀа хьоьга язбина хуьлуьйтур бара-кха, хӀинца, Нана. / Хьоьга яздина хилла хуьлуьйтур дара-кха, дахарехь айса мел яздина кехат."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-nokhchiicho",
@@ -899,7 +1047,10 @@
     ],
     "text_preview": {
       "ce": "Байчу мохо ийдеш тӀома, / Хьоьстуш малхо, беттасино…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-nokhchijchone",
@@ -918,7 +1069,10 @@
     ],
     "text_preview": {
       "ce": "Соьга бен, ахьа хьаьнга дуьйцур дара дагара?.. / Хьаьнга дуьйцур дара хьайн халахетар,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-oyla-ma-yyu",
@@ -937,7 +1091,10 @@
     ],
     "text_preview": {
       "ce": "Ойла ма-ййу дуьне дац, / Дуьне ма-дду таро яц…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-san-stih-bayrak",
@@ -953,7 +1110,10 @@
     ],
     "text_preview": {
       "ce": "Сан стих - и байракх ю, / Толамна айина,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-sardam",
@@ -970,7 +1130,10 @@
     ],
     "text_preview": {
       "ce": "Сан Даймохк, хӀоьттинчохь харцонна тӀе, / Бакъ долчо човйина, со вала вожахь,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-satiysam",
@@ -989,7 +1152,10 @@
     ],
     "text_preview": {
       "ce": "Мукъа мел еанчу шена минотехь, / массо а хенахь, / кӀанта зезагаш дохкура дуьненахь долу а, доцу а…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-singattam",
@@ -1006,7 +1172,10 @@
     ],
     "text_preview": {
       "ce": "Меллаша гӀушлакхе баьлла, / Тийна Ӏа, таьӀна Ӏа малх."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-sonet",
@@ -1025,7 +1194,10 @@
     ],
     "text_preview": {
       "ce": "Хьаьжа тӀе куьг а лоьцуш, дахар ас а тергалди, / Малхах бӀаьргаш ларбичхьана дерриг го а моьттуш."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-stigal",
@@ -1044,7 +1216,10 @@
     ],
     "text_preview": {
       "ce": "Стигал, стигал — эзарза я стигал! / Хестайо ас, лаьттахь веххашехь."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-t1eman-berash",
@@ -1061,7 +1236,10 @@
     ],
     "text_preview": {
       "ce": "ТӀеман бераш – тӀеман бераш ду, / Амал сиха, дагца дера ду."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-khettarsh",
@@ -1080,7 +1258,10 @@
     ],
     "text_preview": {
       "ce": "Мила ву со? Лаьттахь веха стенна? / Мичара схьаваьлла, воьду мича?"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-hun-dahyash",
@@ -1099,7 +1280,10 @@
     ],
     "text_preview": {
       "ce": "— ХӀун дахьаш веъна хьо дуьнен чу? / — Лазам…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-sheko",
@@ -1118,7 +1302,10 @@
     ],
     "text_preview": {
       "ce": "Оьшурий техьа Далла / Адаммий, Хьавай ялсаманера эккхон..."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-yaltekh-as",
@@ -1137,7 +1324,10 @@
     ],
     "text_preview": {
       "ce": "Ялтех ас ца биъна цкъа а дуйнаш, / Амма, воккхуш гена новкъа со…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yandarbiev-1ujrepan-joza",
@@ -1156,7 +1346,10 @@
     ],
     "text_preview": {
       "ce": "Ӏуьйрепан йоза / Доладо сахуьлчу седано."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yusupov-ayze",
@@ -1174,7 +1367,10 @@
     ],
     "text_preview": {
       "ce": "Декаш ду Сахалин-гӀайренан чӀоб. / Кху пана арахь сан сагатло, Айза…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yusupov-dasakastar",
@@ -1193,7 +1389,10 @@
     ],
     "text_preview": {
       "ce": "ЦӀерпошт а, эххар а мохь тухуш къаьхьа, / Меллаша йолало, со шеца хьош."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yusupov-nokhchijchone",
@@ -1212,7 +1411,10 @@
     ],
     "text_preview": {
       "ce": "Нохчийчоь! Ӏалашбан сайн денойн чам / Йоьссича санна хьо хетало Лаьтта…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yusupov-khuna-khainna",
@@ -1230,7 +1432,10 @@
     ],
     "text_preview": {
       "ce": "Шатайпа стихаш ас язйийр ю хьуна, / ХӀуьттаре хуьлуйтуш къастаран хьуна."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "inurkaev-yozhalla",
@@ -1247,7 +1452,10 @@
     ],
     "text_preview": {
       "ce": "Ӏожалла ваша вац, цхьа а хержац цо. / Ткъес хилла кхочу и ца ешшехь терго,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-babichoh",
@@ -1264,7 +1472,10 @@
     ],
     "text_preview": {
       "ce": "Бабина тӀе кайн коч юхуш, / Месаш тхо шарйина девлча."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-vaina-lor-san",
@@ -1281,7 +1492,10 @@
     ],
     "text_preview": {
       "ce": "Къилбаседа – / Малхбалехьа…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-da-khelhash",
@@ -1300,7 +1514,10 @@
     ],
     "text_preview": {
       "ce": "Сан цхьайтта шо долуш гина, / Сурт ду сан бӀаьргаш чохь дисна."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-daymahkakh",
@@ -1317,7 +1534,10 @@
     ],
     "text_preview": {
       "ce": "Даймахкахь, Ӏусамехь / ларбелахь барт,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-den-bezam",
@@ -1336,7 +1556,10 @@
     ],
     "text_preview": {
       "ce": "Дас безам шен Махке белла… / Геннара идош цӀа кхехьна."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-den-veset",
@@ -1355,7 +1578,10 @@
     ],
     "text_preview": {
       "ce": "НеӀалтан гу тӀе хьо ма валалахь, / Сий доьжнехь, и лоьхуш ма вахалахь."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-den-nenan-teshash",
@@ -1374,7 +1600,10 @@
     ],
     "text_preview": {
       "ce": "Биъ пен бу вовшашка хьоьжуш, / Тийналла йоьллина юккъе,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-dena-ulle",
@@ -1393,7 +1622,10 @@
     ],
     "text_preview": {
       "ce": "Нанна юххехь, / Дена улле"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-zamano-mekhashna",
@@ -1410,7 +1642,10 @@
     ],
     "text_preview": {
       "ce": "Замано мехашна дуьхьала хьош, / Да волчу кӀантана –м ца эшна дош."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-yo1iy-naniy",
@@ -1427,7 +1662,10 @@
     ],
     "text_preview": {
       "ce": "Ӏожалла шел тола йоьлча, / Шеха хуьлург хьулди йоӀа,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-kawkaz-mel-yu",
@@ -1444,7 +1682,10 @@
     ],
     "text_preview": {
       "ce": "Водий мичкан хичохь луьйчуш, / ТӀаккха бӀарийн шовда муьйлуш,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-k1ante",
@@ -1461,7 +1702,10 @@
     ],
     "text_preview": {
       "ce": "Ма кӀезга ас хӀиттийна / Сайн дена гӀант,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-nanna-sahiyzar",
@@ -1480,7 +1724,10 @@
     ],
     "text_preview": {
       "ce": "Ваьл-ваьллачохь-ненан лараш, / Дуьхьал хӀуьтту цуьнан сарташ."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-nenan-koch",
@@ -1499,7 +1746,10 @@
     ],
     "text_preview": {
       "ce": "Пенаца кхозуш ю сан ненан коч, / Шамара* дахначохь ду ши а пхьош."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-nenan-mattakh",
@@ -1516,7 +1766,10 @@
     ],
     "text_preview": {
       "ce": "«Ненан мотт», язло сан цӀийца, / Ненан мотт бека сан сица,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-nene-nazma",
@@ -1535,7 +1788,10 @@
     ],
     "text_preview": {
       "ce": "Ахь кхоьллинарг бен вацарий со-м, / Ахь вакхийнарг бен вацарий со-м,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-sa-cholak",
@@ -1552,7 +1808,10 @@
     ],
     "text_preview": {
       "ce": "Са - чолакх Ӏинца, / Са - сакхат Ӏинца."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-so-den-veset",
@@ -1569,7 +1828,10 @@
     ],
     "text_preview": {
       "ce": "Со ден весет лардеш / Сайн юьрта вогӀу,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-stigal-h1unda",
@@ -1586,7 +1848,10 @@
     ],
     "text_preview": {
       "ce": "Стигал Ӏунда лелхаш хета, / Нана йоккху те цо шеха."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-huush-hilla",
@@ -1603,7 +1868,10 @@
     ],
     "text_preview": {
       "ce": "Хууш хилла / Соьга хаттахь –…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-t1a-dika-da",
@@ -1620,7 +1888,10 @@
     ],
     "text_preview": {
       "ce": "Цхьа дика да - нана дара сан, / Сан гӀайгӀанех ирсан гӀовлаеш,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-shi-sa",
@@ -1637,7 +1908,10 @@
     ],
     "text_preview": {
       "ce": "Сан ши са хир ду, со лечу хенахь, / Цхьаъ - дала лууш, Ӏожална оьхьуш,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "kasumov-shozza-h1ome",
@@ -1654,7 +1928,10 @@
     ],
     "text_preview": {
       "ce": "КӀанта-м хоьтту шен денана, / Цо, ша хьестар, диц а ца луш."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-kosuman-shihmirzin",
@@ -1673,7 +1950,10 @@
     ],
     "text_preview": {
       "ce": "Сих ма ло, кӀант, говраш лахка, / ПаргӀат яха йитахь пайтон."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-sheriyn-shiralla",
@@ -1692,7 +1972,10 @@
     ],
     "text_preview": {
       "ce": "Едда мацах кетӀара / Гена яьлла бералла,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "abdulaev-nokhchijcho-sar-nokhchijcho",
@@ -1711,7 +1994,10 @@
     ],
     "text_preview": {
       "ce": "Хьан баланаш кхачо ма ца бохку, / Дакъаза ма баларг, Нохчийн Мохк сан."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "nokhchiin-g1illakh",
@@ -1729,8 +2015,15 @@
       "истори"
     ],
     "text_preview": {
-      "ce": "Нохчийн гӀиллакх — иза халкъан са ду. Оьздангалла доцуш стаг хила йиш яц."
-    }
+      "ce": "Нохчийн гӀиллакх — иза халкъан са ду. Оьздангалла доцуш стаг хила йиш яц.",
+      "ru": "Чеченский этикет — это душа народа. Без благородства не может быть человека. Уважение к старшим, почтение к гостю — это главные пути, оставленные нам нашими …",
+      "en": "Chechen etiquette is the soul of the people. Without nobility, there can be no man. Respect for elders, reverence for guests — these are the main paths left …"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en"
+    ]
   },
   {
     "id": "illi-hala-hir-du",
@@ -1745,7 +2038,10 @@
     ],
     "text_preview": {
       "ce": "Хала хир ду вешина а, / Ваша велча,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "mokhmad-mamakaev-daymehke",
@@ -1764,7 +2060,10 @@
     ],
     "text_preview": {
       "ce": "Хьо муха буьцур бу ас дашца?"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "mamakaev-han-bakh",
@@ -1781,7 +2080,10 @@
     ],
     "text_preview": {
       "ce": "Хьан бах хьо, сан Даймохк, яханчу хенахь, / Йоза а хьайн доцуш, бӀарзбелла баьхна?"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "mamakaev-shen-nenan-mott",
@@ -1798,7 +2100,10 @@
     ],
     "text_preview": {
       "ce": "Шен ненан мотт халкъо, / Сий ойбуш, Ӏалашбахь,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "mokhmad-mamakaev-hazachu-yoi-tulg",
@@ -1817,7 +2122,10 @@
     ],
     "text_preview": {
       "ce": "Тхойшиннан говраш йоргӀа эцна йоьлхуш яра. ТӀаьхьаюьсуш, кӀунзал баьла корта санна..."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "akhmadov-sfinks-sedarciin-stigal",
@@ -1836,7 +2144,10 @@
     ],
     "text_preview": {
       "ce": "И тӀулгах дина цхьана тамашийначу Ӏаламатан я туьйранерчу экханан сурт суна дуьххьара историн Ӏамат тӀе тоьхна гира."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yarychev-nokhchijcho",
@@ -1855,7 +2166,10 @@
     ],
     "text_preview": {
       "ce": "Кхиалахь, Нохчийчоь, денна, / Зазашлахь хьоькъуьйтуш гаьннаш."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bezam",
@@ -1873,8 +2187,17 @@
       "сингаттам"
     ],
     "text_preview": {
-      "ce": "Къайлаха латтайо и ойла, / Мохь хилла, белша тӀе йижац..."
-    }
+      "ce": "Къайлаха латтайо и ойла, / Мохь хилла, белша тӀе йижац...",
+      "ru": "Тайно храню я эту мысль,",
+      "en": "I secretly keep this thought,",
+      "fr": "Je garde secrètement cette pensée,"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "sintem-bats",
@@ -1892,8 +2215,17 @@
       "сурт"
     ],
     "text_preview": {
-      "ce": "Денош ма дӀаоьху, / Хьо гучу ца волуш..."
-    }
+      "ce": "Денош ма дӀаоьху, / Хьо гучу ца волуш...",
+      "ru": "Дни проходят,",
+      "en": "The days pass by,",
+      "fr": "Les jours passent,"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "dzhambulatov-bitsa",
@@ -1910,7 +2242,10 @@
     ],
     "text_preview": {
       "ce": "Бийца цхьа а / Мотт ца хууш,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "dzhambulatov-oyla-yay",
@@ -1927,7 +2262,10 @@
     ],
     "text_preview": {
       "ce": "Ойла яй бен / Дош ма ала,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "dzhambulatov-hyasha-da",
@@ -1944,7 +2282,10 @@
     ],
     "text_preview": {
       "ce": "Хьаша-да воьссинехь керта… / Сайн дена Абубакарна…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "oibuev-hasha-da-cunan-berkat",
@@ -1963,7 +2304,10 @@
     ],
     "text_preview": {
       "ce": "Дахарехь цхьа а киртиг яц нохчийн Ӏадато, гӀиллакхо чу цалоцуш."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "saydullaev-korta",
@@ -1980,7 +2324,10 @@
     ],
     "text_preview": {
       "ce": "…Дахарехь уггаре коьрта / Муьлха ду со ваьхна де?"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "suleimanov-yusup-bashha",
@@ -1997,7 +2344,10 @@
     ],
     "text_preview": {
       "ce": "Башха дац со кхалхарх / Ломахь я арахь,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yarichev-san-mohk",
@@ -2016,7 +2366,10 @@
     ],
     "text_preview": {
       "ce": "Сан хьоме гӀийла мохк, ахь соьга ала, / Стенгара схьакхечи хӀара Ӏаьржа бала?"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "tsaldaeva-da",
@@ -2035,7 +2388,10 @@
     ],
     "text_preview": {
       "ce": "И стиглара Ӏаьршаш сайна схьаяларх / Я лаьттан мехала тӀулгаш схьадаларх"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "tsaldaeva-nokhchiin-mott",
@@ -2052,7 +2408,10 @@
     ],
     "text_preview": {
       "ce": "МаргӀала га санна кхоьлина лаьтта / Ойланаш тахана паналле яьхьна…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yasmalina-nokhchij-mott",
@@ -2070,8 +2429,17 @@
       "безам"
     ],
     "text_preview": {
-      "ce": "Нохчий мотт сан дозалла, / Нохчий мотт сан са куьзга хьо,"
-    }
+      "ce": "Нохчий мотт сан дозалла, / Нохчий мотт сан са куьзга хьо,",
+      "ru": "Родной язык — моя гордость,",
+      "en": "Native language—my pride,",
+      "fr": "Langue maternelle — ma fierté,"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "illi-zherochun-guirzhiin",
@@ -2090,7 +2458,10 @@
     ],
     "text_preview": {
       "ce": "Ва сарахь суьйренца бузучу малхаца / Цу кӀайчу гӀовталца; исхаран чоьица"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-zaytan-shihmirza",
@@ -2108,8 +2479,17 @@
       "безам"
     ],
     "text_preview": {
-      "ce": "— Дакъаза ма вала, хӀай таркхойн кура Шовхал, Моьттура суна, хьо вуьйцу ва хезча, / Хьекъало вина хьо Таркхойн Шовхал ву,"
-    }
+      "ce": "— Дакъаза ма вала, хӀай таркхойн кура Шовхал, Моьттура суна, хьо вуьйцу ва хезча, / Хьекъало вина хьо Таркхойн Шовхал ву,",
+      "ru": "Песня о Зайтан Шихмурзе",
+      "en": "Song of Shikhmirza, son of Zayta",
+      "fr": "Chant de Chikhmirza, fils de Zayta"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "illi-obarg-vara",
@@ -2128,7 +2508,10 @@
     ],
     "text_preview": {
       "ce": "Хьогалла ца вала бецан тхи муьйлуш, / Мацалла ца вала попан гӀа дууш,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-ela-musosta-surkho",
@@ -2147,7 +2530,10 @@
     ],
     "text_preview": {
       "ce": "Къонаха мел вериг кхайкхина валийна, / Къонаха мел воцург кхайкхаза"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-turpal-nohcho",
@@ -2165,8 +2551,17 @@
       "даймохк"
     ],
     "text_preview": {
-      "ce": "Къеналла тӀегӀерта, дагана ва ца товш, / Къоналла дӀагӀерта, дагана ва ца товш."
-    }
+      "ce": "Къеналла тӀегӀерта, дагана ва ца товш, / Къоналла дӀагӀерта, дагана ва ца товш.",
+      "ru": "Споем про Турпала Нохчо",
+      "en": "Let us sing of Turpal Nokhcho",
+      "fr": "Chantons Turpal Nokhcho"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "illi-turpala",
@@ -2184,8 +2579,17 @@
       "къонаха"
     ],
     "text_preview": {
-      "ce": "Аренахь говр хохкуш, турпал кӀант ву, / Даймохк ларбеш, цуьнан дог ду."
-    }
+      "ce": "Аренахь говр хохкуш, турпал кӀант ву, / Даймохк ларбеш, цуьнан дог ду.",
+      "ru": "В поле скачет на коне герой,",
+      "en": "In the field, a hero rides a horse,",
+      "fr": "Dans la plaine, un héros galope à cheval,"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "illi-evtarkhoin-akhmad",
@@ -2204,7 +2608,10 @@
     ],
     "text_preview": {
       "ce": "Ва сарахь суьйренца, бузучу малхаца / Гаьн тӀе куьйра ва санна, ша дина"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-ela-montsa",
@@ -2223,7 +2630,10 @@
     ],
     "text_preview": {
       "ce": "Исс эзар цӀе йогу и горга шахьар / Шен куьйга кӀел йолуш вара бах и эла"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "halkhan-khaa-stagah-zabare-diycar",
@@ -2242,7 +2652,10 @@
     ],
     "text_preview": {
       "ce": "Цхьа стаг хилла мангал хьокхуш. ШолгӀаниг жа дайна араваьлла хилла. Мангал хьокхучунна тӀевахна жа дайначо хаьттина шен жа гирий хьуна аьлла."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "magomadov-ezachunga",
@@ -2260,7 +2673,10 @@
     ],
     "text_preview": {
       "ce": "Де дийне даларх, кехат ца кхочуш, / Шо шере даларах, хаам а боцуш,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "magomadov-ho-h1unda-eina-te",
@@ -2279,7 +2695,10 @@
     ],
     "text_preview": {
       "ce": "Маржа яӀ, / Безамах тешийна / къагийна дахар,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "magomadov-homsara-nana",
@@ -2298,7 +2717,10 @@
     ],
     "text_preview": {
       "ce": "Со вина кхиийна / Хьомсара Нана,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bataeva-qiza-dosh",
@@ -2315,7 +2737,10 @@
     ],
     "text_preview": {
       "ce": "Ас къиза дош яздахь, делхий ма даржалахь шекъа, / Ас довха дош яздахь, кехат, ма дагалахь хьо,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "khziriev-zama",
@@ -2332,7 +2757,10 @@
     ],
     "text_preview": {
       "ce": "Зама йоьду Орга санна чехка. / Кхуьур вуй-те кхин цхьа ламаз дехка?"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "khziriev-kinoshna",
@@ -2349,7 +2777,10 @@
     ],
     "text_preview": {
       "ce": "Къиношна гечдаре сатуьйсуш / Хир ю вайн кхане,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "rashidov-vaga-ma-vehya",
@@ -2368,7 +2799,10 @@
     ],
     "text_preview": {
       "ce": "Седа, со вага ма вехьа, / Вуьшта а вогуш ву со..."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "arsanukaev-amal",
@@ -2387,7 +2821,10 @@
     ],
     "text_preview": {
       "ce": "Ма ала кура ву, / айбича корта –"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "arsanukaev-barkalla-adamash",
@@ -2406,7 +2843,10 @@
     ],
     "text_preview": {
       "ce": "Гола шен тоьхна, / Гуьйренан къегина де."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "arsanukaev-veset",
@@ -2425,7 +2865,10 @@
     ],
     "text_preview": {
       "ce": "Къоьжачу вайн лаьмнийн / Дог кура баххьаш,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "arsanukaev-dikalleh",
@@ -2444,7 +2887,10 @@
     ],
     "text_preview": {
       "ce": "Дикалла… И маца кхачийна? Хьенан? / Дуьне а Дикаллех кхоьллина Дала,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "arsanukaev-dogdikchu-latta-teh",
@@ -2463,7 +2909,10 @@
     ],
     "text_preview": {
       "ce": "Тийналла тийна дӀа, / Гуш сема гӀан."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "arsanukaev-khiyti-so",
@@ -2482,7 +2931,10 @@
     ],
     "text_preview": {
       "ce": "Кхийти со. / Эххар а кхийти со, хӀунда"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "arsanukaev-lakhenan-ghillakh",
@@ -2501,7 +2953,10 @@
     ],
     "text_preview": {
       "ce": "Лаьмнийн а ду гӀиллакх шайн - / Халачу лакхенан гӀиллакх."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "arsanukaev-mohkbegor",
@@ -2520,7 +2975,10 @@
     ],
     "text_preview": {
       "ce": "ЦӀеххьана кхерийна, / Лаьттан дегӀ дегий."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "nana",
@@ -2538,8 +2996,17 @@
       "доьзал"
     ],
     "text_preview": {
-      "ce": "Нана, хьо санна хаза цхьа а дац, / Дуьненахь хьо санна еза цхьа а яц."
-    }
+      "ce": "Нана, хьо санна хаза цхьа а дац, / Дуьненахь хьо санна еза цхьа а яц.",
+      "ru": "Мать, никого прекрасней нет, чем ты,",
+      "en": "Mother, no one is as beautiful as you,",
+      "fr": "Mère, personne n'est plus belle que toi,"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "arsanukaev-nenan-mott",
@@ -2558,7 +3025,10 @@
     ],
     "text_preview": {
       "ce": "Доьзалехь бийцар а дастам а хеташ, / Хьуо винчу ненан мотт дӀатесна ахь."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "noxchiicho",
@@ -2576,8 +3046,17 @@
       "лаьмнаш"
     ],
     "text_preview": {
-      "ce": "Нохчийчоь — сан даймохк, сан безам, / Хьан лаьмнаш — сан дагна тийна дош."
-    }
+      "ce": "Нохчийчоь — сан даймохк, сан безам, / Хьан лаьмнаш — сан дагна тийна дош.",
+      "ru": "Чечня — моя родина, моя любовь,",
+      "en": "Chechnya — my homeland, my love,",
+      "fr": "Tchétchénie — ma patrie, mon amour,"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "arsanukaev-khekharkho",
@@ -2594,7 +3073,10 @@
     ],
     "text_preview": {
       "ce": "Сан некъо шозлагӀа / Гола шен тоьхна,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "tsuruev-nokhchiin-mott",
@@ -2613,7 +3095,10 @@
     ],
     "text_preview": {
       "ce": "Акха яр санна, и ца баьлла бацалахь, / Боьжна бац стиглара, эцна бац базарахь,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "edilsultanov-khio",
@@ -2630,7 +3115,10 @@
     ],
     "text_preview": {
       "ce": "Кхиош гӀиллакх, дуза дог, / Оьзда баккха боккху ког."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-zhimalla",
@@ -2645,7 +3133,10 @@
     ],
     "text_preview": {
       "ce": "Жималло шех хьега хӀинца со ма витна, / Сан догчохь дӀалаьцна цо меттиг шуьйра."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "yashurkaev-gora",
@@ -2662,7 +3153,10 @@
     ],
     "text_preview": {
       "ce": "Гора яӀ, нохчийн мотт, дош метта диллий / ДӀаала вайша цхьа даггара илли,…"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "ahmatukaev-mama",
@@ -2678,7 +3172,10 @@
     ],
     "text_preview": {
       "ru": "Мать схоронили. Разошлись живые. / Двор опустел. Я у ворот стою."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-vrach",
@@ -2694,7 +3191,10 @@
     ],
     "text_preview": {
       "ru": "Он собственную жадность отвергал / Всю жизнь, как будто лютого врага!"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-gore",
@@ -2710,7 +3210,10 @@
     ],
     "text_preview": {
       "ru": "Когда её сорвётся сын / С высокого пути мужчин,…"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-prigovor",
@@ -2726,7 +3229,10 @@
     ],
     "text_preview": {
       "ru": "Судьба Чечни – как строчки нить: / «Помиловать нельзя казнить»."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-zhelezka-doroga",
@@ -2742,7 +3248,10 @@
     ],
     "text_preview": {
       "ru": "А моя седина родилась / На железной дороге…"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-kazalos",
@@ -2758,7 +3267,10 @@
     ],
     "text_preview": {
       "ru": "Хотел облегчить груз твоей вины, / Хотел от всей души помочь тебе."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-zlodei",
@@ -2774,7 +3286,10 @@
     ],
     "text_preview": {
       "ru": "Когда злодеи рушили престолы, / Когда царей растили из шпаны,…"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-tropa",
@@ -2790,7 +3305,10 @@
     ],
     "text_preview": {
       "ru": "Крутою бесконечною тропой / Карабкался за солнечной судьбой."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-noch",
@@ -2806,7 +3324,10 @@
     ],
     "text_preview": {
       "ru": "Ночь осеняется лунной строкой. / Снова я болен ночною тоской."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-podalye",
@@ -2822,7 +3343,10 @@
     ],
     "text_preview": {
       "ru": "Надежд на исцеленье больше нет, / Когда болезнь смертельная – война."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-kolybel",
@@ -2838,7 +3362,10 @@
     ],
     "text_preview": {
       "ru": "Покачай колыбель / И любимую самую песню…"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-proshchenie",
@@ -2854,7 +3381,10 @@
     ],
     "text_preview": {
       "ru": "Прощением очистилась душа. / Но ты во сны мои приходишь вновь,…"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-derevo",
@@ -2870,7 +3400,10 @@
     ],
     "text_preview": {
       "ru": "Не запятнайте рук / Бессовестным и чёрным."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-s-nadezhdo",
@@ -2886,7 +3419,10 @@
     ],
     "text_preview": {
       "ru": "Как радостно, когда отец в мой сон / Является и, как живой, глядит."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-pyatnadtsat",
@@ -2902,7 +3438,10 @@
     ],
     "text_preview": {
       "ru": "Никакой житейской стужи. / Просто детские года."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ahmatukaev-toska",
@@ -2918,7 +3457,10 @@
     ],
     "text_preview": {
       "ru": "Тоску по родине едва ли исцелит / Заманчивых плодов заморских вид."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "suleimanov-konakh",
@@ -2936,8 +3478,16 @@
       "хьехам"
     ],
     "text_preview": {
-      "ce": "Что значит къонах, ты спросил, и какова ему цена? / И я сказал тебе в ответ под гул торжественного пира,"
-    }
+      "ce": "Что значит къонах, ты спросил, и какова ему цена? / И я сказал тебе в ответ под гул торжественного пира,",
+      "ru": "Что значит къонах, ты спросил, и какова ему цена?",
+      "en": "What does a konakh mean, you asked, and what is his worth?",
+      "fr": "Tu as demandé ce que signifie un konakh, et quelle est sa valeur ?"
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "yusupov-belaya-mysl",
@@ -2953,7 +3503,10 @@
     ],
     "text_preview": {
       "ru": "Серая мысль утонула в тумане. / Синяя – в море нырнула волной."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "yusupov-zima-snega",
@@ -2969,7 +3522,10 @@
     ],
     "text_preview": {
       "ru": "Зима! Дай снега – меж родимых гор / Я сотворю тех гор родных сестёр!"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "yusupov-sahaline",
@@ -2985,7 +3541,10 @@
     ],
     "text_preview": {
       "ru": "Когда в тумане тонет Сахалин, / И ночь спешит опять на смену дню,…"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "yusupov-moy-put",
@@ -3001,7 +3560,10 @@
     ],
     "text_preview": {
       "ru": "Я твёрдо знаю, выбирая путь: / Бессмертие души не только в хлебе."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "yusupov-kalina",
@@ -3017,7 +3579,10 @@
     ],
     "text_preview": {
       "ru": "На листве на жёлтой кровь калины / Кажется недолго ярко-алой –…"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "yusupov-nana",
@@ -3033,7 +3598,10 @@
     ],
     "text_preview": {
       "ru": "Яблоня святая – наша нана, / Продолженье наны – семь детей."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "yusupov-krovyu",
@@ -3049,7 +3617,10 @@
     ],
     "text_preview": {
       "ru": "Не чернилами – кровью пишу эти строки. / Только так я могу их доверить бумаге!"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "yusupov-vzglyad",
@@ -3065,7 +3636,10 @@
     ],
     "text_preview": {
       "ru": "Твой взгляд в моём сердце из ласковых строк / Заветную песню о счастье зажёг."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "sulaev-razdumye",
@@ -3083,8 +3657,16 @@
       "философия"
     ],
     "text_preview": {
-      "ce": "Осенней мглы душа моя мрачней. / С кем поделиться думами своими?"
-    }
+      "ce": "Осенней мглы душа моя мрачней. / С кем поделиться думами своими?",
+      "ru": "Осенней мглы душа моя мрачней.",
+      "en": "The darkness of autumn makes my soul still darker.",
+      "fr": "Les ténèbres automnales rendent mon âme plus sombre encore."
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "geshaev-kray-vainakhsky",
@@ -3102,8 +3684,16 @@
       "безам"
     ],
     "text_preview": {
-      "ce": "Край вайнахский, милый край, / Мы для нас и дом, и рай."
-    }
+      "ce": "Край вайнахский, милый край, / Мы для нас и дом, и рай.",
+      "ru": "Край вайнахский, милый край,",
+      "en": "Vainakh land, my dear land,",
+      "fr": "Terre vainakh, ma chère terre,"
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "geshaev-legendy-kavkaza",
@@ -3121,8 +3711,16 @@
       "халкъ"
     ],
     "text_preview": {
-      "ce": "Горный край, Кавказ мой седоглавый, / ты стоишь, как ветеран, седой,"
-    }
+      "ce": "Горный край, Кавказ мой седоглавый, / ты стоишь, как ветеран, седой,",
+      "ru": "Горный край, Кавказ мой седоглавый,",
+      "en": "Mountain land, my gray-haired Caucasus,",
+      "fr": "Terre des montagnes, mon Caucase aux cheveux gris,"
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "yarichev-denievu-hasmagomedu",
@@ -3140,8 +3738,16 @@
       "философия"
     ],
     "text_preview": {
-      "ce": "У каждого из нас своя дорога, / Где главное дано: от АЗ - до ЯТЬ,"
-    }
+      "ce": "У каждого из нас своя дорога, / Где главное дано: от АЗ - до ЯТЬ,",
+      "ru": "У каждого из нас своя дорога,",
+      "en": "Each of us has a road of our own,",
+      "fr": "Chacun de nous a sa propre route,"
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "yarichev-dialog",
@@ -3159,8 +3765,16 @@
       "турпала"
     ],
     "text_preview": {
-      "ce": "Над развороченным Гунибом / Нависла смерти тень…-Имам,"
-    }
+      "ce": "Над развороченным Гунибом / Нависла смерти тень…-Имам,",
+      "ru": "Над развороченным Гунибом",
+      "en": "Over ruined Gunib",
+      "fr": "Sur le Gunib dévasté"
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "yarichev-chernaya-zvezda-haibah",
@@ -3178,8 +3792,16 @@
       "философия"
     ],
     "text_preview": {
-      "ce": "Ломается лежалый снег / Под кирзовыми сапогами..."
-    }
+      "ce": "Ломается лежалый снег / Под кирзовыми сапогами...",
+      "ru": "Ломается лежалый снег",
+      "en": "The packed snow breaks",
+      "fr": "La neige tassée se brise"
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "mamakaev-bloody-mountains",
@@ -3198,7 +3820,10 @@
     ],
     "text_preview": {
       "en": "I love one above all on earth, / All my life belong to just one,"
-    }
+    },
+    "available_languages": [
+      "en"
+    ]
   },
   {
     "id": "geshaev-rodom-s-gor",
@@ -3219,7 +3844,12 @@
       "ru": "Я родом с гор твоих, Чечня, / Я внук твоих сынов бесстрашных.",
       "en": "I come from your mountains, Chechnya, / I am the grandson of your fearless sons.",
       "fr": "Je viens de tes montagnes, Tchétchénie, / Je suis le petit-fils de tes fils intrépides."
-    }
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "geshaev-otec-kavkaz",
@@ -3240,7 +3870,12 @@
       "ru": "Отец мой - Великий Кавказ, / А мать - Золотая Чечня.",
       "en": "My father is the Great Caucasus, / And my mother is Golden Chechnya.",
       "fr": "Mon père est le Grand Caucase, / Et ma mère, la Tchétchénie dorée."
-    }
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "geshaev-chechency",
@@ -3261,7 +3896,12 @@
       "ru": "Вы сразу пришлись мне по сердцу, / Расплавив сомнения лед,",
       "en": "You won my heart at once, / Melting the ice of doubt,",
       "fr": "Vous avez tout de suite conquis mon cœur, / Faisant fondre la glace du doute,"
-    }
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "akhmatova-dobrota",
@@ -3282,7 +3922,12 @@
       "ru": "Пусть славится вовеки доброта… / Не доброта бездумного терпенья,",
       "en": "May kindness be praised forever... / Not the kindness of thoughtless patience,",
       "fr": "Que la bonté soit louée à jamais... / Non pas la bonté d'une patience irréfléchie,"
-    }
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "sulaev-ni-slavy-ni-bogatstva",
@@ -3303,7 +3948,12 @@
       "ru": "Ни славы, ни богатства не ищу я, / А просто для души стихи пишу.",
       "en": "I seek neither fame nor wealth; / I simply write poems for the soul.",
       "fr": "Je ne cherche ni gloire ni richesse ; / J'écris simplement des poèmes pour l'âme."
-    }
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "arsanukaev-odnazhdy-na-rassvete",
@@ -3324,7 +3974,12 @@
       "ru": "Однажды / Криком на рассвете",
       "en": "One day, / With a cry at dawn,",
       "fr": "Un jour, / D'un cri à l'aube,"
-    }
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "illi-zelamkha-gizlar",
@@ -3344,7 +3999,10 @@
     ],
     "text_preview": {
       "ce": "Схьакхеттачу малхана ӀиндагӀ ва доцуш, / ТӀедогӀучу догӀанна гоъ тхьовса ва йоцуш,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "illi-anzoran-zaza",
@@ -3364,7 +4022,10 @@
     ],
     "text_preview": {
       "ce": "Ва сарахь суьйренца, бузучу малхаца, / Суьйренах къаьстина булучу боданца,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "daymohk-mamakaev",
@@ -3382,8 +4043,17 @@
       "истори"
     ],
     "text_preview": {
-      "ce": "Сила, слава, къуоналла а кхин дерг а – / Дерриг дӀадер ду; безам дӀабер бу, бала а..."
-    }
+      "ce": "Сила, слава, къуоналла а кхин дерг а – / Дерриг дӀадер ду; безам дӀабер бу, бала а...",
+      "ru": "Сила, слава, молодость и прочее –",
+      "en": "Strength, glory, youth and the rest –",
+      "fr": "Force, gloire, jeunesse et le reste –"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "dottagalla-mamakaev",
@@ -3401,8 +4071,17 @@
       "хьехам"
     ],
     "text_preview": {
-      "ce": "Ма кхолало, доттагӀ, хьал долуш ду вай, / Хьал долуш хиларх, пис нах дац вай."
-    }
+      "ce": "Ма кхолало, доттагӀ, хьал долуш ду вай, / Хьал долуш хиларх, пис нах дац вай.",
+      "ru": "Не хмурься, друг мой, мы с тобой богаты,",
+      "en": "Do not frown, my friend, we are rich,",
+      "fr": "Ne fronce pas les sourcils, mon ami, nous sommes riches,"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "yusupov-ilman-to-motherland",
@@ -3423,7 +4102,12 @@
       "ce": "Даймохк, ас хьан лаьттахь юьту коган хӀора лар а / Лууш ву со хила хьан некъашна аьхна даар.",
       "en": "Chechnya, every trace that I leave on your earth, / I wish to transform into the nourishment for your roads.",
       "fr": "Tchétchénie, chaque trace que je laisse sur ta terre, / Je voudrais la transformer en nourriture pour tes routes."
-    }
+    },
+    "available_languages": [
+      "ce",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "yusupov-ilman-lonely-night",
@@ -3442,8 +4126,14 @@
     ],
     "text_preview": {
       "en": "Lonely night, aged mom, tearful eyes, graveyard, tombstone – / There they are, the glomiest words of Chechen mother tongue.",
-      "fr": "Soir solitaire, vieille mère, yeux en pleurs, cimetière, pierre tombale – / Les voilà, les mots les plus sombres de la langue tchétchène."
-    }
+      "fr": "Soir solitaire, vieille mère, yeux en pleurs, cimetière, pierre tombale – / Les voilà, les mots les plus sombres de la langue tchétchène.",
+      "ru": "Одинокий вечер, старая мать, плачущие глаза, могилы –"
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "yusupov-ilman-sad-thoughts",
@@ -3463,7 +4153,11 @@
     "text_preview": {
       "en": "The graveyard expands more and more each and every day / A dozen of graves are added to an old tombstone.",
       "fr": "Le cimetière s'étend encore et encore, chaque jour, / Une douzaine de tombes s'ajoutent à une vieille pierre."
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "yusupov-ilman-breath-of-war",
@@ -3483,7 +4177,11 @@
     "text_preview": {
       "en": "The breath of the war is touching the smoking skyline, / Bloody rain is falling on the burning forest expanse.",
       "fr": "Le souffle de la guerre touche l'horizon fumant, / Une pluie de sang tombe sur l'étendue de la forêt en flammes."
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "gatsaev-reviendrai",
@@ -3504,7 +4202,12 @@
       "ce": "Со вуха вогӀур ву, / Кхана дӀавахча а,",
       "en": "I will return, / Even if I am carried away tomorrow,",
       "fr": "Je serai de retour, / Même si demain je suis emporté,"
-    }
+    },
+    "available_languages": [
+      "ce",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "gatsaev-daimokhk",
@@ -3524,8 +4227,15 @@
     "text_preview": {
       "en": "Do you want my soul? / – Yes, if it is that of a Man.",
       "fr": "T'as besoin de mon âme ? / – Oui, si c'est celle d'un Homme.",
-      "ce": "– Даймохк, / Хьуна сан са оьший?"
-    }
+      "ce": "– Даймохк, / Хьуна сан са оьший?",
+      "ru": "Душу мою ты желаешь?"
+    },
+    "available_languages": [
+      "ce",
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "kerimov-the-deportation",
@@ -3545,7 +4255,11 @@
     "text_preview": {
       "en": "I am an ache. / I am thousands,",
       "fr": "Je suis une douleur. / Je suis des milliers,"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "batoukaev-disparus",
@@ -3564,8 +4278,14 @@
     ],
     "text_preview": {
       "en": "You will be only a line in a list of a thousand names, / You, who were buried, yet not interred.",
-      "fr": "Une ligne tu seras, dans une liste de noms par milliers, / Toi, qui fus enterré, mais pas inhumé."
-    }
+      "fr": "Une ligne tu seras, dans une liste de noms par milliers, / Toi, qui fus enterré, mais pas inhumé.",
+      "ru": "Ты будешь только строчкой из тысячи имен,"
+    },
+    "available_languages": [
+      "ru",
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "ichaeva-je-viens-de-la-ou",
@@ -3585,7 +4305,11 @@
     "text_preview": {
       "en": "I come from a place where girls – are the face of the family.",
       "fr": "Je viens de là où les Filles – c'est le visage de la famille."
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "ichaeva-mon-pays",
@@ -3605,7 +4329,11 @@
     "text_preview": {
       "en": "My beautiful country, my Chechnya. / The people who stayed in their homes,",
       "fr": "Mon beau pays, ma Tchétchénie. / Les gens qui sont chez eux restés,"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "musaeva-homeland",
@@ -3625,7 +4353,11 @@
     "text_preview": {
       "en": "I wish to remember those / Who bravely fell in war,",
       "fr": "Je veux me souvenir de ceux / Qui sont tombés bravement à la guerre,"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "bino-where-we-belong",
@@ -3645,7 +4377,11 @@
     "text_preview": {
       "en": "There is a wound in my heart, / The older I grow the deeper it gets,",
       "fr": "Il y a une blessure dans mon cœur, / Plus je vieillis, plus elle s'approfondit,"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "isin-eldin-symphony-of-death",
@@ -3665,7 +4401,11 @@
     "text_preview": {
       "en": "Once more a symphony of death resounds / without cease,",
       "fr": "Encore une fois une symphonie de la mort retentit / sans cesse,"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "itsmeolord-liberty-anthem",
@@ -3685,7 +4425,11 @@
     "text_preview": {
       "en": "To show the deepest of your world / I've had to use my heart.",
       "fr": "Pour te montrer le plus profond de ton monde / J'ai dû me servir de mon cœur."
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "anonyme-nes-dans-la-nuit",
@@ -3705,7 +4449,11 @@
     "text_preview": {
       "en": "We were born in the night when the she-wolf gave birth to her cubs, / at dawn, names were given to us, at the roar of the lion,",
       "fr": "Nous sommes nés dans la nuit où la louve mettait bas ses petits, / au matin, on nous donna des noms, au rugissement du lion,"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "bisultanov-first-poem-after-leaving-chechnya",
@@ -3725,7 +4473,11 @@
     "text_preview": {
       "en": "Grab your heart with both hands / That old hedgehog",
       "fr": "Prends ton cœur à deux mains, / Ce vieux hérisson,"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "bisultanov-hoarse-hawk",
@@ -3745,7 +4497,11 @@
     "text_preview": {
       "en": "Hoarse hawk how much you are like me / Unheard by God",
       "fr": "Faucon enroué, comme tu me ressembles / Inentendu de Dieu"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "bisultanov-childhoods",
@@ -3765,7 +4521,11 @@
     "text_preview": {
       "en": "My grandmother used to say / If you see your childhood three times",
       "fr": "Ma grand-mère disait / Si tu vois ton enfance trois fois"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "bisultanov-olkhazare",
@@ -3784,7 +4544,10 @@
     ],
     "text_preview": {
       "ce": "са хаддалц кхайкха хьо хӀай маьрша олхазар / ва дийна хиларан жоп Деле доьхуш"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-kuzganiyn-pardonekh",
@@ -3803,7 +4566,10 @@
     ],
     "text_preview": {
       "ce": "Куьзганийн пардонех пенойх чекхбуьйлучу / Бодано яхьайо хьох йолу ойланаш."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-bettasa",
@@ -3822,7 +4588,10 @@
     ],
     "text_preview": {
       "ce": "Беттаса схьакхийти, эзар шо хьалха / Кхеташ ма-хиллара гӀайгӀане, цхьалха,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-iindagiash",
@@ -3841,7 +4610,10 @@
     ],
     "text_preview": {
       "ce": "ӀиндагӀаш - царна а ма деза вовшийн, / Бесачу, даима шийлачу царна,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-as-khan-chabaneh-gajga-jucur-ju",
@@ -3860,7 +4632,10 @@
     ],
     "text_preview": {
       "ce": "Ас хьан чӀабанех гӀайгӀа юцур ю, / КӀайчу говрана туьйра дуьйцур ду,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-da-vocu-zhala",
@@ -3879,7 +4654,10 @@
     ],
     "text_preview": {
       "ce": "Диларшкахь ду цуьнан дажар, / Кхаьллешкахь ду цуьнан дажар."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-san-bezam",
@@ -3897,7 +4675,10 @@
     ],
     "text_preview": {
       "ce": "Сан безам и хӀун ю и муха къастабо кхечо, / Со оцу тайпана хъесапаш оьшуш вац, Мохк."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-san-dajmoxk",
@@ -3915,7 +4696,10 @@
     ],
     "text_preview": {
       "ce": "Сан Даймохк бац хьуна абата тӀера, / Виначу юьртара болалац и."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-bakhxochun-tezet",
@@ -3934,7 +4718,10 @@
     ],
     "text_preview": {
       "ce": "Бараман га лаьцна доцу вешин куьг а, / Кошан борза тӀе диллина доцу йишин куьг а,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-as-lorush-jolu-khel",
@@ -3953,7 +4740,10 @@
     ],
     "text_preview": {
       "ce": "АС ЛОРУШ ЙОЛУ КХЕЛ / сан зудчо"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-bettasa-lekhachu-bujsanan-korge",
@@ -3972,7 +4762,10 @@
     ],
     "text_preview": {
       "ce": "беттаса лекхачу буьйсанан кӀоргенехь / ӀиндагӀа дазделча меттах ца валлал"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-tesham-bocchu-kantana-joa-lekhna-jish",
@@ -3990,7 +4783,10 @@
     ],
     "text_preview": {
       "ce": "бохучарна баха хили / дуьйцучарна дийца хили"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-caevzarg",
@@ -4009,7 +4805,10 @@
     ],
     "text_preview": {
       "ce": "1. / Со хьоьца Ӏаш вара"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-noxchiyn-ballada",
@@ -4028,7 +4827,10 @@
     ],
     "text_preview": {
       "ce": "Ваа сарахь суьйренца, / бузучу малхаца"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-beralleh-kanalleh-levzinarg",
@@ -4047,7 +4849,10 @@
     ],
     "text_preview": {
       "ce": "бераллехь къаналлех левзинарг къаналлехь бераллех ловзу / кхачвалар ду кхачавалар, мухха а делахь а, ду иза валар"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-oxuneh-tera-ju",
@@ -4066,7 +4871,10 @@
     ],
     "text_preview": {
       "ce": "охунех тера ю / хьан куьйгийн берчаш"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-xusaman-ialasho-jocush",
@@ -4085,7 +4893,10 @@
     ],
     "text_preview": {
       "ce": "хӀусаман Ӏалашо йоцуш / И тӀулгаш тӀекӀела дихкинарг"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-beralle",
@@ -4104,7 +4915,10 @@
     ],
     "text_preview": {
       "ce": "Ков тоьхна веа со, хан йоцчу хенахь хьо гӀаттош, / Мохь тоьхна веа со, хьан шерийн тийналла Ӏадош."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-doa",
@@ -4123,7 +4937,10 @@
     ],
     "text_preview": {
       "ce": "лам лекха бу аьлча ломах / аьлларг аьлла доцу дела"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-zarzarshca-chekhdolu-lamaz",
@@ -4142,7 +4959,10 @@
     ],
     "text_preview": {
       "ce": "зарзаршца чекхдолу ламаз / къийгашца долало де."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-ckha-tajpa-pafos-jocush-alcha",
@@ -4161,7 +4981,10 @@
     ],
     "text_preview": {
       "ce": "сан мостагӀийн яххьаш яцара / даима а цхьа юьхь яра церан"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-kxoadaj-alalah-olush-derg",
@@ -4179,7 +5002,10 @@
     ],
     "text_preview": {
       "ce": "Кхоадай алалахь олуш дерг соьга, / Цкъа дохко яла а мегий хьо-м цунна."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-ragu",
@@ -4198,7 +5024,10 @@
     ],
     "text_preview": {
       "ce": "дирзина мехашна агӀор / дерзина лаьтта цхьа рагӀу"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-shagatulgash",
@@ -4216,7 +5045,10 @@
     ],
     "text_preview": {
       "ce": "ХӀацӀи – бицӀи – бицӀахь – цӀулга / Хьан дог ма ду шагатӀулган"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-polonez-lakhijtijsha",
@@ -4235,7 +5067,10 @@
     ],
     "text_preview": {
       "ce": "Полонез лакхийтийша, полонез, / мацаллин ноти тӀера дӀайолаяй,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-ujjrenash-shu-marsha-ojla",
@@ -4254,7 +5089,10 @@
     ],
     "text_preview": {
       "ce": "Ӏуьйренаш, шу марша Ӏойла, / Суьйренаш, шу марша Ӏойла,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "minkailov-khajabi-kxena-kxor",
@@ -4273,7 +5111,10 @@
     ],
     "text_preview": {
       "ce": "Суна чӀогӀа безам хета / ДӀо ширбелла къена кхор."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "beksultanov-musa-bujsa-xaza",
@@ -4292,7 +5133,10 @@
     ],
     "text_preview": {
       "ce": "Буьйса хаза, буьйса тийна, / Седа боду стиглахь раз,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "mincaev-alvi-nakharmoza",
@@ -4311,7 +5155,10 @@
     ],
     "text_preview": {
       "ce": "КӀадбаллалц къахьегна дургалш лахьийна, / Уьш Ӏенча, тӀегулйеш, куьйгаш дахьийна,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "bisultanov-degasta",
@@ -4331,7 +5178,11 @@
     "text_preview": {
       "ce": "Йуха а йарташ тӀехь сенлуш ду кӀарраш / Йуха а цӀинлуш ду ламанийн карраш",
       "fr": "Sur les villages encore les fumées bleuissent, / Sur les sommets encore, les couleurs fleurissent."
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   },
   {
     "id": "saidov-bilal-nenan-mott",
@@ -4350,7 +5201,10 @@
     ],
     "text_preview": {
       "ce": "Хьох лаьцна йаздина, / Дийца а дийцина."
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "mokhmad-mamakaev-nana",
@@ -4369,7 +5223,10 @@
     ],
     "text_preview": {
       "ce": "Сан нана, хьо хасто дош суна дисна дац;"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "magomadov-khechi-suyrenash",
@@ -4388,7 +5245,10 @@
     ],
     "text_preview": {
       "ce": "ТӀе кхечи суьйренаш тийна / ДӀа яхи хаза и хан,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "magomadov-ezachukh-kastash",
@@ -4407,7 +5267,10 @@
     ],
     "text_preview": {
       "ce": "Ма ала езнариг соьга / Яхна хан йогӀур яц юха,"
-    }
+    },
+    "available_languages": [
+      "ce"
+    ]
   },
   {
     "id": "nunuev-v-tme-glukhikh",
@@ -4427,7 +5290,10 @@
     ],
     "text_preview": {
       "ru": "Во тьме глухих тысячелетий, / Под пылью сказочных времен,"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "nunuev-ty-pechalen-brat",
@@ -4446,7 +5312,10 @@
     ],
     "text_preview": {
       "ru": "Ты печален, брат чеченец. / Ты грустна, сестра моя."
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "bino-little-soldier",
@@ -4466,7 +5335,11 @@
     "text_preview": {
       "en": "What happened to that child? / Why do I see a reflection of a broken happiness deep in this child’s eyes?",
       "fr": "Que s’est-il passé pour cet enfant ? / Pourquoi vois-je le reflet d’un bonheur brisé au plus profond des yeux de cet enfant ?"
-    }
+    },
+    "available_languages": [
+      "en",
+      "fr"
+    ]
   },
   {
     "id": "ili-chyorny-nogay",
@@ -4485,7 +5358,10 @@
     ],
     "text_preview": {
       "ru": "Ва-лай-ла, я-ла-лай, ва-лай-ла, я-ла-лай, / ва-лай-ла, я-ла-лай!"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ili-gornyy-pastukh",
@@ -4504,7 +5380,10 @@
     ],
     "text_preview": {
       "ru": "Три тыщи овец он гнал пред собой, / вперед поставив ярых козлищ,"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ili-zhammirza-mady",
@@ -4523,7 +5402,10 @@
     ],
     "text_preview": {
       "ru": "Запрягали лошадей поджарых / в прочную почтовую карету,"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ili-chega-beybulat",
@@ -4542,7 +5424,10 @@
     ],
     "text_preview": {
       "ru": "Расположившись на стуле трёхногом, / думы и чувства доверив струнам пандура,"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ili-syn-vdovy-musost",
@@ -4561,7 +5446,10 @@
     ],
     "text_preview": {
       "ru": "На закате солнца было: юный Сын Вдовы пришел / под окно, где рукодельем дочь богатого Дады занималась,"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "ili-saylakha",
@@ -4580,7 +5468,10 @@
     ],
     "text_preview": {
       "ru": "В сумерках, когда сгустилась тьма / в комнате, что велика для двух,"
-    }
+    },
+    "available_languages": [
+      "ru"
+    ]
   },
   {
     "id": "bisultanov-thoroughbred-night",
@@ -4598,7 +5489,10 @@
     ],
     "text_preview": {
       "en": "So bright / That a dog barks at its shadow"
-    }
+    },
+    "available_languages": [
+      "en"
+    ]
   },
   {
     "id": "bisultanov-khaibakh",
@@ -4617,7 +5511,10 @@
     ],
     "text_preview": {
       "en": "I know nothing, not where head or foot / A beak gnaws away at my heart"
-    }
+    },
+    "available_languages": [
+      "en"
+    ]
   },
   {
     "id": "yusupov-ilman-regret",
@@ -4635,7 +5532,10 @@
     ],
     "text_preview": {
       "en": "The wasp always flies around choosing only the ripest pear, / The grey-haired dandelion opens its arms to the piercing blast."
-    }
+    },
+    "available_languages": [
+      "en"
+    ]
   },
   {
     "id": "yusupov-ilman-to-nokhchichoh",
@@ -4654,7 +5554,10 @@
     ],
     "text_preview": {
       "en": "Nokhchicho! You will hear my whisper, I know. / When I breathe my last on the final verge, and"
-    }
+    },
+    "available_languages": [
+      "en"
+    ]
   },
   {
     "id": "bisultanov-daymokhk-la-terre-des-ancetres",
@@ -4673,7 +5576,11 @@
     "text_preview": {
       "ce": "Хууш ду, массо а кӀантана / Оьшуш буй хьомсара Даймохк.",
       "fr": "Tous les enfants mâles, c’est connu, / De leur chère patrie ont besoin."
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   },
   {
     "id": "bisultanov-tshalla",
@@ -4692,7 +5599,11 @@
     "text_preview": {
       "ce": "эгабо боданехь серлонан сара, / берда тӀехь чӀарано садоьӀуш санна.",
       "fr": "Le rayon de lumière tremble dans l’obscurité, / Comme un poisson qui respire sur la rive."
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   },
   {
     "id": "gatsaev-so-m-khan-variy-nohchiycho",
@@ -4711,7 +5622,11 @@
     "text_preview": {
       "ce": "Со-м хьан варий, Нохчийчоь, / Хьо-м сан ярий, Нохчийчоь,",
       "fr": "Je suis à toi ma Tchétchénie, / Tu es à moi ma Tchétchénie."
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   },
   {
     "id": "gatsaev-kho-tserga-khottina",
@@ -4730,7 +5645,11 @@
     "text_preview": {
       "ce": "Хьо цӀерга хӀоьттина, / Хьо цӀаро еттина,",
       "fr": "Par le feu tu es passée / Dans le feu tu es brûlée"
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   },
   {
     "id": "gatsaev-dika-du-baste",
@@ -4749,7 +5668,11 @@
     "text_preview": {
       "ce": "Дика ду, бӀаьсте, / Хьо яьлла,",
       "fr": "Comme il est bon / Que le printemps soit arrivé."
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   },
   {
     "id": "gatsaev-khan-dyulo-tsa-gyo-vay",
@@ -4768,7 +5691,11 @@
     "text_preview": {
       "ce": "ХӀан, дуьло, цӀа гӀо вай, / Вайн бакъо ели,",
       "fr": "Et si nous y allions maintenant ? / Nous en avons le droit, finalement"
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   },
   {
     "id": "gatsaev-churt-dotsush-dyusu-vayn",
@@ -4787,7 +5714,11 @@
     "text_preview": {
       "ce": "Чурт доцуш дуьсу вайн / Кхузара кешнаш.",
       "fr": "De leurs pierres tombales privées, / Les tombeaux de nos proches sont restés."
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   },
   {
     "id": "gatsaev-khiun-du-sil-a-merza",
@@ -4806,6 +5737,10 @@
     "text_preview": {
       "ce": "– ХӀун ду, хӀун ду / Сил а мерза?",
       "fr": "– Existe-t-il une chose plus précieuse que l’âme ? / – C’est le cher Pays ! lui répondit-on."
-    }
+    },
+    "available_languages": [
+      "ce",
+      "fr"
+    ]
   }
 ]

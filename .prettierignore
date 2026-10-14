@@ -6,6 +6,5 @@ public
 .vercel
 docs
 src/data/*.json
-src/data/backups/
 src/data/pending-restore.json
 package-lock.json
