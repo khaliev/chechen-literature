@@ -59,6 +59,16 @@ function checkFullFile(name, works, seenIds) {
         if (!LANGS.includes(lang))
           warnings.push(`${where}: "${f}" a une clé de langue inattendue "${lang}"`);
       }
+      // Garde-fou palotchka/lookalikes : une lettre latine collée à du
+      // cyrillique dans un champ `ce` est presque toujours une coquille
+      // (I→Ӏ, e→е, o→о, p→р…). Les chiffres romains et SMS isolés passent.
+      if (typeof w[f]?.ce === 'string') {
+        const mixed = w[f].ce.match(/[A-Za-z][\u0400-\u04FFӀ]|[\u0400-\u04FFӀ][A-Za-z]/);
+        if (mixed)
+          warnings.push(
+            `${where}: "${f}.ce" mélange latin/cyrillique (${JSON.stringify(mixed[0])}) — coquille probable`
+          );
+      }
     }
     const hasText = LANGS.some((l) => isPresent(w.text?.[l]));
     if (!hasText) errors.push(`${where}: aucun texte plein dans aucune langue`);

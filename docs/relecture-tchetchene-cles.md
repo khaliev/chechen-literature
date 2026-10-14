@@ -22,3 +22,15 @@ Contexte d'usage :
 Après correction, aucune action technique requise : les 4 fichiers
 `src/locales/*.json` doivent garder exactement le même jeu de clés
 (`npm run validate-data` ne le vérifie pas, mais la CI peut être étendue).
+
+## Textes à vérifier par un locuteur natif
+
+- **`mokhmad-mamakaev-hazachu-yoi-tulg`** (prose, `prose.json`) : résidus
+  OCR non réparables mécaniquement (fragments latins : `xloнc`, `yrrapе`,
+  `yьcrarlaн`, `rloнах`, `Iaxap`, `TӀе`, `perӀа`). Le validateur signale le
+  cas en permanence (`mélange latin/cyrillique`) jusqu'à correction manuelle.
+  Source propre recherchée sans succès le 2026-10-14.
+- **`hajimuradov-tsergyakkkhar`** : `- 1-Ӏа-1!` — chiffres `1` ambigus
+  (interjection `Ӏа-Ӏа` ? comptage ?). Laissé tel quel volontairement.
+- **Traductions de titres FR/EN/RU ajoutées le 2026-10-14** (lots nohchalla) :
+  traductions littérales non relues, à valider idéalement par un bilingue.

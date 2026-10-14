@@ -6251,5 +6251,139 @@
     "available_languages": [
       "ru"
     ]
+  },
+  {
+    "id": "geshaev-noch-v-gorah",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Night in the Mountains",
+      "fr": "Nuit dans les montagnes",
+      "ru": "Ночь в горах"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "лаьмнаш",
+      "буьйса",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ru": "Струится пылью столбовой / Дорога, взгляды обгоняя."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-salam-aleykum",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Salam Aleikum, Dear Chechnya",
+      "fr": "Salam alaykoum, chère Tchétchénie",
+      "ru": "Салам алейкум, милая Чечня"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "даймохк",
+      "безам",
+      "маршалла"
+    ],
+    "text_preview": {
+      "ru": "Все небо в звездах – бархат и седины. / Бежит тропинка, радостно звеня…"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-na-kamennykh-sklonakh",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "On the Rocky Slopes…",
+      "fr": "Sur les pentes rocheuses…",
+      "ru": "На каменных склонах в прозрачной накидке"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "гуьйре",
+      "безам",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ru": "На каменных склонах в прозрачной накидке / Прощается лето сегодня со мной."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "geshaev-byl-krasiv-grozny",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "You Were Beautiful, Grozny",
+      "fr": "Tu étais belle, ville de Grozny",
+      "ru": "Был красив ты, город Грозный"
+    },
+    "author": "Муса Гешаев",
+    "tags": [
+      "соьлжа-гӀала",
+      "тӀом",
+      "даймохк"
+    ],
+    "text_preview": {
+      "ru": "Был красив ты, город Грозный, / Любовались мы тобой."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-be-i-me",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Be and Me",
+      "fr": "Bé et Mé",
+      "ru": "Бе и Ме"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "сатира",
+      "братство",
+      "вайнах"
+    ],
+    "text_preview": {
+      "ru": "Врагов назвали Бе / Себя назвали Ме."
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "folk-volk-i-baran",
+    "type": "prose",
+    "title": {
+      "ce": "Борз а, къена ка а",
+      "en": "The Wolf and the Ram",
+      "fr": "Le loup et le bélier",
+      "ru": "Волк и баран"
+    },
+    "author": "Халкъан",
+    "tags": [
+      "туьйра",
+      "халкъан",
+      "дийцар"
+    ],
+    "text_preview": {
+      "ce": "Борз а, къена ка а / Жа юккъера нацкъар а баьлла, уьдуш, ловзуш хилла цхьа-ши Ӏахар.",
+      "ru": "Волк и баран"
+    },
+    "available_languages": [
+      "ce",
+      "ru"
+    ]
   }
 ]
