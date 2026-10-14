@@ -59,15 +59,32 @@ for (const full of [...poems, ...songs, ...prose]) {
   if (!indexById.has(full.id)) next.push(toIndexEntry(full));
 }
 
-console.log(`full total: ${fullById.size} | index actuel: ${currentIndex.length} | prochain: ${next.length}`);
-console.log(`orphelins (retirés de l'index): ${orphans.length}${orphans.length ? ' -> ' + orphans.map((w) => w.id).join(', ') : ''}`);
-console.log(`manquants (ajoutés à l'index): ${missing.length}${missing.length ? ' -> ' + missing.map((w) => w.id).join(', ') : ''}`);
+console.log(
+  `full total: ${fullById.size} | index actuel: ${currentIndex.length} | prochain: ${next.length}`
+);
+console.log(
+  `orphelins (retirés de l'index): ${orphans.length}${orphans.length ? ' -> ' + orphans.map((w) => w.id).join(', ') : ''}`
+);
+console.log(
+  `manquants (ajoutés à l'index): ${missing.length}${missing.length ? ' -> ' + missing.map((w) => w.id).join(', ') : ''}`
+);
 
 // Détecte les désynchronisations qui seront écrasées (titre/auteur/tags/preview)
 let resync = 0;
 for (const entry of next) {
   const old = indexById.get(entry.id);
-  if (old && JSON.stringify(old) !== JSON.stringify({ ...old, ...entry }) && JSON.stringify({ id: old.id, type: old.type, title: old.title, author: old.author, tags: old.tags, text_preview: old.text_preview }) !== JSON.stringify(entry)) {
+  if (
+    old &&
+    JSON.stringify(old) !== JSON.stringify({ ...old, ...entry }) &&
+    JSON.stringify({
+      id: old.id,
+      type: old.type,
+      title: old.title,
+      author: old.author,
+      tags: old.tags,
+      text_preview: old.text_preview,
+    }) !== JSON.stringify(entry)
+  ) {
     resync += 1;
   }
 }

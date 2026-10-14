@@ -30,10 +30,7 @@ export default function PoemDetail() {
   const [showTranslation, setShowTranslation] = useState(false);
 
   const work = useMemo(() => fullWorks.find((w) => w.id === id), [id]);
-  const availableLanguages = useMemo(
-    () => getAvailableContentLanguages(work),
-    [work]
-  );
+  const availableLanguages = useMemo(() => getAvailableContentLanguages(work), [work]);
   const activeText = getFieldInLanguage(work, 'text', contentLanguage);
   const titleLanguage = activeText.text
     ? contentLanguage
@@ -88,7 +85,12 @@ export default function PoemDetail() {
       {/* Canonical answer block for AI crawlers */}
       <div className="poem-detail__meta-block">
         <p>
-          «{displayTitle.text}» — {work.type === 'poem' ? t('filter_poems').toLowerCase() : work.type === 'song' ? t('filter_songs').toLowerCase() : t('filter_prose').toLowerCase()}{' '}
+          «{displayTitle.text}» —{' '}
+          {work.type === 'poem'
+            ? t('filter_poems').toLowerCase()
+            : work.type === 'song'
+              ? t('filter_songs').toLowerCase()
+              : t('filter_prose').toLowerCase()}{' '}
           {t('author_label').toLowerCase()}: {authorName}
           {work.author_years && ` (${work.author_years})`}.
           {work.year_written && ` ${t('year_label')}: ${work.year_written}.`}
@@ -97,7 +99,11 @@ export default function PoemDetail() {
 
       <header className="poem-detail__header">
         <span className="poem-detail__type">
-          {work.type === 'poem' ? t('filter_poems') : work.type === 'song' ? t('filter_songs') : t('filter_prose')}
+          {work.type === 'poem'
+            ? t('filter_poems')
+            : work.type === 'song'
+              ? t('filter_songs')
+              : t('filter_prose')}
         </span>
         <h1 className="poem-detail__title">{displayTitle.text}</h1>
         <span className="poem-detail__content-language">
@@ -105,9 +111,7 @@ export default function PoemDetail() {
         </span>
         <div className="poem-detail__author-info">
           <span className="poem-detail__author">{authorName}</span>
-          {work.author_years && (
-            <span className="poem-detail__years">({work.author_years})</span>
-          )}
+          {work.author_years && <span className="poem-detail__years">({work.author_years})</span>}
         </div>
         {work.year_written && (
           <span className="poem-detail__year">
@@ -168,19 +172,14 @@ export default function PoemDetail() {
       {/* Translation toggle */}
       {activeText.text && translationText.text && (
         <div className="poem-detail__translation">
-          <Button
-            variant="secondary"
-            onClick={() => setShowTranslation(!showTranslation)}
-          >
+          <Button variant="secondary" onClick={() => setShowTranslation(!showTranslation)}>
             {showTranslation ? '▲ ' : '▼ '}
             {t('show_translation')} ({t(getLanguageLabelKey(translationLanguage))})
           </Button>
           {showTranslation && (
             <div
               className={`poem-detail__translation-text animate-fade-in${
-                work.type === 'prose'
-                  ? ' poem-detail__translation-text--prose'
-                  : ''
+                work.type === 'prose' ? ' poem-detail__translation-text--prose' : ''
               }`}
             >
               {translationText.text.split('\n').map((line, i) => (

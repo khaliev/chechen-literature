@@ -11,7 +11,11 @@ const fullWorksById = new Map(fullWorks.map((work) => [work.id, work]));
 
 function makePreview(text) {
   if (!isPresentText(text)) return '';
-  const firstLine = text.split('\n').find((line) => line.trim())?.trim() || '';
+  const firstLine =
+    text
+      .split('\n')
+      .find((line) => line.trim())
+      ?.trim() || '';
   return firstLine.length > 160 ? `${firstLine.slice(0, 157)}…` : firstLine;
 }
 

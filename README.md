@@ -27,6 +27,19 @@ npm run build
 npm run preview
 ```
 
+## Contrôles qualité (P1)
+
+```bash
+npm run validate-data   # cohérence index.json ↔ poems/songs/prose.json
+npm run lint            # ESLint (JS/JSX + scripts)
+npm run format:check    # Prettier (check) / npm run format (write)
+npm run test            # Vitest (30 tests : utils + intégrité données)
+npm run check           # validate-data + lint + test
+```
+
+La CI GitHub Actions (`.github/workflows/ci.yml`) lance `validate-data`,
+`lint`, `test` et `build` à chaque push sur `main` et chaque PR.
+
 ## Как добавить новое произведение
 
 1. Откройте файл `src/data/poems.json` (или `songs.json` / `prose.json`)
@@ -69,10 +82,10 @@ canonical spelling of the archive. When the interface language is English or
 French, the UI renders them in Latin script so they can be read and
 pronounced:
 
-| Чеченский (data) | English  | Français     |
-|---|---|---|
-| Муса Гешаев     | Musa Geshayev | Moussa Gechayev |
-| Раиса Ахматова   | Raisa Akhmatova | Raissa Akhmatova |
+| Чеченский (data) | English             | Français             |
+| ---------------- | ------------------- | -------------------- |
+| Муса Гешаев      | Musa Geshayev       | Moussa Gechayev      |
+| Раиса Ахматова   | Raisa Akhmatova     | Raissa Akhmatova     |
 | Шайхи Арсанукаев | Shaikhi Arsanukayev | Chaikhi Arsanoukayev |
 
 The reviewed transcriptions live in `src/utils/authorName.js`

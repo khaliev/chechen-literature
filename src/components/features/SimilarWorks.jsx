@@ -1,4 +1,3 @@
-import React from 'react';
 import { useTranslation } from '@/hooks/useTranslation';
 import PoemCard from './PoemCard';
 import './SimilarWorks.css';
@@ -14,7 +13,7 @@ const SimilarWorks = ({ works = [], contentLanguage }) => {
     <section className="similar-works">
       <h2 className="similar-works__title">{t('similar_works')}</h2>
       <div className="similar-works__grid">
-        {works.map(w => (
+        {works.map((w) => (
           <PoemCard key={w.id} work={w} contentLanguage={contentLanguage} />
         ))}
       </div>

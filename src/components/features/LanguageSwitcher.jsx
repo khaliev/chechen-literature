@@ -1,4 +1,3 @@
-import React from 'react';
 import { useLanguage } from '@/context/LanguageContext';
 import './LanguageSwitcher.css';
 
@@ -11,25 +10,25 @@ const FLAGS = {
   ce: nokhchiychoFlag,
   ru: russiaFlag,
   en: ukFlag,
-  fr: franceFlag
+  fr: franceFlag,
 };
 
 const LABELS = {
   ce: 'CE',
   ru: 'RU',
   en: 'EN',
-  fr: 'FR'
+  fr: 'FR',
 };
 
 const LanguageSwitcher = () => {
   const { language, setLanguage, languages } = useLanguage();
-  
+
   const availableLangs = languages || ['ce', 'ru', 'en', 'fr'];
 
   return (
     <div className="language-switcher">
       {availableLangs.map((lang) => (
-        <button 
+        <button
           key={lang}
           className={`lang-btn ${language === lang ? 'lang-btn--active' : ''}`}
           onClick={() => setLanguage(lang)}

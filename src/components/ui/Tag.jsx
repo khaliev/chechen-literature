@@ -1,9 +1,8 @@
-import React from 'react';
 import './Tag.css';
 
 const Tag = ({ label, active = false, onClick }) => {
   return (
-    <span 
+    <span
       className={`tag ${active ? 'tag--active' : ''} ${onClick ? 'tag--clickable' : ''}`}
       onClick={onClick}
       role={onClick ? 'button' : 'presentation'}

@@ -51,11 +51,7 @@ export default function Home() {
         {results.length > 0 ? (
           <div className="home__grid">
             {results.map((work) => (
-              <PoemCard
-                key={work.id}
-                work={work}
-                contentLanguage={contentLanguage}
-              />
+              <PoemCard key={work.id} work={work} contentLanguage={contentLanguage} />
             ))}
           </div>
         ) : (

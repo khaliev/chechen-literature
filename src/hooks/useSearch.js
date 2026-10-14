@@ -21,8 +21,8 @@ export function useSearch(works) {
   const [debouncedQuery, setDebouncedQuery] = useState('');
   const [contentLanguage, setContentLanguage] = useState(language);
   const [filters, setFilters] = useState({
-    type: 'all',    // 'all' | 'poem' | 'song' | 'prose'
-    tags: [],       // array of selected tag strings
+    type: 'all', // 'all' | 'poem' | 'song' | 'prose'
+    tags: [], // array of selected tag strings
   });
   const [sortBy, setSortBy] = useState('date'); // 'alphabetical' | 'author' | 'date'
   const timerRef = useRef(null);
@@ -67,11 +67,7 @@ export function useSearch(works) {
 
     // Step 4: Sort (only when no text query, to preserve relevance ranking)
     if (!debouncedQuery.trim()) {
-      result = sortWorks(
-        result,
-        sortBy,
-        contentLanguage === 'all' ? language : contentLanguage
-      );
+      result = sortWorks(result, sortBy, contentLanguage === 'all' ? language : contentLanguage);
     }
 
     return result;

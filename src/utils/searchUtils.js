@@ -58,9 +58,7 @@ export function filterByType(works, typeFilter) {
  */
 export function filterByTags(works, selectedTags) {
   if (!selectedTags || selectedTags.length === 0) return works;
-  return works.filter((w) =>
-    w.tags?.some((tag) => selectedTags.includes(tag))
-  );
+  return works.filter((w) => w.tags?.some((tag) => selectedTags.includes(tag)));
 }
 
 /**
@@ -107,9 +105,7 @@ export function sortWorks(works, sortBy, lang = 'ce') {
       });
     }
     case 'date':
-      return sorted.sort(
-        (a, b) => new Date(b.date_added || 0) - new Date(a.date_added || 0)
-      );
+      return sorted.sort((a, b) => new Date(b.date_added || 0) - new Date(a.date_added || 0));
     default:
       return sorted;
   }

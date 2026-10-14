@@ -13,10 +13,7 @@ export default function Category() {
   const { t } = useTranslation();
 
   // Pre-filter catalog data by type. useSearch applies content-language filtering.
-  const categoryWorks = useMemo(
-    () => catalogWorks.filter((w) => w.type === type),
-    [type]
-  );
+  const categoryWorks = useMemo(() => catalogWorks.filter((w) => w.type === type), [type]);
 
   const {
     query,
@@ -63,11 +60,7 @@ export default function Category() {
         {results.length > 0 ? (
           <div className="category__grid">
             {results.map((work) => (
-              <PoemCard
-                key={work.id}
-                work={work}
-                contentLanguage={contentLanguage}
-              />
+              <PoemCard key={work.id} work={work} contentLanguage={contentLanguage} />
             ))}
           </div>
         ) : (

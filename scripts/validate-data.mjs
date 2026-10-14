@@ -47,7 +47,8 @@ function checkFullFile(name, works, seenIds) {
       if (seenIds.has(w.id)) errors.push(`${where}: id dupliqué "${w.id}"`);
       seenIds.set(w.id, name);
     }
-    if (!TYPES.includes(w.type)) errors.push(`${where}: "type" invalide (${JSON.stringify(w.type)})`);
+    if (!TYPES.includes(w.type))
+      errors.push(`${where}: "type" invalide (${JSON.stringify(w.type)})`);
     if (!w.author || typeof w.author !== 'string') errors.push(`${where}: "author" manquant`);
     for (const f of ['title', 'text', 'text_preview']) {
       if (!w[f] || typeof w[f] !== 'object') {
@@ -55,7 +56,8 @@ function checkFullFile(name, works, seenIds) {
         continue;
       }
       for (const lang of Object.keys(w[f])) {
-        if (!LANGS.includes(lang)) warnings.push(`${where}: "${f}" a une clé de langue inattendue "${lang}"`);
+        if (!LANGS.includes(lang))
+          warnings.push(`${where}: "${f}" a une clé de langue inattendue "${lang}"`);
       }
     }
     const hasText = LANGS.some((l) => isPresent(w.text?.[l]));
@@ -66,12 +68,16 @@ function checkFullFile(name, works, seenIds) {
       errors.push(`${where}: "date_added" doit être YYYY-MM-DD (${JSON.stringify(w.date_added)})`);
     }
     if (w.external_links !== undefined) {
-      if (!Array.isArray(w.external_links)) errors.push(`${where}: "external_links" doit être un tableau`);
+      if (!Array.isArray(w.external_links))
+        errors.push(`${where}: "external_links" doit être un tableau`);
       else {
         w.external_links.forEach((l, j) => {
           if (typeof l === 'string') {
             if (!l.trim()) errors.push(`${where}: external_links[${j}] est une chaîne vide`);
-            else warnings.push(`${where}: external_links[${j}] est une chaîne legacy, convertir en {label, url}`);
+            else
+              warnings.push(
+                `${where}: external_links[${j}] est une chaîne legacy, convertir en {label, url}`
+              );
             return;
           }
           if (!l?.url || typeof l.url !== 'string' || !l.url.trim()) {
@@ -110,19 +116,27 @@ index.forEach((w, i) => {
   const expected = ['author', 'id', 'tags', 'text_preview', 'title', 'type'].sort().join(',');
   const actual = Object.keys(w).sort().join(',');
   if (actual !== expected) {
-    warnings.push(`${where}: clés inattendues (attendu id/type/title/author/tags/text_preview, trouvé: ${Object.keys(w).sort().join(',')})`);
+    warnings.push(
+      `${where}: clés inattendues (attendu id/type/title/author/tags/text_preview, trouvé: ${Object.keys(w).sort().join(',')})`
+    );
   }
   if (!fullById.has(w.id)) {
-    errors.push(`${where}: ORPHELIN — présent dans index.json mais absent de poems/songs/prose.json`);
+    errors.push(
+      `${where}: ORPHELIN — présent dans index.json mais absent de poems/songs/prose.json`
+    );
   } else {
     const full = fullById.get(w.id);
     if (full.type !== w.type) errors.push(`${where}: type "${w.type}" != full "${full.type}"`);
-    if (full.author !== w.author) warnings.push(`${where}: author désynchronisé (index=${JSON.stringify(w.author)} full=${JSON.stringify(full.author)})`);
+    if (full.author !== w.author)
+      warnings.push(
+        `${where}: author désynchronisé (index=${JSON.stringify(w.author)} full=${JSON.stringify(full.author)})`
+      );
   }
 });
 
 for (const [id] of fullById) {
-  if (!indexIds.has(id)) errors.push(`index.json: MANQUANT — "${id}" existe dans le full mais pas dans le catalogue`);
+  if (!indexIds.has(id))
+    errors.push(`index.json: MANQUANT — "${id}" existe dans le full mais pas dans le catalogue`);
 }
 
 // --- Couverture ---
@@ -131,7 +145,9 @@ for (const w of fullById.values()) {
   for (const l of LANGS) if (isPresent(w.text?.[l])) cov[l] += 1;
 }
 
-console.log(`full: poems=${poems.length} songs=${songs.length} prose=${prose.length} total=${fullById.size}`);
+console.log(
+  `full: poems=${poems.length} songs=${songs.length} prose=${prose.length} total=${fullById.size}`
+);
 console.log(`index: ${index.length}`);
 console.log(`couverture texte plein: ${LANGS.map((l) => `${l}=${cov[l]}`).join(' ')}`);
 

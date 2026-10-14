@@ -43,11 +43,7 @@ export function ThemeProvider({ children }) {
     applyTheme(theme);
   }, [theme, applyTheme]);
 
-  return (
-    <ThemeContext.Provider value={{ theme, toggleTheme }}>
-      {children}
-    </ThemeContext.Provider>
-  );
+  return <ThemeContext.Provider value={{ theme, toggleTheme }}>{children}</ThemeContext.Provider>;
 }
 
 export function useTheme() {
