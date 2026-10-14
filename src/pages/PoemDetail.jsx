@@ -12,7 +12,6 @@ import {
 import { findSimilarWorks } from '@/utils/searchUtils';
 import { getWorkAuthor } from '@/utils/authorName';
 import { buildPageTitle, setPageTitle } from '@/utils/pageMeta';
-import { getYouTubeEmbedUrl, getYouTubeId } from '@/utils/youtube';
 import SimilarWorks from '@/components/features/SimilarWorks';
 import Tag from '@/components/ui/Tag';
 import Button from '@/components/ui/Button';
@@ -137,11 +136,6 @@ export default function PoemDetail() {
       return null;
     })
     .filter(Boolean);
-  // YouTube links get an embedded player; everything else stays a plain link.
-  const videoLinks = externalLinks
-    .map((link) => ({ ...link, videoId: getYouTubeId(link.url) }))
-    .filter((link) => link.videoId);
-  const otherLinks = externalLinks.filter((link) => !getYouTubeId(link.url));
 
   return (
     <article className="poem-detail">
@@ -268,30 +262,12 @@ export default function PoemDetail() {
         </div>
       )}
 
-      {/* Videos (YouTube embeds, privacy-enhanced, lazy) */}
-      {videoLinks.length > 0 && (
-        <div className="poem-detail__videos">
-          {videoLinks.map((link, i) => (
-            <figure key={i} className="poem-detail__video">
-              <iframe
-                src={getYouTubeEmbedUrl(link.videoId)}
-                title={link.label || link.url}
-                loading="lazy"
-                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-              {link.label && <figcaption>{link.label}</figcaption>}
-            </figure>
-          ))}
-        </div>
-      )}
-
       {/* External links */}
-      {otherLinks.length > 0 && (
+      {externalLinks.length > 0 && (
         <div className="poem-detail__links">
           <h3>{t('external_links')}</h3>
           <ul>
-            {otherLinks.map((link, i) => (
+            {externalLinks.map((link, i) => (
               <li key={i}>
                 <a href={link.url} target="_blank" rel="noopener noreferrer">
                   {link.label || link.url}

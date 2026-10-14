@@ -160,29 +160,6 @@ a.poem-detail__author:hover {
   margin-top: var(--space-8);
 }
 
-.poem-detail__videos {
-  margin-top: var(--space-8);
-  display: grid;
-  gap: var(--space-6);
-}
-
-.poem-detail__video {
-  margin: 0;
-}
-
-.poem-detail__video iframe {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  border: 0;
-  border-radius: var(--radius-lg);
-}
-
-.poem-detail__video figcaption {
-  margin-top: var(--space-2);
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
-}
-
 .poem-detail__links a {
   color: var(--color-accent);
   text-decoration: underline;

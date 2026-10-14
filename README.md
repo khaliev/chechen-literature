@@ -142,10 +142,9 @@ URLs : `/`, `/category/*`, `/author/*`, `/poem|song|prose/:id`).
   d'auteur de chaque page d'œuvre.
 - **Partage** sur chaque œuvre : Web Share API sur mobile, copie du lien dans
   le presse-papiers sur desktop.
-- **Vidéos YouTube** : les liens YouTube des `external_links` sont affichés en
-  lecteur embarqué (`youtube-nocookie`, chargement paresseux) ; les autres
-  liens restent une liste classique. Les URLs `placeholder` sont rejetées par
-  `npm run validate-data`.
+- **Liens externes** : liste classique sur chaque page d'œuvre (le lecteur
+  vidéo YouTube a été retiré — sujet clos, voir historique git). Les URLs
+  `placeholder` restent rejetées par `npm run validate-data`.
 - **Impression** : `@media print` dans `globals.css` (texte seul, sans
   navigation ni widgets).
 
