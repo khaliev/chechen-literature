@@ -5897,5 +5897,71 @@
     "available_languages": [
       "ru"
     ]
+  },
+  {
+    "id": "berzloev-farz-doroga-v-ray",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Fard – the Road to Paradise",
+      "fr": "Fard – la voie vers le Paradis",
+      "ru": "Фарз – дорога в Рай"
+    },
+    "author": "Рамазан Берзлоев",
+    "tags": [
+      "вера",
+      "ислам",
+      "иман"
+    ],
+    "text_preview": {
+      "ru": "Пусть в сердце твоём бьется имя Аллах1а / И с искренней верой стекает слеза"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "berzloev-sestryonka-musulmanka",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Little Muslim Sister",
+      "fr": "Petite sœur musulmane",
+      "ru": "Сестрёнка-мусульманка"
+    },
+    "author": "Рамазан Берзлоев",
+    "tags": [
+      "вера",
+      "хиджаб",
+      "ислам"
+    ],
+    "text_preview": {
+      "ru": "Тебе, сестрёнка-мусульманка, стих посвящаю этот я! / Хиджаб твой – скромности и веры безменный символ на века,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "berzloev-ochnites-musulmane",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Wake Up, Muslims",
+      "fr": "Réveillez-vous, musulmans",
+      "ru": "Очнитесь, мусульмане"
+    },
+    "author": "Рамазан Берзлоев",
+    "tags": [
+      "вера",
+      "нравственность",
+      "призыв"
+    ],
+    "text_preview": {
+      "ru": "Смертью друг друга живём, / Жизнью друг друга умираем,"
+    },
+    "available_languages": [
+      "ru"
+    ]
   }
 ]
