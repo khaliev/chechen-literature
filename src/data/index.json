@@ -5963,5 +5963,71 @@
     "available_languages": [
       "ru"
     ]
+  },
+  {
+    "id": "berzloev-molba-chechne",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Plea to Chechnya",
+      "fr": "Supplique à la Tchétchénie",
+      "ru": "Мольба Чечне"
+    },
+    "author": "Рамазан Берзлоев",
+    "tags": [
+      "чечня",
+      "свобода",
+      "тоска"
+    ],
+    "text_preview": {
+      "ru": "О, сердцу милая Чечня, возьми меня приёмным сыном – / Я умираю без тебя. Без твоих горных исполинов!"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "berzloev-rodnoy-grozny",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "My Grozny, Painfully Dear",
+      "fr": "Mon Grozny, douloureusement cher",
+      "ru": "Родной до боли Грозный мой"
+    },
+    "author": "Рамазан Берзлоев",
+    "tags": [
+      "грозный",
+      "даймохк",
+      "город"
+    ],
+    "text_preview": {
+      "ru": "Родной до боли Грозный мой. / Я твой и телом и душой:"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-grokhochet-nebo",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "The Sky Thunders…",
+      "fr": "Le ciel gronde…",
+      "ru": "Грохочет небо…"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "война",
+      "память",
+      "судьба"
+    ],
+    "text_preview": {
+      "ru": "Грохочет небо. В небе – самолет. / Он бомбы для села еще несет."
+    },
+    "available_languages": [
+      "ru"
+    ]
   }
 ]
