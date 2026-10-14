@@ -5742,5 +5742,160 @@
       "ce",
       "fr"
     ]
+  },
+  {
+    "id": "yandarbiev-ojlano-azallin-genara",
+    "type": "poem",
+    "title": {
+      "ce": "Ойлано азаллин генара",
+      "en": "With Thought into the Distance of Ages",
+      "fr": "Par la pensée vers le lointain des siècles",
+      "ru": "Мыслью в даль веков"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "ойла",
+      "азалла",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Ойлано азаллин генара / МаьӀна дан кхарстийча са,"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "yandarbiev-ash-ma-bakha",
+    "type": "poem",
+    "title": {
+      "ce": "Аш ма баха соьга, ирс ду дахар",
+      "en": "Don't Tell Me That Life Is Happiness",
+      "fr": "Ne me dites pas que la vie est bonheur",
+      "ru": "Не говорите мне, что жизнь — счастье"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "дахар",
+      "ирс",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Аш ма баха соьга, ирс ду дахар, / Аш ма баха, дахар хаза ду…"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "yandarbiev-san-pachkhe-yu",
+    "type": "poem",
+    "title": {
+      "ce": "Сан пачхье ю…",
+      "en": null,
+      "fr": null,
+      "ru": null
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "нана",
+      "хӀусам",
+      "лирика"
+    ],
+    "text_preview": {
+      "ce": "Сан пачхье ю — нана еха хӀусам. / Дай баьхначу юьртахь жима цӀа."
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "yandarbiev-shemakh-urartu",
+    "type": "poem",
+    "title": {
+      "ce": "Шемахь ю, хаац, я Урартухь",
+      "en": "In Shem, I Know Not, or in Urartu",
+      "fr": "À Chem, je ne sais, ou en Ourartou",
+      "ru": "В Шеме ли, не знаю, иль в Урарту"
+    },
+    "author": "Зелимхан Яндарбиев",
+    "tags": [
+      "нохчийчоь",
+      "тарих",
+      "философия"
+    ],
+    "text_preview": {
+      "ce": "Шемахь ю, хаац, я Урартухь, / Мисаран гӀамаршлахь яйна —"
+    },
+    "available_languages": [
+      "ce"
+    ]
+  },
+  {
+    "id": "berzloev-bezaman-mokhk",
+    "type": "poem",
+    "title": {
+      "ce": "Безаман мохк",
+      "en": "Land of Love",
+      "fr": "Terre d'amour",
+      "ru": "Земля любви"
+    },
+    "author": "Рамазан Берзлоев",
+    "tags": [
+      "любовь",
+      "чечня",
+      "родина"
+    ],
+    "text_preview": {
+      "ru": "Чечня люблю тебя заочно, словно ребёнок любит мать, / Хотя не раз её не видел и ласку рук не ощущал!"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-gimn-vaynahov",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "Hymn of the Vainakhs",
+      "fr": "Hymne des Vaynakhs",
+      "ru": "Гимн Вайнахов"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "восток",
+      "вайнах",
+      "гимн",
+      "история"
+    ],
+    "text_preview": {
+      "ru": "Во тьме глухих тысячелетий, / Под пылью сказочных времен,"
+    },
+    "available_languages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nunuev-bratyam",
+    "type": "poem",
+    "title": {
+      "ce": null,
+      "en": "To Brothers",
+      "fr": "Aux frères",
+      "ru": "Братьям"
+    },
+    "author": "Саид-Хамзат Нунуев",
+    "tags": [
+      "братья",
+      "вайнах",
+      "судьба"
+    ],
+    "text_preview": {
+      "ru": "Ты печален, брат чеченец. / Ты грустна, сестра моя."
+    },
+    "available_languages": [
+      "ru"
+    ]
   }
 ]

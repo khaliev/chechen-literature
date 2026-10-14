@@ -3,7 +3,7 @@ import { catalogWorks, loadFullWorks } from './catalog.js';
 
 describe('catalogWorks (lightweight, index-only)', () => {
   it('exposes all indexed works with derived author names', () => {
-    expect(catalogWorks.length).toBe(262);
+    expect(catalogWorks.length).toBe(269);
     const nana = catalogWorks.find((w) => w.id === 'nana');
     expect(nana.author_en).toBe('Shaikhi Arsanukayev');
     expect(nana.available_languages).toContain('ce');
@@ -13,7 +13,7 @@ describe('catalogWorks (lightweight, index-only)', () => {
 describe('loadFullWorks (lazy full texts)', () => {
   it('loads every full record and indexes by id', async () => {
     const { fullWorks, fullWorksById } = await loadFullWorks();
-    expect(fullWorks.length).toBe(262);
+    expect(fullWorks.length).toBe(269);
     expect(fullWorksById.get('nana').text.ce).toMatch(/Нана/);
   });
   it('returns the cached instance on subsequent calls', async () => {
